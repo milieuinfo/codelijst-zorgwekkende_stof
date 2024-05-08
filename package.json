@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "codelijst-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main/nodejs/01_codelijst_skos_from_csv.js",
+  "scripts": {
+    "create_metadata": "cd src && node 02_metadata.js"
+  },
+  "keywords": [
+    "milieuinfo",
+    "linked data",
+    "skos",
+    "rdfjs",
+    "dcat",
+    "maven"
+  ],
+  "author": "Geert Van Haute",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "maven-metadata-generator-npm": "^0.2.40"
+  }
+}

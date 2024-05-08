@@ -1,0 +1,1145 @@
+{
+    "@context": {
+        "collections": {
+            "@type": "@id",
+            "@reverse": "member"
+        },
+        "id": "@id",
+        "type": {
+            "@id": "@type",
+            "@type": "@id"
+        },
+        "source": {
+            "@id": "http://purl.org/dc/terms/source",
+            "@type": "@id"
+        },
+        "sparql-service-description-name": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#name",
+            "@type": "@id"
+        },
+        "identifier": {
+            "@id": "http://purl.org/dc/terms/identifier",
+            "@type": "@id"
+        },
+        "hasVersion": {
+            "@id": "http://purl.org/dc/terms/hasVersion",
+            "@type": "@id"
+        },
+        "isVersionOf": {
+            "@id": "http://purl.org/dc/terms/isVersionOf",
+            "@type": "@id"
+        },
+        "label": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#label",
+            "@language": "nl"
+        },
+        "distribution": {
+            "@id": "http://www.w3.org/ns/dcat#distribution",
+            "@type": "@id"
+        },
+        "alternative": {
+            "@id": "http://purl.org/dc/terms/alternative",
+            "@language": "nl"
+        },
+        "description": {
+            "@id": "http://purl.org/dc/terms/description",
+            "@language": "nl"
+        },
+        "spatial": {
+            "@id": "http://purl.org/dc/terms/spatial",
+            "@type": "@id"
+        },
+        "page": {
+            "@id": "http://xmlns.com/foaf/0.1/page",
+            "@type": "@id"
+        },
+        "theme": {
+            "@id": "http://www.w3.org/ns/dcat#theme",
+            "@type": "@id"
+        },
+        "title": {
+            "@id": "http://purl.org/dc/terms/title",
+            "@language": "nl"
+        },
+        "landingPage": {
+            "@id": "http://www.w3.org/ns/dcat#landingPage",
+            "@type": "@id"
+        },
+        "rightsHolder": {
+            "@id": "http://purl.org/dc/terms/rightsHolder",
+            "@type": "@id"
+        },
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "accrualPeriodicity": {
+            "@id": "http://purl.org/dc/terms/accrualPeriodicity",
+            "@type": "@id"
+        },
+        "publisher": {
+            "@id": "http://purl.org/dc/terms/publisher",
+            "@type": "@id"
+        },
+        "dct.language": {
+            "@id": "http://purl.org/dc/terms/language",
+            "@type": "@id"
+        },
+        "contactPoint": {
+            "@id": "http://www.w3.org/ns/dcat#contactPoint",
+            "@type": "@id"
+        },
+        "temporal": {
+            "@id": "http://purl.org/dc/terms/temporal",
+            "@type": "@id"
+        },
+        "issued": {
+            "@id": "http://purl.org/dc/terms/issued",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "accessRights": {
+            "@id": "http://purl.org/dc/terms/accessRights",
+            "@type": "@id"
+        },
+        "license": {
+            "@id": "http://purl.org/dc/terms/license",
+            "@type": "@id"
+        },
+        "accessURL": {
+            "@id": "http://www.w3.org/ns/dcat#accessURL",
+            "@type": "@id"
+        },
+        "compressFormat": {
+            "@id": "http://www.w3.org/ns/dcat#compressFormat",
+            "@type": "@id"
+        },
+        "downloadURL": {
+            "@id": "http://www.w3.org/ns/dcat#downloadURL",
+            "@type": "@id"
+        },
+        "mediaType": {
+            "@id": "http://www.w3.org/ns/dcat#mediaType",
+            "@type": "@id"
+        },
+        "format": {
+            "@id": "http://purl.org/dc/terms/format",
+            "@type": "@id"
+        },
+        "versionInfo": {
+            "@id": "http://spdx.org/rdf/terms#versionInfo"
+        },
+        "packageName": {
+            "@id": "http://spdx.org/rdf/terms#packageName"
+        },
+        "packageFileName": {
+            "@id": "http://spdx.org/rdf/terms#packageFileName"
+        },
+        "downloadLocation": {
+            "@id": "http://spdx.org/rdf/terms#downloadLocation",
+            "@type": "@id"
+        },
+        "relationshipType_packageOf": {
+            "@id": "http://spdx.org/rdf/terms#relationshipType_packageOf",
+            "@type": "@id"
+        },
+        "availableGraphs": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#availableGraphs",
+            "@type": "@id"
+        },
+        "resultFormat": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#resultFormat",
+            "@type": "@id"
+        },
+        "feature": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#feature",
+            "@type": "@id"
+        },
+        "supportedLanguage": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#supportedLanguage",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#url",
+            "@type": "@id"
+        },
+        "comment": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "@language": "nl"
+        },
+        "defaultDataset": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultDataset",
+            "@type": "@id"
+        },
+        "endpoint": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#endpoint",
+            "@type": "@id"
+        },
+        "namedGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#namedGraph",
+            "@type": "@id"
+        },
+        "homepage": {
+            "@id": "http://xmlns.com/foaf/0.1/homepage",
+            "@type": "@id"
+        },
+        "service": {
+            "@id": "http://www.w3.org/ns/dcat#service",
+            "@type": "@id"
+        },
+        "rootResource": {
+            "@id": "http://rdfs.org/ns/void#rootResource",
+            "@type": "@id"
+        },
+        "dataset": {
+            "@id": "http://www.w3.org/ns/dcat#dataset",
+            "@type": "@id"
+        },
+        "servesDataset": {
+            "@id": "http://www.w3.org/ns/dcat#servesDataset",
+            "@type": "@id"
+        },
+        "endpointDescription": {
+            "@id": "http://www.w3.org/ns/dcat#endpointDescription",
+            "@type": "@id"
+        },
+        "endpointURL": {
+            "@id": "http://www.w3.org/ns/dcat#endpointURL",
+            "@type": "@id"
+        },
+        "conformsTo": {
+            "@id": "http://purl.org/dc/terms/conformsTo",
+            "@type": "@id"
+        },
+        "dc.identifier": {
+            "@id": "http://purl.org/dc/elements/1.1/identifier"
+        },
+        "dc.language": {
+            "@id": "http://purl.org/dc/elements/1.1/language",
+            "@language": "nl"
+        },
+        "dc.source": {
+            "@id": "http://purl.org/dc/elements/1.1/source"
+        },
+        "version": {
+            "@id": "http://www.w3.org/2002/07/owl#versionInfo"
+        },
+        "name": {
+            "@id": "http://spdx.org/rdf/terms#name"
+        },
+        "seeAlso": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+            "@type": "@id"
+        },
+        "inScheme": {
+            "@id": "http://www.w3.org/2004/02/skos/core#inScheme",
+            "@type": "@id"
+        },
+        "topConceptOf": {
+            "@id": "http://www.w3.org/2004/02/skos/core#topConceptOf",
+            "@type": "@id"
+        },
+        "hasTopConcept": {
+            "@id": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+            "@type": "@id"
+        },
+        "uri": {
+            "@id": "@id",
+            "@type": "@id"
+        },
+        "prefLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#prefLabel",
+            "@language": "nl"
+        },
+        "notation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#notation"
+        },
+        "altLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
+            "@language": "nl"
+        },
+        "note": {
+            "@id": "http://www.w3.org/2004/02/skos/core#note",
+            "@language": "nl"
+        },
+        "definition": {
+            "@id": "http://www.w3.org/2004/02/skos/core#definition",
+            "@language": "nl"
+        },
+        "member": {
+            "@id": "http://www.w3.org/2004/02/skos/core#member",
+            "@type": "@id"
+        },
+        "casNumber": {
+            "@id": "http://dbpedia.org/ontology/casNumber"
+        },
+        "references": {
+            "@id": "http://purl.org/dc/terms/references",
+            "@type": "@id"
+        },
+        "isReferencedBy": {
+            "@id": "http://purl.org/dc/terms/isReferencedBy",
+            "@type": "@id"
+        },
+        "relation": {
+            "@id": "http://purl.org/dc/terms/relation",
+            "@type": "@id"
+        },
+        "graph": {
+            "@id": "@graph"
+        },
+        "broaderTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broaderTransitive",
+            "@type": "@id"
+        },
+        "broadMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broadMatch",
+            "@type": "@id"
+        },
+        "closeMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#closeMatch",
+            "@type": "@id"
+        },
+        "exactMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#exactMatch",
+            "@type": "@id"
+        },
+        "mappingRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#mappingRelation",
+            "@type": "@id"
+        },
+        "broader": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broader",
+            "@type": "@id"
+        },
+        "narrower": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrower",
+            "@type": "@id"
+        },
+        "narrowerTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowerTransitive",
+            "@type": "@id"
+        },
+        "narrowMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowMatch",
+            "@type": "@id"
+        },
+        "semanticRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#semanticRelation",
+            "@type": "@id"
+        },
+        "belongsTo": {
+            "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
+            "@type": "@id"
+        },
+        "concept": "https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/",
+        "collectie": "https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "adms": "http://www.w3.org/ns/adms#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "conceptscheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "datasets": "https://datasets.omgeving.vlaanderen.be/",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "dbo": "http://dbpedia.org/ontology/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dct": "http://purl.org/dc/terms/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
+        "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
+        "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
+        "omg_catalog_doc": "https://data.omgeving.vlaanderen.be/doc/catalog/",
+        "omg_collection": "https://data.omgeving.vlaanderen.be/id/collection/",
+        "omg_dataservice": "https://data.omgeving.vlaanderen.be/id/dataservice/",
+        "omg_dataset_doc": "https://data.omgeving.vlaanderen.be/doc/dataset/",
+        "omg_dataset": "https://data.omgeving.vlaanderen.be/id/dataset/",
+        "omg_distribution_doc": "https://data.omgeving.vlaanderen.be/doc/distribution/",
+        "omg_distribution": "https://data.omgeving.vlaanderen.be/id/distribution/",
+        "omg_graphcollection": "https://data.omgeving.vlaanderen.be/id/graphcollection/",
+        "omg_graph": "https://data.omgeving.vlaanderen.be/id/graph/",
+        "omg_id": "https://data.omgeving.vlaanderen.be/id/",
+        "omg_named_graph": "https://data.omgeving.vlaanderen.be/id/namedgraph/",
+        "omg_ontology": "https://data.omgeving.vlaanderen.be/id/ontology/",
+        "omg_package": "https://data.omgeving.vlaanderen.be/id/package/",
+        "omg_periodoftime": "https://data.omgeving.vlaanderen.be/id/periodoftime/",
+        "omg_service": "https://data.omgeving.vlaanderen.be/id/service/",
+        "omg_vcard": "https://data.omgeving.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "repo": "https://repo.omgeving.vlaanderen.be/artifactory/release/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "ts": "http://www.w3.org/ns/formats/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "void": "http://rdfs.org/ns/void#",
+        "wise": "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "@base": "https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/"
+    },
+    "graph": [
+        {
+            "id": "collectie:c_l_harmonized_classification",
+            "type": "skos:Collection",
+            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "member": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
+            ],
+            "prefLabel": "C&L Harmonized classification"
+        },
+        {
+            "id": "collectie:edlists_org_list_i",
+            "type": "skos:Collection",
+            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "member": [
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
+            ],
+            "prefLabel": "edlists.org List I"
+        },
+        {
+            "id": "collectie:reach_svhcc_candidate_list",
+            "type": "skos:Collection",
+            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "member": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
+            ],
+            "prefLabel": "REACH SVHC Candidate list"
+        },
+        {
+            "id": "collectie:uba_pmt",
+            "type": "skos:Collection",
+            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "member": [
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
+            ],
+            "prefLabel": "UBA PMT"
+        },
+        {
+            "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "conceptscheme:zorgwekkende_stoffen",
+            "type": "skos:ConceptScheme",
+            "prefLabel": "Codelijst zorgwekkende stoffen"
+        }
+    ]
+}
