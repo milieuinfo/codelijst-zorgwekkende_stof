@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "codelijst-matrix",
+  "name": "codelijst-zorgwekkende_stof",
   "version": "1.0.0",
   "description": "",
   "main": "src/main/nodejs/01_codelijst_skos_from_csv.js",

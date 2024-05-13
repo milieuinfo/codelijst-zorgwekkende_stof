@@ -69,7 +69,7 @@ Release:
 ---
 version: 2
 plan:
-  key: CODELIJST-MATRIX
+  key: CODELIJST-ZORGWEKKENDESTOF
 
 
 plan-permissions:
