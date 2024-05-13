@@ -1,191 +1,191 @@
-uri,type,prefLabel,,inScheme,Naam,collections,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,UBA PMT
+uri,type,prefLabel,topConceptOf,inScheme,Naam,collections,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,UBA PMT
 conceptscheme:zorgwekkende_stoffen,,Codelijst zorgwekkende stoffen,,,,,,,,,
 collectie:c_l_harmonized_classification,,C&L Harmonized classification,,conceptscheme:zorgwekkende_stoffen,,,,,,,
 collectie:edlists_org_list_i,,edlists.org List I,,conceptscheme:zorgwekkende_stoffen,,,,,,,
 collectie:pop_regulation,,POP Regulation,,conceptscheme:zorgwekkende_stoffen,,,,,,,
 collectie:reach_svhcc_candidate_list,,REACH SVHC Candidate list,,conceptscheme:zorgwekkende_stoffen,,,,,,,
 collectie:uba_pmt,,UBA PMT,,conceptscheme:zorgwekkende_stoffen,,,,,,,
-CXGONMQFMIYUJR-UHFFFAOYSA-N,skos:Concept,,,,Tricosafluorododecanig zuur,collectie:reach_svhcc_candidate_list,,,,1,
-DKGAVHZHDRPRBM-UHFFFAOYSA-N,skos:Concept,,,,2-methylpropan-2-ol,collectie:uba_pmt,,,,,1
-JANBFCARANRIKJ-UHFFFAOYSA-N,skos:Concept,,,,Diisopentyl phthalate,collectie:reach_svhcc_candidate_list,,,,1,
-JANBFCARANRIKJ-UHFFFAOYSA-N,skos:Concept,,,,diisopentylphthalate,collectie:c_l_harmonized_classification,1,,,,
-JBIJLHTVPXGSAM-UHFFFAOYSA-N,skos:Concept,,,,2-naphthylamine,collectie:c_l_harmonized_classification,1,,,,
-KCXZNSGUUQJJTR-UHFFFAOYSA-N,skos:Concept,,,,Dihexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-LVDGGZAZAYHXEY-UHFFFAOYSA-N,skos:Concept,,,,Pentacosafluorotridecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
-MQIUGAXCHLFZKX-UHFFFAOYSA-N,skos:Concept,,,,Di-n-octyl phthalate (DNOP),,,,,,
-PCIUEQPBYFRTEM-UHFFFAOYSA-N,skos:Concept,,,,Nonadecafluorodecanoic acid,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-PXUULQAPEKKVAH-UHFFFAOYSA-N,skos:Concept,,,,Undecafluorohexanoic acid,,,,,,
-QZHDEAJFRJCDMF-UHFFFAOYSA-N,skos:Concept,,,,Perfluorohexane-1-sulphonic acid,collectie:reach_svhcc_candidate_list,,,,1,
-RNVCVTLRINQCPJ-UHFFFAOYSA-N,skos:Concept,,,,<i>o</i>-toluidine|2-aminotoluene,collectie:c_l_harmonized_classification,1,,,,
-RNVCVTLRINQCPJ-UHFFFAOYSA-N,skos:Concept,,,,o-toluidine,collectie:reach_svhcc_candidate_list,,,,1,
-RUDINRUXCKIXAJ-UHFFFAOYSA-N,skos:Concept,,,,Heptacosafluorotetradecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
-SIDINRCMMRKXGQ-UHFFFAOYSA-N,skos:Concept,,,,Henicosafluoroundecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
-UZUFPBIDKMEQEQ-UHFFFAOYSA-N,skos:Concept,,,,Perfluorononan-1-oic-acid,collectie:reach_svhcc_candidate_list,,,,1,
-UZUFPBIDKMEQEQ-UHFFFAOYSA-N,skos:Concept,,,,Perfluorononan-1-oic acid,collectie:c_l_harmonized_classification,1,,,,
-VAYGXNSJCAHWJZ-UHFFFAOYSA-N,skos:Concept,,,,Dimethyl sulphate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-VIONGDJUYAYOPU-UHFFFAOYSA-N,skos:Concept,,,,"3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid",collectie:uba_pmt,,,,,1
-WMOVHXAZOJBABW-UHFFFAOYSA-N,skos:Concept,,,,tert-butyl acetate,collectie:uba_pmt,,,,,1
-YBRVSVVVWCFQMG-UHFFFAOYSA-N,skos:Concept,,,,"4,4'- Diaminodiphenylmethane (MDA)",collectie:reach_svhcc_candidate_list,,,,1,
-YBRVSVVVWCFQMG-UHFFFAOYSA-N,skos:Concept,,,,"4,4'-diaminodiphenylmethane|4,4'-methylenedianiline",collectie:c_l_harmonized_classification,1,,,,
-ZAFNJMIOTHYJRJ-UHFFFAOYSA-N,skos:Concept,,,,Diisopropyl ether,collectie:uba_pmt,,,,,1
-ZMXDDKWLCZADIW-UHFFFAOYSA-N,skos:Concept,,,,"<i>N</i>,<i>N</i>-dimethylformamide|dimethyl formamide",collectie:c_l_harmonized_classification,1,,,,
-ZMXDDKWLCZADIW-UHFFFAOYSA-N,skos:Concept,,,,"N,N-dimethylformamide",collectie:reach_svhcc_candidate_list,,,,1,
-ZNQVEEAIQZEUHB-UHFFFAOYSA-N,skos:Concept,,,,2-ethoxyethanol,collectie:reach_svhcc_candidate_list,,,,1,
-ZNQVEEAIQZEUHB-UHFFFAOYSA-N,skos:Concept,,,,2-ethoxyethanol|ethylene glycol monoethyl ether,collectie:c_l_harmonized_classification,1,,,,
-ZVFDTKUVRCTHQE-UHFFFAOYSA-N,skos:Concept,,,,Di-“isodecyl” phthalate (DIDP),,,,,,
-AFDRCEOKCOUICI-UHFFFAOYSA-N,skos:Concept,,,,"2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",collectie:uba_pmt,,,,,1
-WRPIRSINYZBGPK-UHFFFAOYSA-N,skos:Concept,,,,Quinoxyfen,,,,,,
-KSMVNVHUTQZITP-UHFFFAOYSA-N,skos:Concept,,,,"2,3,7,8-Tetrachlorodibenzofuran",,,,,,
-SBMIVUVRFPGOEB-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,7,8-Pentachlorodibenzofuran",,,,,,
-OGBQILNBLMPPDP-UHFFFAOYSA-N,skos:Concept,,,,"2,3,4,7,8-Pentachlorodibenzofuran",,,,,,
-LVYBAQIVPKCOEE-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,7,8-Hexachlorodibenzofuran",,,,,,
-JEYJJJXOFWNEHN-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,6,7,8-Hexachlorodibenzofuran",,,,,,
-PYUSJFJVDVSXIU-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,7,8,9-Hexachlorodibenzofuran",,,,,,
-XTAHLACQOVXINQ-UHFFFAOYSA-N,skos:Concept,,,,"2,3,4,6,7,8-Hexachlorodibenzofuran",,,,,,
-VEZCTZWLJYWARH-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",,,,,,
-RHIROFAGUQOFLU-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",,,,,,
-FSPZPQQWDODWAU-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",,,,,,
-WCYYQNSQJHPVMG-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,7,8-Hexachlorodibenzodioxin",,,,,,
-YCLUIPQDHHPDJJ-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",,,,,,
-LGIRBUBHIWTVCK-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",,,,,,
-WCLNVRQZUKYVAI-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",,,,,,
-FOIBFBMSLDGNHL-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",,,,,,
-RQNWIZPPADIBDY-UHFFFAOYSA-N,skos:Concept,,,,Arsenic,,,,,,
-ATBAMAFKBVZNFJ-UHFFFAOYSA-N,skos:Concept,,,,beryllium,collectie:c_l_harmonized_classification,1,,,,
-HDHLIWCXDDZUFH-UHFFFAOYSA-N,skos:Concept,,,,Cybutryne,,,,,,
-SUSRORUBZHMPCO-UHFFFAOYSA-N,skos:Concept,,,,Bifenox,,,,,,
-DDBMQDADIHOWIC-UHFFFAOYSA-N,skos:Concept,,,,Aclonifen,,,,,,
-GUTLYIVDDKVIGB-UHFFFAOYSA-N,skos:Concept,,,,cobalt,collectie:c_l_harmonized_classification,1,,,,
-WABPQHHGFIMREM-UHFFFAOYSA-N,skos:Concept,,,,Lead,collectie:reach_svhcc_candidate_list,,,,1,
-PUIYMUZLKQOUOZ-UHFFFAOYSA-N,skos:Concept,,,,Isoproturon,,,,,,
-WJNRPILHGGKWCK-UHFFFAOYSA-N,skos:Concept,,,,Propazine,collectie:uba_pmt,,,,,1
-IROINLKCQGIITA-UHFFFAOYSA-N,skos:Concept,,,,Terbutryn,,,,,,
-QPFMBZIOSGYJDE-UHFFFAOYSA-N,skos:Concept,,,,"1,1,2,2-Tetrachloroethane",,,,,,
-UBOXGVDOUJQMTN-UHFFFAOYSA-N,skos:Concept,,,,"1,1,2-trichloroethane",collectie:uba_pmt,,,,,1
-QVLAWKAXOMEXPM-UHFFFAOYSA-N,skos:Concept,,,,"1,1,1,2-Tetrachloroethane",,,,,,
-CFXQEHVMCRXUSD-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3-trichloropropane",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list|collectie:uba_pmt,1,,,1,1
-ZPQOPVIELGIULI-UHFFFAOYSA-N,skos:Concept,,,,"1,3-dichlorobenzene",collectie:uba_pmt,,,,,1
-VYZAHLCBVHPDDF-UHFFFAOYSA-N,skos:Concept,,,,"1-chloro-2,4-dinitrobenzene",collectie:uba_pmt,,,,,1
-CZGCEKJOLUNIFY-UHFFFAOYSA-N,skos:Concept,,,,1-chloro-4-nitrobenzene,collectie:uba_pmt,,,,,1
-HGUFODBRKLSHSI-UHFFFAOYSA-N,skos:Concept,,,,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",,,,,,
-HFZWRUODUSTPEG-UHFFFAOYSA-N,skos:Concept,,,,"2,4-dichlorophenol",collectie:uba_pmt,,,,,1
-YACLQRRMGMJLJV-UHFFFAOYSA-N,skos:Concept,,,,"2-chlorobuta-1,3-diene",collectie:uba_pmt,,,,,1
-YACLQRRMGMJLJV-UHFFFAOYSA-N,skos:Concept,,,,"chloroprene (stabilised)|2-chlorobuta-1,3-diene (stabilised)",collectie:c_l_harmonized_classification,1,,,,
-PBGKNXWGYQPUJK-UHFFFAOYSA-N,skos:Concept,,,,4-chloro-2-nitroaniline,collectie:uba_pmt,,,,,1
-VHHHONWQHHHLTI-UHFFFAOYSA-N,skos:Concept,,,,Hexachloroethane,,,,,,
-CYTYCFOTNPOANT-UHFFFAOYSA-N,skos:Concept,,,,Tetrachloroethylene,collectie:uba_pmt,,,,,1
-VZGDMQKNWNREIO-UHFFFAOYSA-N,skos:Concept,,,,Carbon tetrachloride,collectie:uba_pmt,,,,,1
-HEDRZPFGACZZDS-UHFFFAOYSA-N,skos:Concept,,,,Chloroform,collectie:uba_pmt,,,,,1
-HEDRZPFGACZZDS-UHFFFAOYSA-N,skos:Concept,,,,Chloroform;Trichloromethane,,,,,,
-CWRYPZZKDGJXCA-UHFFFAOYSA-N,skos:Concept,,,,Acenaphthene,collectie:uba_pmt,,,,,1
-MWPLVEDNUUSJAV-UHFFFAOYSA-N,skos:Concept,,,,Anthracene,collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
-DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,,,benz[<i>a</i>]anthracene,collectie:c_l_harmonized_classification,1,,,,
-DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,,,Benz[a]anthracene,collectie:reach_svhcc_candidate_list,,,,1,
-DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,,,Benzo[a]anthracene (BaA),,,,,,
-GYFAGKUZYNFMBN-UHFFFAOYSA-N,skos:Concept,,,,Benzo[ghi]perylene,collectie:reach_svhcc_candidate_list,,,,1,
-GYFAGKUZYNFMBN-UHFFFAOYSA-N,skos:Concept,,,,"Benzo(g,h,i)perylene",,,,,,
-LHRCREOYAASXPZ-UHFFFAOYSA-N,skos:Concept,,,,"dibenz[<i>a</i>,<i>h</i>]anthracene",collectie:c_l_harmonized_classification,1,,,,
-LHRCREOYAASXPZ-UHFFFAOYSA-N,skos:Concept,,,,"Dibenzo[a,h]anthracene (DBAhA)",,,,,,
-YNPNZTXNASCQKK-UHFFFAOYSA-N,skos:Concept,,,,Phenanthrene,collectie:reach_svhcc_candidate_list,,,,1,
-GVEPBJHOBDJJJI-UHFFFAOYSA-N,skos:Concept,,,,Fluoranthene,collectie:reach_svhcc_candidate_list,,,,1,
-BBEAQIROQSPTKN-UHFFFAOYSA-N,skos:Concept,,,,Pyrene,collectie:reach_svhcc_candidate_list,,,,1,
-PAAZPARNPHGIKF-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dibromoethane",collectie:c_l_harmonized_classification|collectie:uba_pmt,1,,,,1
-HUWXDEQWWKGHRV-UHFFFAOYSA-N,skos:Concept,,,,"3,3'-dichlorobenzidine|3,3'-dichlorobiphenyl-4,4'-ylenediamine",collectie:c_l_harmonized_classification,1,,,,
-SDYWXFYBZPNOFX-UHFFFAOYSA-N,skos:Concept,,,,"3,4-dichloroaniline",collectie:uba_pmt,,,,,1
-PNPCRKVUWYDDST-UHFFFAOYSA-N,skos:Concept,,,,3-chloroaniline,collectie:uba_pmt,,,,,1
-QSNSCYSYFYORTR-UHFFFAOYSA-N,skos:Concept,,,,4-chloroaniline,collectie:c_l_harmonized_classification|collectie:uba_pmt,1,,,,1
-BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,,,Chloroethene,,,,,,
-BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,,,Chloroethylene,collectie:uba_pmt,,,,,1
-BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,,,vinyl chloride|chloroethylene,collectie:c_l_harmonized_classification,1,,,,
-DOIRQSBPFJWKBE-UHFFFAOYSA-N,skos:Concept,,,,Dibutyl phthalate (DBP),collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
-DOIRQSBPFJWKBE-UHFFFAOYSA-N,skos:Concept,,,,dibutyl phthalate|DBP,collectie:c_l_harmonized_classification,1,,,,
-IPKKHRVROFYTEK-UHFFFAOYSA-N,skos:Concept,,,,di-n-pentyl phthalate,collectie:c_l_harmonized_classification,1,,,,
-IPKKHRVROFYTEK-UHFFFAOYSA-N,skos:Concept,,,,Dipentyl phthalate (DPP),collectie:reach_svhcc_candidate_list,,,,1,
-XCSGPAVHZFQHGE-UHFFFAOYSA-N,skos:Concept,,,,Alachlor,,,,,,
-BZLVMXJERCGZMT-UHFFFAOYSA-N,skos:Concept,,,,tert-butyl methyl ether,collectie:uba_pmt,,,,,1
-ALEROMXYYSQFLX-UHFFFAOYSA-N,skos:Concept,,,,Diisohexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-GOOHAUXETOMSMM-UHFFFAOYSA-N,skos:Concept,,,,Methyloxirane (Propylene oxide),collectie:reach_svhcc_candidate_list,,,,1,
-GOOHAUXETOMSMM-UHFFFAOYSA-N,skos:Concept,,,,"propylene oxide|1,2-epoxypropane|methyloxirane",collectie:c_l_harmonized_classification,1,,,,
-HBGGXOJOCNVPFY-UHFFFAOYSA-N,skos:Concept,,,,"1,2-Benzenedicarboxylic acid, di-C8-10-branched alkyl esters, C9-rich",,,,,,
-HFACYLZERDEVSX-UHFFFAOYSA-N,skos:Concept,,,,Benzidine,,,,,,
-HFACYLZERDEVSX-UHFFFAOYSA-N,skos:Concept,,,,"benzidine|1,1'-biphenyl-4,4'-diamine|4,4'-diaminobiphenyl|biphenyl-4,4'-ylenediamine",collectie:c_l_harmonized_classification,1,,,,
-IRIAEXORFWYRCZ-UHFFFAOYSA-N,skos:Concept,,,,BBP|benzyl butyl phthalate,collectie:c_l_harmonized_classification,1,,,,
-IRIAEXORFWYRCZ-UHFFFAOYSA-N,skos:Concept,,,,Benzyl butyl phthalate (BBP),collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
-JGTNAGYHADQMCM-UHFFFAOYSA-N,skos:Concept,,,,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid",collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
-JSFITYFUKSFPBZ-UHFFFAOYSA-N,skos:Concept,,,,4-Nonylphenol (branched),,,,,,
-JSFITYFUKSFPBZ-UHFFFAOYSA-N,skos:Concept,,,,"Phenol, 4-nonyl-, branched",collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
-BFCFYVKQTRLZHA-UHFFFAOYSA-N,skos:Concept,,,,1-chloro-2-nitrobenzene,collectie:uba_pmt,,,,,1
-CSEBNABAWMZWIF-UHFFFAOYSA-N,skos:Concept,,,,"2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid",collectie:reach_svhcc_candidate_list,,,,1,
-CXNVOWPRHWWCQR-UHFFFAOYSA-N,skos:Concept,,,,4-chloro-<i>o</i>-toluidine,collectie:c_l_harmonized_classification,1,,,,
-KNKRKFALVUDBJE-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dichloropropane",collectie:uba_pmt,,,,,1
-KNKRKFALVUDBJE-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dichloropropane|propylene dichloride",collectie:c_l_harmonized_classification,1,,,,
-MGWAVDBGNNKXQV-UHFFFAOYSA-N,skos:Concept,,,,Diisobutyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-MGWAVDBGNNKXQV-UHFFFAOYSA-N,skos:Concept,,,,Diisobutyl phthalate (DIBP),collectie:edlists_org_list_i,,1,,,
-OCJBOOLMMGQPQU-UHFFFAOYSA-N,skos:Concept,,,,"1,4-Dichlorobenzene",,,,,,
-ODCWYMIRDDJXKW-UHFFFAOYSA-N,skos:Concept,,,,Simazine,,,,,,
-UOCLXMDMGBRAIB-UHFFFAOYSA-N,skos:Concept,,,,"1,1,1-trichloroethane",collectie:uba_pmt,,,,,1
-VOZKAJLKRJDJLL-UHFFFAOYSA-N,skos:Concept,,,,"4-methyl-<i>m</i>-phenylenediamine|2,4-toluenediamine",collectie:c_l_harmonized_classification,1,,,,
-VOZKAJLKRJDJLL-UHFFFAOYSA-N,skos:Concept,,,,"4-methyl-m-phenylenediamine (toluene-2,4-diamine)",collectie:reach_svhcc_candidate_list,,,,1,
-WLZRMCYVCSSEQC-UHFFFAOYSA-N,skos:Concept,,,,Cadmium,collectie:reach_svhcc_candidate_list,,,,1,
-WSFSSNUMVMOOMR-UHFFFAOYSA-N,skos:Concept,,,,Formaldehyde,,,,,,
-WSFSSNUMVMOOMR-UHFFFAOYSA-N,skos:Concept,,,,formaldehyde …%,collectie:c_l_harmonized_classification,1,,,,
-WSLDOOZREJYCGB-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dichloroethane",collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
-WSLDOOZREJYCGB-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dichloroethane|ethylene dichloride",collectie:c_l_harmonized_classification,1,,,,
-FSAVDKDHPDSCTO-WQLSENKSSA-N,skos:Concept,,,,Chlorfenvinphos,,,,,,
-JVZREVRTMWNFME-UHFFFAOYSA-N,skos:Concept,,,,Perfluoroheptanoic acid; tridecafluoroheptanoic acid,collectie:c_l_harmonized_classification,1,,,,
-JVZREVRTMWNFME-UHFFFAOYSA-N,skos:Concept,,,,Perfluoroheptanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
-KCXMKQUNVWSEMD-UHFFFAOYSA-N,skos:Concept,,,,α-chlorotoluene|benzyl chloride,collectie:c_l_harmonized_classification,1,,,,
-KFUSEUYYWQURPO-OWOJBTEDSA-N,skos:Concept,,,,trans-dichloroethylene,collectie:uba_pmt,,,,,1
-MVPPADPHJFYWMZ-UHFFFAOYSA-N,skos:Concept,,,,Chlorobenzene,collectie:uba_pmt,,,,,1
-NLHHRLWOUZZQLW-UHFFFAOYSA-N,skos:Concept,,,,acrylonitrile,collectie:c_l_harmonized_classification,1,,,,
-XKJMBINCVNINCA-UHFFFAOYSA-N,skos:Concept,,,,"linuron (ISO)|3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",collectie:c_l_harmonized_classification,1,,,,
-XSTXAVWGXDQKEL-UHFFFAOYSA-N,skos:Concept,,,,Trichloroethylene,collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
-XSTXAVWGXDQKEL-UHFFFAOYSA-N,skos:Concept,,,,trichloroethylene|trichloroethene,collectie:c_l_harmonized_classification,1,,,,
-YMWUJEATGCHHMB-UHFFFAOYSA-N,skos:Concept,,,,Dichloromethane,,,,,,
-YMWUJEATGCHHMB-UHFFFAOYSA-N,skos:Concept,,,,dichloromethane; methylene chloride,collectie:uba_pmt,,,,,1
-ZXFXBSWRVIQKOD-UHFFFAOYSA-N,skos:Concept,,,,Heptachlor epoxide,,,,,,
-ALEROMXYYSQFLX-UHFFFAOYSA-N,skos:Concept,,,,"1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-PXBRQCKWGAHEHS-UHFFFAOYSA-N,skos:Concept,,,,Dichlorodifluoromethane,collectie:uba_pmt,,,,,1
-RFFLAFLAYFXFSW-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dichlorobenzene",collectie:uba_pmt,,,,,1
-RKELNIPLHQEBJO-UHFFFAOYSA-N,skos:Concept,,,,"1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",collectie:reach_svhcc_candidate_list,,,,1,
-RKELNIPLHQEBJO-UHFFFAOYSA-N,skos:Concept,,,,"1,2-benzenedicarboxylic acid|di-C<sub>6-8</sub>-branched alkylesters, C<sub>7</sub>-rich",collectie:c_l_harmonized_classification,1,,,,
-SBPBAQFWLVIOKP-UHFFFAOYSA-N,skos:Concept,,,,Chlorpyrifos,,,,,,
-UFWIBTONFRDIAS-UHFFFAOYSA-N,skos:Concept,,,,Naphthalene,,,,,,
-VOWAEIGWURALJQ-UHFFFAOYSA-N,skos:Concept,,,,Dicyclohexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-VOWAEIGWURALJQ-UHFFFAOYSA-N,skos:Concept,,,,Dicyclohexyl phthalate (DCHP),collectie:edlists_org_list_i,,1,,,
-WBEJYOJJBDISQU-UHFFFAOYSA-N,skos:Concept,,,,"1,2-dibromo-3-chloropropane",collectie:c_l_harmonized_classification,1,,,,
-WDECIBYCCFPHNR-UHFFFAOYSA-N,skos:Concept,,,,Chrysen (CHR),,,,,,
-WDECIBYCCFPHNR-UHFFFAOYSA-N,skos:Concept,,,,Chrysene,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
-WDMKCPIVJOGHBF-UHFFFAOYSA-N,skos:Concept,,,,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",,,,,,
-XMTQQYYKAHVGBJ-UHFFFAOYSA-N,skos:Concept,,,,Diuron,,,,,,
-XMTQQYYKAHVGBJ-UHFFFAOYSA-N,skos:Concept,,,,"diuron (ISO); 3-(3,4-dichlorophenyl)-1,1-dimethylurea",collectie:uba_pmt,,,,,1
-YXFVVABEGXRONW-UHFFFAOYSA-N,skos:Concept,,,,Toluene,,,,,,
-DEWLEGDTCGBNGU-UHFFFAOYSA-N,skos:Concept,,,,"1,3-dichloro-2-propanol",collectie:c_l_harmonized_classification,1,,,,
-DVKJHBMWWAPEIU-UHFFFAOYSA-N,skos:Concept,,,,4-methyl-m-phenylene diisocyanate,,,,,,
-KAKZBPTYRLMSJV-UHFFFAOYSA-N,skos:Concept,,,,"1,3-butadiene|buta-1,3-diene",collectie:c_l_harmonized_classification,1,,,,
-OAKJQQAXSVQMHS-UHFFFAOYSA-N,skos:Concept,,,,Hydrazine,collectie:c_l_harmonized_classification,1,,,,
-QSHDDOUJBYECFT-UHFFFAOYSA-N,skos:Concept,,,,Mercury,collectie:c_l_harmonized_classification,1,,,,
-RQNWIZPPADIBDY-UHFFFAOYSA-N,skos:Concept,,,,Arsine,,,,,,
-SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,,,<i>N</i>-methyl-2-pyrrolidone|1-methyl-2-pyrrolidone,collectie:c_l_harmonized_classification,1,,,,
-SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,,,1-methyl-2-pyrrolidone,,,,,,
-SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,,,1-Methyl-2-pyrrolidone (NMP),collectie:reach_svhcc_candidate_list,,,,1,
-BRLQWZUYTZBJKN-UHFFFAOYSA-N,skos:Concept,,,,"1-chloro-2,3-epoxypropane|epichlorhydrin",collectie:c_l_harmonized_classification,1,,,,
-HRYZWHHZPQKTII-UHFFFAOYSA-N,skos:Concept,,,,Chloroethane,collectie:uba_pmt,,,,,1
-IBOFVQJTBBUKMU-UHFFFAOYSA-N,skos:Concept,,,,"2,2'-dichloro-4,4'-methylenedianiline",collectie:reach_svhcc_candidate_list,,,,1,
-IBOFVQJTBBUKMU-UHFFFAOYSA-N,skos:Concept,,,,"2,2'-dichloro-4,4'-methylenedianiline|4,4'-methylene bis(2-chloroaniline)",collectie:c_l_harmonized_classification,1,,,,
-KAATUXNTWXVJKI-UHFFFAOYSA-N,skos:Concept,,,,Cypermethrin;zeta-Cypermethrin,,,,,,
-MXWJVTOOROXGIU-UHFFFAOYSA-N,skos:Concept,,,,Atrazine,collectie:uba_pmt,,,,,1
-PXHVJJICTQNCMI-UHFFFAOYSA-N,skos:Concept,,,,Nickel,,,,,,
-RYHBNJHYFVUHQT-UHFFFAOYSA-N,skos:Concept,,,,"1,4-dioxane",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list|collectie:uba_pmt,1,,,1,1
-IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,,,"4,4'-isopropylidenediphenol; Bisphenol A",collectie:edlists_org_list_i,,1,,,
-IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,,,"4,4'-isopropylidenediphenol; bisphenol A|4,4’-isopropylidenediphenol",collectie:c_l_harmonized_classification,1,,,,
-IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,,,"4,4'-isopropylidenediphenol",collectie:reach_svhcc_candidate_list,,,,1,
-RWGFKTVRMDUZSP-UHFFFAOYSA-N,skos:Concept,,,,Cumene,collectie:c_l_harmonized_classification,1,,,,
-UHOVQNZJYSORNB-UHFFFAOYSA-N,skos:Concept,,,,Benzene,collectie:c_l_harmonized_classification,1,,,,
-UGFAIRIUMAVXCW-UHFFFAOYSA-N,skos:Concept,,,,carbon monoxide,collectie:c_l_harmonized_classification,1,,,,
-LGXVIGDEPROXKC-UHFFFAOYSA-N,skos:Concept,,,,"1,1-dichloroethylene",collectie:uba_pmt,,,,,1
-LGXVIGDEPROXKC-UHFFFAOYSA-N,skos:Concept,,,,"1,1-Dichloroethene",,,,,,
-OEBRKCOSUFCWJD-UHFFFAOYSA-N,skos:Concept,,,,Dichlorvos,,,,,,
-NOWKCMXCCJGMRR-UHFFFAOYSA-N,skos:Concept,,,,ethyleneimine|aziridine,collectie:c_l_harmonized_classification,1,,,,
-XNWFRZJHXBZDAG-UHFFFAOYSA-N,skos:Concept,,,,2-methoxyethanol,collectie:reach_svhcc_candidate_list,,,,1,
-XNWFRZJHXBZDAG-UHFFFAOYSA-N,skos:Concept,,,,2-methoxyethanol|ethylene glycol monomethyl ether,collectie:c_l_harmonized_classification,1,,,,
+CXGONMQFMIYUJR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Tricosafluorododecanig zuur,collectie:reach_svhcc_candidate_list,,,,1,
+DKGAVHZHDRPRBM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-methylpropan-2-ol,collectie:uba_pmt,,,,,1
+JANBFCARANRIKJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diisopentyl phthalate,collectie:reach_svhcc_candidate_list,,,,1,
+JANBFCARANRIKJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,diisopentylphthalate,collectie:c_l_harmonized_classification,1,,,,
+JBIJLHTVPXGSAM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-naphthylamine,collectie:c_l_harmonized_classification,1,,,,
+KCXZNSGUUQJJTR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dihexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+LVDGGZAZAYHXEY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Pentacosafluorotridecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
+MQIUGAXCHLFZKX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Di-n-octyl phthalate (DNOP),,,,,,
+PCIUEQPBYFRTEM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Nonadecafluorodecanoic acid,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+PXUULQAPEKKVAH-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Undecafluorohexanoic acid,,,,,,
+QZHDEAJFRJCDMF-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Perfluorohexane-1-sulphonic acid,collectie:reach_svhcc_candidate_list,,,,1,
+RNVCVTLRINQCPJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,<i>o</i>-toluidine|2-aminotoluene,collectie:c_l_harmonized_classification,1,,,,
+RNVCVTLRINQCPJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,o-toluidine,collectie:reach_svhcc_candidate_list,,,,1,
+RUDINRUXCKIXAJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Heptacosafluorotetradecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
+SIDINRCMMRKXGQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Henicosafluoroundecanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
+UZUFPBIDKMEQEQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Perfluorononan-1-oic-acid,collectie:reach_svhcc_candidate_list,,,,1,
+UZUFPBIDKMEQEQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Perfluorononan-1-oic acid,collectie:c_l_harmonized_classification,1,,,,
+VAYGXNSJCAHWJZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dimethyl sulphate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+VIONGDJUYAYOPU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid",collectie:uba_pmt,,,,,1
+WMOVHXAZOJBABW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,tert-butyl acetate,collectie:uba_pmt,,,,,1
+YBRVSVVVWCFQMG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4,4'- Diaminodiphenylmethane (MDA)",collectie:reach_svhcc_candidate_list,,,,1,
+YBRVSVVVWCFQMG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4,4'-diaminodiphenylmethane|4,4'-methylenedianiline",collectie:c_l_harmonized_classification,1,,,,
+ZAFNJMIOTHYJRJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diisopropyl ether,collectie:uba_pmt,,,,,1
+ZMXDDKWLCZADIW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"<i>N</i>,<i>N</i>-dimethylformamide|dimethyl formamide",collectie:c_l_harmonized_classification,1,,,,
+ZMXDDKWLCZADIW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"N,N-dimethylformamide",collectie:reach_svhcc_candidate_list,,,,1,
+ZNQVEEAIQZEUHB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-ethoxyethanol,collectie:reach_svhcc_candidate_list,,,,1,
+ZNQVEEAIQZEUHB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-ethoxyethanol|ethylene glycol monoethyl ether,collectie:c_l_harmonized_classification,1,,,,
+ZVFDTKUVRCTHQE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Di-“isodecyl” phthalate (DIDP),,,,,,
+AFDRCEOKCOUICI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",collectie:uba_pmt,,,,,1
+WRPIRSINYZBGPK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Quinoxyfen,,,,,,
+KSMVNVHUTQZITP-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,3,7,8-Tetrachlorodibenzofuran",,,,,,
+SBMIVUVRFPGOEB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,7,8-Pentachlorodibenzofuran",,,,,,
+OGBQILNBLMPPDP-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,3,4,7,8-Pentachlorodibenzofuran",,,,,,
+LVYBAQIVPKCOEE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,7,8-Hexachlorodibenzofuran",,,,,,
+JEYJJJXOFWNEHN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,6,7,8-Hexachlorodibenzofuran",,,,,,
+PYUSJFJVDVSXIU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,7,8,9-Hexachlorodibenzofuran",,,,,,
+XTAHLACQOVXINQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,3,4,6,7,8-Hexachlorodibenzofuran",,,,,,
+VEZCTZWLJYWARH-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",,,,,,
+RHIROFAGUQOFLU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",,,,,,
+FSPZPQQWDODWAU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",,,,,,
+WCYYQNSQJHPVMG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,7,8-Hexachlorodibenzodioxin",,,,,,
+YCLUIPQDHHPDJJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",,,,,,
+LGIRBUBHIWTVCK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",,,,,,
+WCLNVRQZUKYVAI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",,,,,,
+FOIBFBMSLDGNHL-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",,,,,,
+RQNWIZPPADIBDY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Arsenic,,,,,,
+ATBAMAFKBVZNFJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,beryllium,collectie:c_l_harmonized_classification,1,,,,
+HDHLIWCXDDZUFH-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Cybutryne,,,,,,
+SUSRORUBZHMPCO-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Bifenox,,,,,,
+DDBMQDADIHOWIC-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Aclonifen,,,,,,
+GUTLYIVDDKVIGB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,cobalt,collectie:c_l_harmonized_classification,1,,,,
+WABPQHHGFIMREM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Lead,collectie:reach_svhcc_candidate_list,,,,1,
+PUIYMUZLKQOUOZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Isoproturon,,,,,,
+WJNRPILHGGKWCK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Propazine,collectie:uba_pmt,,,,,1
+IROINLKCQGIITA-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Terbutryn,,,,,,
+QPFMBZIOSGYJDE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1,2,2-Tetrachloroethane",,,,,,
+UBOXGVDOUJQMTN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1,2-trichloroethane",collectie:uba_pmt,,,,,1
+QVLAWKAXOMEXPM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1,1,2-Tetrachloroethane",,,,,,
+CFXQEHVMCRXUSD-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3-trichloropropane",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list|collectie:uba_pmt,1,,,1,1
+ZPQOPVIELGIULI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,3-dichlorobenzene",collectie:uba_pmt,,,,,1
+VYZAHLCBVHPDDF-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1-chloro-2,4-dinitrobenzene",collectie:uba_pmt,,,,,1
+CZGCEKJOLUNIFY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,1-chloro-4-nitrobenzene,collectie:uba_pmt,,,,,1
+HGUFODBRKLSHSI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",,,,,,
+HFZWRUODUSTPEG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,4-dichlorophenol",collectie:uba_pmt,,,,,1
+YACLQRRMGMJLJV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2-chlorobuta-1,3-diene",collectie:uba_pmt,,,,,1
+YACLQRRMGMJLJV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"chloroprene (stabilised)|2-chlorobuta-1,3-diene (stabilised)",collectie:c_l_harmonized_classification,1,,,,
+PBGKNXWGYQPUJK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,4-chloro-2-nitroaniline,collectie:uba_pmt,,,,,1
+VHHHONWQHHHLTI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Hexachloroethane,,,,,,
+CYTYCFOTNPOANT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Tetrachloroethylene,collectie:uba_pmt,,,,,1
+VZGDMQKNWNREIO-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Carbon tetrachloride,collectie:uba_pmt,,,,,1
+HEDRZPFGACZZDS-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chloroform,collectie:uba_pmt,,,,,1
+HEDRZPFGACZZDS-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chloroform;Trichloromethane,,,,,,
+CWRYPZZKDGJXCA-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Acenaphthene,collectie:uba_pmt,,,,,1
+MWPLVEDNUUSJAV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Anthracene,collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
+DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,benz[<i>a</i>]anthracene,collectie:c_l_harmonized_classification,1,,,,
+DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benz[a]anthracene,collectie:reach_svhcc_candidate_list,,,,1,
+DXBHBZVCASKNBY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benzo[a]anthracene (BaA),,,,,,
+GYFAGKUZYNFMBN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benzo[ghi]perylene,collectie:reach_svhcc_candidate_list,,,,1,
+GYFAGKUZYNFMBN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"Benzo(g,h,i)perylene",,,,,,
+LHRCREOYAASXPZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"dibenz[<i>a</i>,<i>h</i>]anthracene",collectie:c_l_harmonized_classification,1,,,,
+LHRCREOYAASXPZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"Dibenzo[a,h]anthracene (DBAhA)",,,,,,
+YNPNZTXNASCQKK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Phenanthrene,collectie:reach_svhcc_candidate_list,,,,1,
+GVEPBJHOBDJJJI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Fluoranthene,collectie:reach_svhcc_candidate_list,,,,1,
+BBEAQIROQSPTKN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Pyrene,collectie:reach_svhcc_candidate_list,,,,1,
+PAAZPARNPHGIKF-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dibromoethane",collectie:c_l_harmonized_classification|collectie:uba_pmt,1,,,,1
+HUWXDEQWWKGHRV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"3,3'-dichlorobenzidine|3,3'-dichlorobiphenyl-4,4'-ylenediamine",collectie:c_l_harmonized_classification,1,,,,
+SDYWXFYBZPNOFX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"3,4-dichloroaniline",collectie:uba_pmt,,,,,1
+PNPCRKVUWYDDST-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,3-chloroaniline,collectie:uba_pmt,,,,,1
+QSNSCYSYFYORTR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,4-chloroaniline,collectie:c_l_harmonized_classification|collectie:uba_pmt,1,,,,1
+BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chloroethene,,,,,,
+BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chloroethylene,collectie:uba_pmt,,,,,1
+BZHJMEDXRYGGRV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,vinyl chloride|chloroethylene,collectie:c_l_harmonized_classification,1,,,,
+DOIRQSBPFJWKBE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dibutyl phthalate (DBP),collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
+DOIRQSBPFJWKBE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,dibutyl phthalate|DBP,collectie:c_l_harmonized_classification,1,,,,
+IPKKHRVROFYTEK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,di-n-pentyl phthalate,collectie:c_l_harmonized_classification,1,,,,
+IPKKHRVROFYTEK-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dipentyl phthalate (DPP),collectie:reach_svhcc_candidate_list,,,,1,
+XCSGPAVHZFQHGE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Alachlor,,,,,,
+BZLVMXJERCGZMT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,tert-butyl methyl ether,collectie:uba_pmt,,,,,1
+ALEROMXYYSQFLX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diisohexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+GOOHAUXETOMSMM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Methyloxirane (Propylene oxide),collectie:reach_svhcc_candidate_list,,,,1,
+GOOHAUXETOMSMM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"propylene oxide|1,2-epoxypropane|methyloxirane",collectie:c_l_harmonized_classification,1,,,,
+HBGGXOJOCNVPFY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-Benzenedicarboxylic acid, di-C8-10-branched alkyl esters, C9-rich",,,,,,
+HFACYLZERDEVSX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benzidine,,,,,,
+HFACYLZERDEVSX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"benzidine|1,1'-biphenyl-4,4'-diamine|4,4'-diaminobiphenyl|biphenyl-4,4'-ylenediamine",collectie:c_l_harmonized_classification,1,,,,
+IRIAEXORFWYRCZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,BBP|benzyl butyl phthalate,collectie:c_l_harmonized_classification,1,,,,
+IRIAEXORFWYRCZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benzyl butyl phthalate (BBP),collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
+JGTNAGYHADQMCM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid",collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
+JSFITYFUKSFPBZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,4-Nonylphenol (branched),,,,,,
+JSFITYFUKSFPBZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"Phenol, 4-nonyl-, branched",collectie:edlists_org_list_i|collectie:reach_svhcc_candidate_list,,1,,1,
+BFCFYVKQTRLZHA-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,1-chloro-2-nitrobenzene,collectie:uba_pmt,,,,,1
+CSEBNABAWMZWIF-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid",collectie:reach_svhcc_candidate_list,,,,1,
+CXNVOWPRHWWCQR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,4-chloro-<i>o</i>-toluidine,collectie:c_l_harmonized_classification,1,,,,
+KNKRKFALVUDBJE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dichloropropane",collectie:uba_pmt,,,,,1
+KNKRKFALVUDBJE-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dichloropropane|propylene dichloride",collectie:c_l_harmonized_classification,1,,,,
+MGWAVDBGNNKXQV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diisobutyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+MGWAVDBGNNKXQV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diisobutyl phthalate (DIBP),collectie:edlists_org_list_i,,1,,,
+OCJBOOLMMGQPQU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,4-Dichlorobenzene",,,,,,
+ODCWYMIRDDJXKW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Simazine,,,,,,
+UOCLXMDMGBRAIB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1,1-trichloroethane",collectie:uba_pmt,,,,,1
+VOZKAJLKRJDJLL-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4-methyl-<i>m</i>-phenylenediamine|2,4-toluenediamine",collectie:c_l_harmonized_classification,1,,,,
+VOZKAJLKRJDJLL-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4-methyl-m-phenylenediamine (toluene-2,4-diamine)",collectie:reach_svhcc_candidate_list,,,,1,
+WLZRMCYVCSSEQC-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Cadmium,collectie:reach_svhcc_candidate_list,,,,1,
+WSFSSNUMVMOOMR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Formaldehyde,,,,,,
+WSFSSNUMVMOOMR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,formaldehyde …%,collectie:c_l_harmonized_classification,1,,,,
+WSLDOOZREJYCGB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dichloroethane",collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
+WSLDOOZREJYCGB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dichloroethane|ethylene dichloride",collectie:c_l_harmonized_classification,1,,,,
+FSAVDKDHPDSCTO-WQLSENKSSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chlorfenvinphos,,,,,,
+JVZREVRTMWNFME-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Perfluoroheptanoic acid; tridecafluoroheptanoic acid,collectie:c_l_harmonized_classification,1,,,,
+JVZREVRTMWNFME-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Perfluoroheptanoic acid,collectie:reach_svhcc_candidate_list,,,,1,
+KCXMKQUNVWSEMD-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,α-chlorotoluene|benzyl chloride,collectie:c_l_harmonized_classification,1,,,,
+KFUSEUYYWQURPO-OWOJBTEDSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,trans-dichloroethylene,collectie:uba_pmt,,,,,1
+MVPPADPHJFYWMZ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chlorobenzene,collectie:uba_pmt,,,,,1
+NLHHRLWOUZZQLW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,acrylonitrile,collectie:c_l_harmonized_classification,1,,,,
+XKJMBINCVNINCA-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"linuron (ISO)|3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",collectie:c_l_harmonized_classification,1,,,,
+XSTXAVWGXDQKEL-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Trichloroethylene,collectie:reach_svhcc_candidate_list|collectie:uba_pmt,,,,1,1
+XSTXAVWGXDQKEL-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,trichloroethylene|trichloroethene,collectie:c_l_harmonized_classification,1,,,,
+YMWUJEATGCHHMB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dichloromethane,,,,,,
+YMWUJEATGCHHMB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,dichloromethane; methylene chloride,collectie:uba_pmt,,,,,1
+ZXFXBSWRVIQKOD-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Heptachlor epoxide,,,,,,
+ALEROMXYYSQFLX-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+PXBRQCKWGAHEHS-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dichlorodifluoromethane,collectie:uba_pmt,,,,,1
+RFFLAFLAYFXFSW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dichlorobenzene",collectie:uba_pmt,,,,,1
+RKELNIPLHQEBJO-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",collectie:reach_svhcc_candidate_list,,,,1,
+RKELNIPLHQEBJO-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-benzenedicarboxylic acid|di-C<sub>6-8</sub>-branched alkylesters, C<sub>7</sub>-rich",collectie:c_l_harmonized_classification,1,,,,
+SBPBAQFWLVIOKP-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chlorpyrifos,,,,,,
+UFWIBTONFRDIAS-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Naphthalene,,,,,,
+VOWAEIGWURALJQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dicyclohexyl phthalate,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+VOWAEIGWURALJQ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dicyclohexyl phthalate (DCHP),collectie:edlists_org_list_i,,1,,,
+WBEJYOJJBDISQU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2-dibromo-3-chloropropane",collectie:c_l_harmonized_classification,1,,,,
+WDECIBYCCFPHNR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chrysen (CHR),,,,,,
+WDECIBYCCFPHNR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chrysene,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,1,,,1,
+WDMKCPIVJOGHBF-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",,,,,,
+XMTQQYYKAHVGBJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Diuron,,,,,,
+XMTQQYYKAHVGBJ-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"diuron (ISO); 3-(3,4-dichlorophenyl)-1,1-dimethylurea",collectie:uba_pmt,,,,,1
+YXFVVABEGXRONW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Toluene,,,,,,
+DEWLEGDTCGBNGU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,3-dichloro-2-propanol",collectie:c_l_harmonized_classification,1,,,,
+DVKJHBMWWAPEIU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,4-methyl-m-phenylene diisocyanate,,,,,,
+KAKZBPTYRLMSJV-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,3-butadiene|buta-1,3-diene",collectie:c_l_harmonized_classification,1,,,,
+OAKJQQAXSVQMHS-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Hydrazine,collectie:c_l_harmonized_classification,1,,,,
+QSHDDOUJBYECFT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Mercury,collectie:c_l_harmonized_classification,1,,,,
+RQNWIZPPADIBDY-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Arsine,,,,,,
+SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,<i>N</i>-methyl-2-pyrrolidone|1-methyl-2-pyrrolidone,collectie:c_l_harmonized_classification,1,,,,
+SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,1-methyl-2-pyrrolidone,,,,,,
+SECXISVLQFMRJM-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,1-Methyl-2-pyrrolidone (NMP),collectie:reach_svhcc_candidate_list,,,,1,
+BRLQWZUYTZBJKN-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1-chloro-2,3-epoxypropane|epichlorhydrin",collectie:c_l_harmonized_classification,1,,,,
+HRYZWHHZPQKTII-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Chloroethane,collectie:uba_pmt,,,,,1
+IBOFVQJTBBUKMU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,2'-dichloro-4,4'-methylenedianiline",collectie:reach_svhcc_candidate_list,,,,1,
+IBOFVQJTBBUKMU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"2,2'-dichloro-4,4'-methylenedianiline|4,4'-methylene bis(2-chloroaniline)",collectie:c_l_harmonized_classification,1,,,,
+KAATUXNTWXVJKI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Cypermethrin;zeta-Cypermethrin,,,,,,
+MXWJVTOOROXGIU-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Atrazine,collectie:uba_pmt,,,,,1
+PXHVJJICTQNCMI-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Nickel,,,,,,
+RYHBNJHYFVUHQT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,4-dioxane",collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list|collectie:uba_pmt,1,,,1,1
+IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4,4'-isopropylidenediphenol; Bisphenol A",collectie:edlists_org_list_i,,1,,,
+IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4,4'-isopropylidenediphenol; bisphenol A|4,4’-isopropylidenediphenol",collectie:c_l_harmonized_classification,1,,,,
+IISBACLAFKSPIT-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"4,4'-isopropylidenediphenol",collectie:reach_svhcc_candidate_list,,,,1,
+RWGFKTVRMDUZSP-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Cumene,collectie:c_l_harmonized_classification,1,,,,
+UHOVQNZJYSORNB-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Benzene,collectie:c_l_harmonized_classification,1,,,,
+UGFAIRIUMAVXCW-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,carbon monoxide,collectie:c_l_harmonized_classification,1,,,,
+LGXVIGDEPROXKC-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1-dichloroethylene",collectie:uba_pmt,,,,,1
+LGXVIGDEPROXKC-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,"1,1-Dichloroethene",,,,,,
+OEBRKCOSUFCWJD-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,Dichlorvos,,,,,,
+NOWKCMXCCJGMRR-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,ethyleneimine|aziridine,collectie:c_l_harmonized_classification,1,,,,
+XNWFRZJHXBZDAG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-methoxyethanol,collectie:reach_svhcc_candidate_list,,,,1,
+XNWFRZJHXBZDAG-UHFFFAOYSA-N,skos:Concept,,conceptscheme:zorgwekkende_stoffen,conceptscheme:zorgwekkende_stoffen,2-methoxyethanol|ethylene glycol monomethyl ether,collectie:c_l_harmonized_classification,1,,,,
