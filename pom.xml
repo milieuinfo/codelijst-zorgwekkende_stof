@@ -13,9 +13,9 @@
   <name>,codelijst-zorgwekkende_stof</name>
   <description />
   <scm>
-    <connection>scm:git:https://github.com/milieuinfo/,codelijst-zorgwekkende_stof.git</connection>
-    <developerConnection>scm:git:https://github.com/milieuinfo/,codelijst-zorgwekkende_stof.git</developerConnection>
-    <url>https://github.com/milieuinfo/,codelijst-zorgwekkende_stof.git</url>
+    <connection>scm:git:https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</connection>
+    <developerConnection>scm:git:https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</developerConnection>
+    <url>https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</url>
     <tag>HEAD</tag>
   </scm>
   <build>
