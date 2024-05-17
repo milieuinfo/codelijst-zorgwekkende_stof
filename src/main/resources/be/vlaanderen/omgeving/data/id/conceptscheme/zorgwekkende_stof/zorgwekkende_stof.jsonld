@@ -630,26 +630,453 @@
             "prefLabel": "UBA PMT"
         },
         {
+            "id": "omg_id:concept/chemische_stof/",
+            "type": [
+                "skos:Collection",
+                "skos:Concept"
+            ],
+            "member": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
+            ],
+            "narrower": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
+            ],
+            "narrowerTransitive": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
+            ],
+            "semanticRelation": [
+                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
+                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
+                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
+                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
+                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
+                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
+                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
+                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
+                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
+                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
+                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
+                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
+                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
+                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
+                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
+                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
+                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
+                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
+                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
+                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
+                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
+                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
+                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
+                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
+                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
+                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
+                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
+                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
+                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
+                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
+                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
+                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
+                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
+            ]
+        },
+        {
             "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -657,78 +1084,129 @@
         {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -737,90 +1215,165 @@
         {
             "id": "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -829,68 +1382,74 @@
         {
             "id": "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -898,131 +1457,188 @@
         {
             "id": "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1031,17 +1647,20 @@
             "id": "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -1051,15 +1670,18 @@
             "id": "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1068,17 +1690,20 @@
             "id": "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -1087,24 +1712,27 @@
         {
             "id": "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1112,32 +1740,44 @@
         {
             "id": "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1146,19 +1786,22 @@
             "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen",
+                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen",
+                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen",
+                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ]
         },
@@ -1166,15 +1809,18 @@
             "id": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1182,40 +1828,61 @@
         {
             "id": "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1223,24 +1890,36 @@
         {
             "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ]
@@ -1248,84 +1927,102 @@
         {
             "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -1334,32 +2031,44 @@
         {
             "id": "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1367,80 +2076,119 @@
         {
             "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ]
@@ -1448,24 +2196,36 @@
         {
             "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1473,80 +2233,110 @@
         {
             "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ]
@@ -1554,48 +2344,69 @@
         {
             "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1604,15 +2415,18 @@
             "id": "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1620,42 +2434,63 @@
         {
             "id": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1664,116 +2499,176 @@
         {
             "id": "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1782,15 +2677,18 @@
             "id": "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1798,42 +2696,54 @@
         {
             "id": "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -1843,15 +2753,18 @@
             "id": "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1859,143 +2772,215 @@
         {
             "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2004,49 +2989,64 @@
         {
             "id": "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:c_l_harmonized_classification"
+            ]
         },
         {
             "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2055,17 +3055,20 @@
             "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2074,24 +3077,27 @@
         {
             "id": "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ]
@@ -2100,15 +3106,18 @@
             "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2116,65 +3125,89 @@
         {
             "id": "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:uba_pmt",
-                "concept:eigen"
+                "zorgwekkende_stof:eigen"
             ]
         },
         {
             "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2183,15 +3216,18 @@
             "id": "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
             "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2199,204 +3235,35 @@
         {
             "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
+            "broaderTransitive": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": [
+                "omg_id:concept/chemische_stof/",
+                "zorgwekkende_stof:uba_pmt"
+            ]
         },
         {
             "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "concept:eigen",
-            "broaderTransitive": "concept:eigen",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
-            "semanticRelation": "concept:eigen"
-        },
-        {
-            "id": "concept:eigen",
-            "type": "skos:Concept",
-            "narrower": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
-            ],
-            "semanticRelation": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
-            ]
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "zorgwekkende_stof:c_l_harmonized_classification",
@@ -2611,7 +3478,181 @@
             "id": "zorgwekkende_stof:eigen",
             "type": "skos:Concept",
             "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "narrower": [
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
+                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
+                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
+                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
+                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
+                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
+                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
+                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
+                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
+                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
+                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
+                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
+                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
+                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
+                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
+                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
+                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
+                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
+                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
+                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
+            ],
+            "narrowerTransitive": [
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
+                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
+                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
+                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
+                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
+                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
+                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
+                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
+                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
+                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
+                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
+                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
+                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
+                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
+                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
+                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
+                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
+                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
+                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
+                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
+            ],
             "prefLabel": "eigen",
+            "semanticRelation": [
+                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
+                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
+                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
+                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
+                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
+                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
+                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
+                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
+                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
+                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
+                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
+                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
+                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
+                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
+                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
+                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
+                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
+                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
+                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
+                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
+                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
+                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
+                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
+                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
+                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
+                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
+                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
+                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
+                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
+                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
+                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
+            ],
             "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
         },
         {
@@ -2909,8 +3950,8 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i",
                 "zorgwekkende_stof:eigen",
+                "zorgwekkende_stof:edlists_org_list_i",
                 "zorgwekkende_stof:pop_regulation"
             ],
             "prefLabel": "Codelijst zorgwekkende stoffen"
