@@ -77,116 +77,111 @@ collectie:uba_pmt a skos:Collection;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:member concept:AFDRCEOKCOUICI-UHFFFAOYSA-N, concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N, concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N, concept:BZLVMXJERCGZMT-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N, concept:CYTYCFOTNPOANT-UHFFFAOYSA-N, concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N, concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N, concept:HEDRZPFGACZZDS-UHFFFAOYSA-N, concept:HFZWRUODUSTPEG-UHFFFAOYSA-N, concept:HRYZWHHZPQKTII-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:KFUSEUYYWQURPO-OWOJBTEDSA-N, concept:KNKRKFALVUDBJE-UHFFFAOYSA-N, concept:LGXVIGDEPROXKC-UHFFFAOYSA-N, concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:MXWJVTOOROXGIU-UHFFFAOYSA-N, concept:PAAZPARNPHGIKF-UHFFFAOYSA-N, concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N, concept:PNPCRKVUWYDDST-UHFFFAOYSA-N, concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N, concept:QSNSCYSYFYORTR-UHFFFAOYSA-N, concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N, concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N, concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N, concept:VIONGDJUYAYOPU-UHFFFAOYSA-N, concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N, concept:VZGDMQKNWNREIO-UHFFFAOYSA-N, concept:WJNRPILHGGKWCK-UHFFFAOYSA-N, concept:WMOVHXAZOJBABW-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YACLQRRMGMJLJV-UHFFFAOYSA-N, concept:YMWUJEATGCHHMB-UHFFFAOYSA-N, concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N, concept:ZPQOPVIELGIULI-UHFFFAOYSA-N;
     skos:prefLabel "UBA PMT"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/> a skos:Collection, skos:Concept;
-    skos:member concept:AFDRCEOKCOUICI-UHFFFAOYSA-N, concept:ALEROMXYYSQFLX-UHFFFAOYSA-N, concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N, concept:BBEAQIROQSPTKN-UHFFFAOYSA-N, concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N, concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N, concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N, concept:BZLVMXJERCGZMT-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CSEBNABAWMZWIF-UHFFFAOYSA-N, concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N, concept:CXGONMQFMIYUJR-UHFFFAOYSA-N, concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N, concept:CYTYCFOTNPOANT-UHFFFAOYSA-N, concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N, concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N, concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N, concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N, concept:DXBHBZVCASKNBY-UHFFFAOYSA-N, concept:GOOHAUXETOMSMM-UHFFFAOYSA-N, concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N, concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N, concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N, concept:HEDRZPFGACZZDS-UHFFFAOYSA-N, concept:HFACYLZERDEVSX-UHFFFAOYSA-N, concept:HFZWRUODUSTPEG-UHFFFAOYSA-N, concept:HRYZWHHZPQKTII-UHFFFAOYSA-N, concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N, concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N, concept:IISBACLAFKSPIT-UHFFFAOYSA-N, concept:IPKKHRVROFYTEK-UHFFFAOYSA-N, concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N, concept:JANBFCARANRIKJ-UHFFFAOYSA-N, concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N, concept:JVZREVRTMWNFME-UHFFFAOYSA-N, concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N, concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N, concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N, concept:KFUSEUYYWQURPO-OWOJBTEDSA-N, concept:KNKRKFALVUDBJE-UHFFFAOYSA-N, concept:LGXVIGDEPROXKC-UHFFFAOYSA-N, concept:LHRCREOYAASXPZ-UHFFFAOYSA-N, concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N, concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N, concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:MXWJVTOOROXGIU-UHFFFAOYSA-N, concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N, concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N, concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N, concept:PAAZPARNPHGIKF-UHFFFAOYSA-N, concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N, concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N, concept:PNPCRKVUWYDDST-UHFFFAOYSA-N, concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N, concept:QSHDDOUJBYECFT-UHFFFAOYSA-N, concept:QSNSCYSYFYORTR-UHFFFAOYSA-N, concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N, concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N, concept:RKELNIPLHQEBJO-UHFFFAOYSA-N, concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N, concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N, concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N, concept:SECXISVLQFMRJM-UHFFFAOYSA-N, concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N, concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N, concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N, concept:UHOVQNZJYSORNB-UHFFFAOYSA-N, concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N, concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N, concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N, concept:VIONGDJUYAYOPU-UHFFFAOYSA-N, concept:VOWAEIGWURALJQ-UHFFFAOYSA-N, concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N, concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N, concept:VZGDMQKNWNREIO-UHFFFAOYSA-N, concept:WABPQHHGFIMREM-UHFFFAOYSA-N, concept:WBEJYOJJBDISQU-UHFFFAOYSA-N, concept:WDECIBYCCFPHNR-UHFFFAOYSA-N, concept:WJNRPILHGGKWCK-UHFFFAOYSA-N, concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N, concept:WMOVHXAZOJBABW-UHFFFAOYSA-N, concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XKJMBINCVNINCA-UHFFFAOYSA-N, concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N, concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YACLQRRMGMJLJV-UHFFFAOYSA-N, concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N, concept:YMWUJEATGCHHMB-UHFFFAOYSA-N, concept:YNPNZTXNASCQKK-UHFFFAOYSA-N, concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N, concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N, concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N, concept:ZPQOPVIELGIULI-UHFFFAOYSA-N;
-    skos:narrower concept:AFDRCEOKCOUICI-UHFFFAOYSA-N, concept:ALEROMXYYSQFLX-UHFFFAOYSA-N, concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N, concept:BBEAQIROQSPTKN-UHFFFAOYSA-N, concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N, concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N, concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N, concept:BZLVMXJERCGZMT-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CSEBNABAWMZWIF-UHFFFAOYSA-N, concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N, concept:CXGONMQFMIYUJR-UHFFFAOYSA-N, concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N, concept:CYTYCFOTNPOANT-UHFFFAOYSA-N, concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N, concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N, concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N, concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N, concept:DXBHBZVCASKNBY-UHFFFAOYSA-N, concept:GOOHAUXETOMSMM-UHFFFAOYSA-N, concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N, concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N, concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N, concept:HEDRZPFGACZZDS-UHFFFAOYSA-N, concept:HFACYLZERDEVSX-UHFFFAOYSA-N, concept:HFZWRUODUSTPEG-UHFFFAOYSA-N, concept:HRYZWHHZPQKTII-UHFFFAOYSA-N, concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N, concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N, concept:IISBACLAFKSPIT-UHFFFAOYSA-N, concept:IPKKHRVROFYTEK-UHFFFAOYSA-N, concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N, concept:JANBFCARANRIKJ-UHFFFAOYSA-N, concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N, concept:JVZREVRTMWNFME-UHFFFAOYSA-N, concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N, concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N, concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N, concept:KFUSEUYYWQURPO-OWOJBTEDSA-N, concept:KNKRKFALVUDBJE-UHFFFAOYSA-N, concept:LGXVIGDEPROXKC-UHFFFAOYSA-N, concept:LHRCREOYAASXPZ-UHFFFAOYSA-N, concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N, concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N, concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:MXWJVTOOROXGIU-UHFFFAOYSA-N, concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N, concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N, concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N, concept:PAAZPARNPHGIKF-UHFFFAOYSA-N, concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N, concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N, concept:PNPCRKVUWYDDST-UHFFFAOYSA-N, concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N, concept:QSHDDOUJBYECFT-UHFFFAOYSA-N, concept:QSNSCYSYFYORTR-UHFFFAOYSA-N, concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N, concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N, concept:RKELNIPLHQEBJO-UHFFFAOYSA-N, concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N, concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N, concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N, concept:SECXISVLQFMRJM-UHFFFAOYSA-N, concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N, concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N, concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N, concept:UHOVQNZJYSORNB-UHFFFAOYSA-N, concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N, concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N, concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N, concept:VIONGDJUYAYOPU-UHFFFAOYSA-N, concept:VOWAEIGWURALJQ-UHFFFAOYSA-N, concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N, concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N, concept:VZGDMQKNWNREIO-UHFFFAOYSA-N, concept:WABPQHHGFIMREM-UHFFFAOYSA-N, concept:WBEJYOJJBDISQU-UHFFFAOYSA-N, concept:WDECIBYCCFPHNR-UHFFFAOYSA-N, concept:WJNRPILHGGKWCK-UHFFFAOYSA-N, concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N, concept:WMOVHXAZOJBABW-UHFFFAOYSA-N, concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XKJMBINCVNINCA-UHFFFAOYSA-N, concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N, concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YACLQRRMGMJLJV-UHFFFAOYSA-N, concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N, concept:YMWUJEATGCHHMB-UHFFFAOYSA-N, concept:YNPNZTXNASCQKK-UHFFFAOYSA-N, concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N, concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N, concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N, concept:ZPQOPVIELGIULI-UHFFFAOYSA-N;
-    skos:narrowerTransitive concept:AFDRCEOKCOUICI-UHFFFAOYSA-N, concept:ALEROMXYYSQFLX-UHFFFAOYSA-N, concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N, concept:BBEAQIROQSPTKN-UHFFFAOYSA-N, concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N, concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N, concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N, concept:BZLVMXJERCGZMT-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CSEBNABAWMZWIF-UHFFFAOYSA-N, concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N, concept:CXGONMQFMIYUJR-UHFFFAOYSA-N, concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N, concept:CYTYCFOTNPOANT-UHFFFAOYSA-N, concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N, concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N, concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N, concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N, concept:DXBHBZVCASKNBY-UHFFFAOYSA-N, concept:GOOHAUXETOMSMM-UHFFFAOYSA-N, concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N, concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N, concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N, concept:HEDRZPFGACZZDS-UHFFFAOYSA-N, concept:HFACYLZERDEVSX-UHFFFAOYSA-N, concept:HFZWRUODUSTPEG-UHFFFAOYSA-N, concept:HRYZWHHZPQKTII-UHFFFAOYSA-N, concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N, concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N, concept:IISBACLAFKSPIT-UHFFFAOYSA-N, concept:IPKKHRVROFYTEK-UHFFFAOYSA-N, concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N, concept:JANBFCARANRIKJ-UHFFFAOYSA-N, concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N, concept:JVZREVRTMWNFME-UHFFFAOYSA-N, concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N, concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N, concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N, concept:KFUSEUYYWQURPO-OWOJBTEDSA-N, concept:KNKRKFALVUDBJE-UHFFFAOYSA-N, concept:LGXVIGDEPROXKC-UHFFFAOYSA-N, concept:LHRCREOYAASXPZ-UHFFFAOYSA-N, concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N, concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N, concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:MXWJVTOOROXGIU-UHFFFAOYSA-N, concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N, concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N, concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N, concept:PAAZPARNPHGIKF-UHFFFAOYSA-N, concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N, concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N, concept:PNPCRKVUWYDDST-UHFFFAOYSA-N, concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N, concept:QSHDDOUJBYECFT-UHFFFAOYSA-N, concept:QSNSCYSYFYORTR-UHFFFAOYSA-N, concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N, concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N, concept:RKELNIPLHQEBJO-UHFFFAOYSA-N, concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N, concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N, concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N, concept:SECXISVLQFMRJM-UHFFFAOYSA-N, concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N, concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N, concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N, concept:UHOVQNZJYSORNB-UHFFFAOYSA-N, concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N, concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N, concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N, concept:VIONGDJUYAYOPU-UHFFFAOYSA-N, concept:VOWAEIGWURALJQ-UHFFFAOYSA-N, concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N, concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N, concept:VZGDMQKNWNREIO-UHFFFAOYSA-N, concept:WABPQHHGFIMREM-UHFFFAOYSA-N, concept:WBEJYOJJBDISQU-UHFFFAOYSA-N, concept:WDECIBYCCFPHNR-UHFFFAOYSA-N, concept:WJNRPILHGGKWCK-UHFFFAOYSA-N, concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N, concept:WMOVHXAZOJBABW-UHFFFAOYSA-N, concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XKJMBINCVNINCA-UHFFFAOYSA-N, concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N, concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YACLQRRMGMJLJV-UHFFFAOYSA-N, concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N, concept:YMWUJEATGCHHMB-UHFFFAOYSA-N, concept:YNPNZTXNASCQKK-UHFFFAOYSA-N, concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N, concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N, concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N, concept:ZPQOPVIELGIULI-UHFFFAOYSA-N;
-    skos:semanticRelation concept:AFDRCEOKCOUICI-UHFFFAOYSA-N, concept:ALEROMXYYSQFLX-UHFFFAOYSA-N, concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N, concept:BBEAQIROQSPTKN-UHFFFAOYSA-N, concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N, concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N, concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N, concept:BZLVMXJERCGZMT-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CSEBNABAWMZWIF-UHFFFAOYSA-N, concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N, concept:CXGONMQFMIYUJR-UHFFFAOYSA-N, concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N, concept:CYTYCFOTNPOANT-UHFFFAOYSA-N, concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N, concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N, concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N, concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N, concept:DXBHBZVCASKNBY-UHFFFAOYSA-N, concept:GOOHAUXETOMSMM-UHFFFAOYSA-N, concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N, concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N, concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N, concept:HEDRZPFGACZZDS-UHFFFAOYSA-N, concept:HFACYLZERDEVSX-UHFFFAOYSA-N, concept:HFZWRUODUSTPEG-UHFFFAOYSA-N, concept:HRYZWHHZPQKTII-UHFFFAOYSA-N, concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N, concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N, concept:IISBACLAFKSPIT-UHFFFAOYSA-N, concept:IPKKHRVROFYTEK-UHFFFAOYSA-N, concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N, concept:JANBFCARANRIKJ-UHFFFAOYSA-N, concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N, concept:JVZREVRTMWNFME-UHFFFAOYSA-N, concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N, concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N, concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N, concept:KFUSEUYYWQURPO-OWOJBTEDSA-N, concept:KNKRKFALVUDBJE-UHFFFAOYSA-N, concept:LGXVIGDEPROXKC-UHFFFAOYSA-N, concept:LHRCREOYAASXPZ-UHFFFAOYSA-N, concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N, concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N, concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:MXWJVTOOROXGIU-UHFFFAOYSA-N, concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N, concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N, concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N, concept:PAAZPARNPHGIKF-UHFFFAOYSA-N, concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N, concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N, concept:PNPCRKVUWYDDST-UHFFFAOYSA-N, concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N, concept:QSHDDOUJBYECFT-UHFFFAOYSA-N, concept:QSNSCYSYFYORTR-UHFFFAOYSA-N, concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N, concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N, concept:RKELNIPLHQEBJO-UHFFFAOYSA-N, concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N, concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N, concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N, concept:SECXISVLQFMRJM-UHFFFAOYSA-N, concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N, concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N, concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N, concept:UHOVQNZJYSORNB-UHFFFAOYSA-N, concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N, concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N, concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N, concept:VIONGDJUYAYOPU-UHFFFAOYSA-N, concept:VOWAEIGWURALJQ-UHFFFAOYSA-N, concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N, concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N, concept:VZGDMQKNWNREIO-UHFFFAOYSA-N, concept:WABPQHHGFIMREM-UHFFFAOYSA-N, concept:WBEJYOJJBDISQU-UHFFFAOYSA-N, concept:WDECIBYCCFPHNR-UHFFFAOYSA-N, concept:WJNRPILHGGKWCK-UHFFFAOYSA-N, concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N, concept:WMOVHXAZOJBABW-UHFFFAOYSA-N, concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XKJMBINCVNINCA-UHFFFAOYSA-N, concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N, concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YACLQRRMGMJLJV-UHFFFAOYSA-N, concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N, concept:YMWUJEATGCHHMB-UHFFFAOYSA-N, concept:YNPNZTXNASCQKK-UHFFFAOYSA-N, concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N, concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N, concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N, concept:ZPQOPVIELGIULI-UHFFFAOYSA-N.
 concept:AFDRCEOKCOUICI-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:ALEROMXYYSQFLX-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:BBEAQIROQSPTKN-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
 concept:BZLVMXJERCGZMT-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:CSEBNABAWMZWIF-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:CXGONMQFMIYUJR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:CYTYCFOTNPOANT-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:DDBMQDADIHOWIC-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:DXBHBZVCASKNBY-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -203,25 +198,25 @@ concept:FSPZPQQWDODWAU-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:GOOHAUXETOMSMM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -233,120 +228,120 @@ concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:HEDRZPFGACZZDS-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
 concept:HFACYLZERDEVSX-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
 concept:HFZWRUODUSTPEG-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:HGUFODBRKLSHSI-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:HRYZWHHZPQKTII-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:IISBACLAFKSPIT-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:IPKKHRVROFYTEK-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:IROINLKCQGIITA-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:JANBFCARANRIKJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:JGTNAGYHADQMCM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:JVZREVRTMWNFME-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:KAATUXNTWXVJKI-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:KFUSEUYYWQURPO-OWOJBTEDSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:KNKRKFALVUDBJE-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
 concept:KSMVNVHUTQZITP-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -358,65 +353,65 @@ concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:LGXVIGDEPROXKC-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
 concept:LHRCREOYAASXPZ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
 concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:MXWJVTOOROXGIU-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -438,35 +433,35 @@ concept:OGBQILNBLMPPDP-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:PAAZPARNPHGIKF-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
 concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:PNPCRKVUWYDDST-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:PXHVJJICTQNCMI-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -488,65 +483,65 @@ concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:QSHDDOUJBYECFT-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:QSNSCYSYFYORTR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
 concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:RHIROFAGUQOFLU-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:RKELNIPLHQEBJO-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:RQNWIZPPADIBDY-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -558,60 +553,60 @@ concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:SECXISVLQFMRJM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:SUSRORUBZHMPCO-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:UFWIBTONFRDIAS-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:UHOVQNZJYSORNB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:VEZCTZWLJYWARH-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -623,40 +618,40 @@ concept:VHHHONWQHHHLTI-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:VIONGDJUYAYOPU-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:VOWAEIGWURALJQ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:VZGDMQKNWNREIO-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:WABPQHHGFIMREM-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:WBEJYOJJBDISQU-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
@@ -668,125 +663,125 @@ concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:WDECIBYCCFPHNR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:WJNRPILHGGKWCK-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:WMOVHXAZOJBABW-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:WRPIRSINYZBGPK-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:eigen.
 concept:WSLDOOZREJYCGB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:XKJMBINCVNINCA-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
 concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
 concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list, zorgwekkende_stof:uba_pmt.
 concept:XTAHLACQOVXINQ-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:YACLQRRMGMJLJV-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:uba_pmt.
 concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:YMWUJEATGCHHMB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:eigen, zorgwekkende_stof:uba_pmt.
 concept:YNPNZTXNASCQKK-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:YXFVVABEGXRONW-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
     skos:semanticRelation zorgwekkende_stof:eigen.
 concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
+    skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
+    skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
 concept:ZPQOPVIELGIULI-UHFFFAOYSA-N a skos:Concept;
-    skos:broader <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
-    skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt;
+    skos:broader zorgwekkende_stof:uba_pmt;
+    skos:broaderTransitive zorgwekkende_stof:uba_pmt;
     skos:inScheme conceptscheme:zorgwekkende_stoffen;
-    skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>, zorgwekkende_stof:uba_pmt.
+    skos:semanticRelation zorgwekkende_stof:uba_pmt.
 concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N a skos:Concept;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
