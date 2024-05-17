@@ -9,14 +9,14 @@
   <packaging>jar</packaging>
   <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
   <artifactId>codelijst-zorgwekkende_stof</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   <name>,codelijst-zorgwekkende_stof</name>
   <description />
   <scm>
     <connection>scm:git:https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</connection>
     <developerConnection>scm:git:https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</developerConnection>
     <url>https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</url>
-    <tag>codelijst-zorgwekkende_stof-0.0.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <plugins>
