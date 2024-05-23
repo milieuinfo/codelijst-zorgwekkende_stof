@@ -16,5 +16,6 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 temp/
+.idea/
 node_modules/
 codelijst-zorgwekkende_stof.iml
