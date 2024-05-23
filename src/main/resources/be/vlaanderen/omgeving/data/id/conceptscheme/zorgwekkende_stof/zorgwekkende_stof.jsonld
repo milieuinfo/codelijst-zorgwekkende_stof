@@ -1,5 +1,13 @@
 {
     "@context": {
+        "sparql-service-description-graph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#graph",
+            "@type": "@id"
+        },
+        "defaultGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultGraph",
+            "@type": "@id"
+        },
         "collections": {
             "@type": "@id",
             "@reverse": "member"
@@ -390,7 +398,7 @@
         {
             "id": "collectie:c_l_harmonized_classification",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
@@ -453,7 +461,7 @@
         {
             "id": "collectie:edlists_org_list_i",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
@@ -467,7 +475,7 @@
         {
             "id": "collectie:eigen",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -531,7 +539,7 @@
         {
             "id": "collectie:reach_svhcc_candidate_list",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -583,7 +591,7 @@
         {
             "id": "collectie:uba_pmt",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -634,7 +642,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -648,7 +656,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -659,7 +667,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -667,7 +675,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -675,7 +683,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -683,7 +691,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -699,7 +707,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
@@ -711,7 +719,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -727,7 +735,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
@@ -739,7 +747,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -747,7 +755,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -755,7 +763,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -763,7 +771,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -771,7 +779,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -779,7 +787,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -787,7 +795,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -795,7 +803,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -803,7 +811,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -819,7 +827,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -831,7 +839,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -847,7 +855,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -859,7 +867,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -867,7 +875,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -875,7 +883,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -889,7 +897,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -900,7 +908,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -908,7 +916,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -922,7 +930,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen"
@@ -933,7 +941,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -941,7 +949,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -955,7 +963,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
@@ -972,7 +980,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
@@ -983,7 +991,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -991,7 +999,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -999,7 +1007,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1007,7 +1015,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1021,7 +1029,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1040,7 +1048,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1058,7 +1066,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1077,7 +1085,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1089,7 +1097,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1103,7 +1111,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1114,7 +1122,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1122,7 +1130,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1136,7 +1144,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1155,7 +1163,7 @@
                 "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen",
@@ -1173,7 +1181,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1184,7 +1192,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1192,7 +1200,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1200,7 +1208,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1214,7 +1222,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1225,7 +1233,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1239,7 +1247,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1250,7 +1258,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1258,7 +1266,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1272,7 +1280,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
@@ -1289,7 +1297,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
@@ -1300,7 +1308,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1308,7 +1316,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1324,7 +1332,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1336,7 +1344,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1344,7 +1352,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1358,7 +1366,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1369,7 +1377,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1377,7 +1385,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1385,7 +1393,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1393,7 +1401,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1401,7 +1409,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1409,7 +1417,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1417,7 +1425,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1425,7 +1433,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1439,7 +1447,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1450,7 +1458,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1464,7 +1472,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1475,7 +1483,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1483,7 +1491,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1491,7 +1499,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1499,7 +1507,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1507,7 +1515,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1515,7 +1523,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1523,7 +1531,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1531,7 +1539,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1545,7 +1553,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1556,7 +1564,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1564,7 +1572,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1572,7 +1580,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1580,7 +1588,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1594,7 +1602,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1611,7 +1619,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1622,7 +1630,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1630,7 +1638,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1638,7 +1646,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1654,7 +1662,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
@@ -1666,7 +1674,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1674,7 +1682,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1682,7 +1690,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1698,7 +1706,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1710,7 +1718,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1718,7 +1726,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1726,7 +1734,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1734,7 +1742,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1742,7 +1750,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1750,7 +1758,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1758,7 +1766,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1772,7 +1780,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1789,7 +1797,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1800,7 +1808,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1808,7 +1816,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1816,7 +1824,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1832,7 +1840,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1850,7 +1858,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1861,7 +1869,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1869,7 +1877,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1877,7 +1885,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1885,7 +1893,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1893,7 +1901,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1901,7 +1909,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1917,7 +1925,7 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1929,7 +1937,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1937,7 +1945,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1945,7 +1953,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1953,7 +1961,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -1961,7 +1969,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1975,7 +1983,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:eigen"
@@ -1994,7 +2002,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
@@ -2006,7 +2014,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2014,7 +2022,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -2028,7 +2036,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
@@ -2045,7 +2053,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2064,7 +2072,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
@@ -2076,7 +2084,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2090,7 +2098,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification"
@@ -2107,7 +2115,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2118,7 +2126,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2132,7 +2140,7 @@
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:eigen"
@@ -2143,7 +2151,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -2151,7 +2159,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2159,7 +2167,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -2173,7 +2181,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2190,7 +2198,7 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2201,7 +2209,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:uba_pmt",
             "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:uba_pmt"
         },
         {
@@ -2209,7 +2217,7 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2217,13 +2225,13 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "zorgwekkende_stof:c_l_harmonized_classification",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
@@ -2396,12 +2404,12 @@
                 "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
             ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "zorgwekkende_stof:edlists_org_list_i",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
@@ -2427,12 +2435,12 @@
                 "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
             ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "zorgwekkende_stof:eigen",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -2608,19 +2616,19 @@
                 "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
                 "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
             ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "zorgwekkende_stof:pop_regulation",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "prefLabel": "POP Regulation",
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -2760,12 +2768,12 @@
                 "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
                 "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
             ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "zorgwekkende_stof:uba_pmt",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stoffen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -2896,10 +2904,10 @@
                 "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
                 "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
             ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stoffen"
+            "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
-            "id": "conceptscheme:zorgwekkende_stoffen",
+            "id": "conceptscheme:zorgwekkende_stof",
             "type": "skos:ConceptScheme",
             "hasTopConcept": [
                 "zorgwekkende_stof:uba_pmt",
