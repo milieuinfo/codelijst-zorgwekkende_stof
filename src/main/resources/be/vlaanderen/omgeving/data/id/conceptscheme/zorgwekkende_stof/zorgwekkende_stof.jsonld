@@ -470,60 +470,71 @@
                 "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
             ],
-            "prefLabel": "edlists.org List I"
+            "prefLabel": "EndocrineDisruptor_List_I"
         },
         {
             "id": "collectie:eigen",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
                 "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
                 "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
                 "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
                 "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
                 "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
                 "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
                 "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
                 "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
                 "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
                 "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
                 "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
                 "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
                 "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
                 "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
                 "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
                 "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
                 "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
                 "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
                 "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
                 "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
                 "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
                 "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
                 "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
                 "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
                 "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
                 "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
                 "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
                 "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
                 "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
                 "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
                 "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
                 "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
                 "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
                 "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
@@ -531,10 +542,8 @@
                 "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
                 "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
                 "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
-            ],
-            "prefLabel": "eigen"
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
+            ]
         },
         {
             "id": "collectie:reach_svhcc_candidate_list",
@@ -571,11 +580,11 @@
                 "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
                 "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
                 "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
                 "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
                 "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
                 "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
@@ -592,58 +601,15 @@
             "id": "collectie:uba_pmt",
             "type": "skos:Collection",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "member": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
-            ],
             "prefLabel": "UBA PMT"
         },
         {
             "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
@@ -681,10 +647,10 @@
         {
             "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
@@ -697,47 +663,32 @@
         {
             "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ]
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -753,10 +704,10 @@
         {
             "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
@@ -777,18 +728,18 @@
         {
             "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
@@ -809,10 +760,10 @@
         {
             "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
@@ -835,31 +786,20 @@
             ]
         },
         {
-            "id": "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
             "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
         },
         {
@@ -922,27 +862,10 @@
         {
             "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
-            ],
+            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
-            ]
-        },
-        {
-            "id": "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
             "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
@@ -955,44 +878,26 @@
         {
             "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ]
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ]
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
@@ -1005,17 +910,15 @@
         {
             "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1029,7 +932,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1048,7 +950,6 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1066,7 +967,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1085,7 +985,6 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1097,7 +996,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1111,7 +1009,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1122,7 +1019,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1130,43 +1026,28 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
             "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "broaderTransitive": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i"
             ]
         },
@@ -1181,7 +1062,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1192,7 +1072,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1200,7 +1079,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1208,7 +1086,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1222,7 +1099,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1231,34 +1107,22 @@
         {
             "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1266,49 +1130,27 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ]
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1316,7 +1158,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1332,7 +1173,6 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1344,48 +1184,34 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
             "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1393,7 +1219,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1401,7 +1226,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1409,7 +1233,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1417,7 +1240,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1425,7 +1247,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1433,33 +1254,21 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
@@ -1472,7 +1281,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1481,33 +1289,22 @@
         {
             "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
-        },
-        {
-            "id": "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1515,7 +1312,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1523,7 +1319,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1531,7 +1326,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1539,32 +1333,20 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1572,23 +1354,20 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
             "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1602,7 +1381,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1619,7 +1397,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1630,7 +1407,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1638,7 +1414,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1646,25 +1421,20 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -1674,7 +1444,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1682,35 +1451,29 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
         },
         {
@@ -1718,7 +1481,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1726,23 +1488,20 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1750,7 +1509,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1758,16 +1516,14 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
@@ -1780,7 +1536,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1797,7 +1552,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1808,7 +1562,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1816,16 +1569,14 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
@@ -1840,7 +1591,6 @@
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1858,7 +1608,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1867,25 +1616,22 @@
         {
             "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -1893,7 +1639,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
@@ -1901,7 +1646,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1909,7 +1653,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -1917,19 +1660,15 @@
             "type": "skos:Concept",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen"
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
         },
         {
@@ -1937,74 +1676,55 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
             "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:eigen"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2014,7 +1734,6 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
@@ -2022,25 +1741,14 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ]
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
@@ -2053,7 +1761,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2063,18 +1770,14 @@
             "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
             "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ]
@@ -2084,25 +1787,14 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:c_l_harmonized_classification"
-            ]
+            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
+            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
+            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
         },
         {
             "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
@@ -2115,7 +1807,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2126,32 +1817,20 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:uba_pmt",
-                "zorgwekkende_stof:eigen"
-            ]
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
         },
         {
@@ -2159,16 +1838,14 @@
             "type": "skos:Concept",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
@@ -2181,7 +1858,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2198,7 +1874,6 @@
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
             ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -2206,27 +1881,15 @@
         },
         {
             "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:uba_pmt",
-            "broaderTransitive": "zorgwekkende_stof:uba_pmt",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:uba_pmt"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "zorgwekkende_stof:c_l_harmonized_classification",
@@ -2440,55 +2103,66 @@
         {
             "id": "zorgwekkende_stof:eigen",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
                 "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
                 "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
                 "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
                 "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
                 "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
                 "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
                 "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
                 "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
                 "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
                 "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
                 "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
                 "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
                 "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
                 "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
                 "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
                 "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
                 "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
                 "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
                 "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
                 "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
                 "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
                 "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
                 "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
                 "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
                 "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
                 "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
                 "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
                 "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
                 "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
                 "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
                 "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
                 "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
                 "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
                 "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
@@ -2496,57 +2170,68 @@
                 "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
                 "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
                 "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
             ],
             "narrowerTransitive": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
                 "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
                 "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
                 "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
                 "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
                 "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
                 "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
                 "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
                 "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
                 "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
                 "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
                 "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
                 "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
                 "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
                 "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
                 "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
                 "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
                 "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
                 "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
                 "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
                 "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
                 "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
                 "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
                 "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
                 "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
                 "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
                 "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
                 "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
                 "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
                 "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
                 "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
                 "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
                 "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
                 "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
                 "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
@@ -2554,58 +2239,68 @@
                 "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
                 "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
                 "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
             ],
-            "prefLabel": "eigen",
             "semanticRelation": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
+                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
+                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
+                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
+                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
                 "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DVKJHBMWWAPEIU-UHFFFAOYSA-N",
+                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
                 "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
                 "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:HBGGXOJOCNVPFY-UHFFFAOYSA-N",
                 "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
                 "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
                 "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
+                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
                 "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
                 "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
                 "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
                 "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
                 "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
                 "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
                 "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
                 "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
+                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
                 "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
                 "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
                 "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
                 "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
+                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
+                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
                 "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
                 "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
                 "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
                 "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
                 "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
+                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
                 "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
                 "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
                 "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
                 "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
                 "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
+                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
+                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
+                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
+                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
+                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
                 "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
                 "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
                 "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
+                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
+                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
                 "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
                 "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
                 "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
@@ -2613,10 +2308,8 @@
                 "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
                 "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
                 "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-                "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N"
-            ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stof"
+                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
+            ]
         },
         {
             "id": "zorgwekkende_stof:pop_regulation",
@@ -2660,11 +2353,11 @@
                 "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
                 "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
                 "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
                 "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
                 "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
                 "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
@@ -2706,11 +2399,11 @@
                 "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
                 "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
                 "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
                 "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
                 "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
                 "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
@@ -2753,11 +2446,11 @@
                 "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
                 "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
                 "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
                 "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
                 "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
                 "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
                 "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
@@ -2771,149 +2464,11 @@
             "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
-            "id": "zorgwekkende_stof:uba_pmt",
-            "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "narrower": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
-            ],
-            "prefLabel": "UBA PMT",
-            "semanticRelation": [
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-                "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N"
-            ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stof"
-        },
-        {
             "id": "conceptscheme:zorgwekkende_stof",
             "type": "skos:ConceptScheme",
             "hasTopConcept": [
-                "zorgwekkende_stof:uba_pmt",
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:eigen",
                 "zorgwekkende_stof:edlists_org_list_i",
                 "zorgwekkende_stof:pop_regulation"
             ],
