@@ -1,12 +1,11 @@
-uri,type,prefLabel,topConceptOf,inScheme,Naam,broader,b,collections,c,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,,EC_No,CAS_Nr
+uri,type,prefLabel,topConceptOf,inScheme,altLabel,broader,b,collections,c,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,,EC_No,CAS_Nr
 conceptscheme:zorgwekkende_stof,,Codelijst zorgwekkende stoffen,,,,,,,,,,,,,,
 collectie:c_l_harmonized_classification,,C&L Harmonized classification,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 collectie:edlists_org_list_i,,EndocrineDisruptor_List_I,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 collectie:pop_regulation,,POP Regulation,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 collectie:reach_svhcc_candidate_list,,REACH SVHC Candidate list,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
-collectie:uba_pmt,skos:Collection,UBA PMT,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 zorgwekkende_stof:c_l_harmonized_classification,skos:Concept,C&L Harmonized classification,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
-zorgwekkende_stof:edlists_org_list_i,skos:Concept,edlists.org List I,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
+zorgwekkende_stof:edlists_org_list_i,skos:Concept,EndocrineDisruptor_List_I,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 zorgwekkende_stof:pop_regulation,skos:Concept,POP Regulation,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 zorgwekkende_stof:reach_svhcc_candidate_list,skos:Concept,REACH SVHC Candidate list,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 AFDRCEOKCOUICI-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,"2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",zorgwekkende_stof:eigen,,collectie:eigen,,,,,,,700-835-7,919005-14-4

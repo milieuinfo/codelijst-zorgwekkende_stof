@@ -598,14 +598,9 @@
             "prefLabel": "REACH SVHC Candidate list"
         },
         {
-            "id": "collectie:uba_pmt",
-            "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "prefLabel": "UBA PMT"
-        },
-        {
             "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -614,6 +609,7 @@
         {
             "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -631,6 +627,7 @@
         {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "beryllium",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -639,6 +636,7 @@
         {
             "id": "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Pyrene",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -647,6 +645,7 @@
         {
             "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1-chloro-2-nitrobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -655,6 +654,10 @@
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "1-chloro-2,3-epoxypropane",
+                "epichlorhydrin"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -663,6 +666,7 @@
         {
             "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chloroethylene",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -671,6 +675,7 @@
         {
             "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "tert-butyl methyl ether",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -679,6 +684,7 @@
         {
             "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3-trichloropropane",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -696,6 +702,7 @@
         {
             "id": "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -704,6 +711,7 @@
         {
             "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Acenaphthene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -712,6 +720,7 @@
         {
             "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Tricosafluorododecanoic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -720,6 +729,7 @@
         {
             "id": "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "4-chloro-<i>o</i>-toluidine",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -728,6 +738,7 @@
         {
             "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Tetrachloroethylene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -736,6 +747,7 @@
         {
             "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1-chloro-4-nitrobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -744,6 +756,7 @@
         {
             "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Aclonifen",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -752,6 +765,7 @@
         {
             "id": "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,3-dichloro-2-propanol",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -760,6 +774,7 @@
         {
             "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2-methylpropan-2-ol",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -768,6 +783,10 @@
         {
             "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "DBP",
+                "dibutyl phthalate"
+            ],
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -788,6 +807,7 @@
         {
             "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "benz[<i>a</i>]anthracene",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -805,6 +825,7 @@
         {
             "id": "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -813,6 +834,7 @@
         {
             "id": "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chlorfenvinphos",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -821,6 +843,7 @@
         {
             "id": "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,7,8-Pentachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -829,6 +852,11 @@
         {
             "id": "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "1,2-epoxypropane",
+                "methyloxirane",
+                "propylene oxide"
+            ],
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -846,6 +874,7 @@
         {
             "id": "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "cobalt",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -854,6 +883,7 @@
         {
             "id": "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Fluoranthene",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -862,6 +892,7 @@
         {
             "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Benzo(g,h,i)perylene",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -870,6 +901,7 @@
         {
             "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Cybutryne",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -878,6 +910,7 @@
         {
             "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chloroform",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -886,6 +919,7 @@
         {
             "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Benzidine",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -894,6 +928,7 @@
         {
             "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,4-dichlorophenol",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -902,6 +937,7 @@
         {
             "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,3,7,8-Tetrachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
@@ -910,6 +946,7 @@
         {
             "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -917,6 +954,10 @@
         {
             "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "3,3'-dichlorobenzidine",
+                "3,3'-dichlorobiphenyl-4,4'-ylenediamine"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -924,6 +965,7 @@
         {
             "id": "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,2'-dichloro-4,4'-methylenedianiline",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -940,6 +982,7 @@
         {
             "id": "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "4,4'-isopropylidenediphenol; Bisphenol A",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -959,6 +1002,7 @@
         {
             "id": "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dipentyl phthalate (DPP)",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -975,6 +1019,7 @@
         {
             "id": "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Benzyl butyl phthalate (BBP)",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -994,6 +1039,7 @@
         {
             "id": "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Terbutryn",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1001,6 +1047,7 @@
         {
             "id": "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Diisopentyl phthalate",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1017,6 +1064,7 @@
         {
             "id": "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2-naphthylamine",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1024,6 +1072,7 @@
         {
             "id": "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,6,7,8-Hexachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1031,6 +1080,7 @@
         {
             "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1038,6 +1088,7 @@
         {
             "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Phenol, 4-nonyl-, branched",
             "broader": [
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
@@ -1054,6 +1105,7 @@
         {
             "id": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1070,6 +1122,7 @@
         {
             "id": "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Cypermethrin;zeta-Cypermethrin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1077,6 +1130,10 @@
         {
             "id": "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "1,3-butadiene",
+                "buta-1,3-diene"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1084,6 +1141,10 @@
         {
             "id": "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "benzyl chloride",
+                "α-chlorotoluene"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1091,6 +1152,7 @@
         {
             "id": "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dihexyl phthalate",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1107,6 +1169,7 @@
         {
             "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
             "type": "skos:Concept",
+            "altLabel": "trans-dichloroethylene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1114,6 +1177,10 @@
         {
             "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "1,2-dichloropropane",
+                "propylene dichloride"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1121,6 +1188,7 @@
         {
             "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,3,7,8-Tetrachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1128,6 +1196,7 @@
         {
             "id": "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1135,6 +1204,7 @@
         {
             "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1-Dichloroethene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1142,6 +1212,7 @@
         {
             "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dibenzo[a,h]anthracene (DBAhA)",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1149,6 +1220,7 @@
         {
             "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Pentacosafluorotridecanoic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1156,6 +1228,7 @@
         {
             "id": "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,7,8-Hexachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1163,6 +1236,7 @@
         {
             "id": "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Diisobutyl phthalate",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1182,6 +1256,7 @@
         {
             "id": "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Di-n-octyl phthalate (DNOP)",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1189,6 +1264,7 @@
         {
             "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chlorobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1196,6 +1272,7 @@
         {
             "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Anthracene",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1203,6 +1280,7 @@
         {
             "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Atrazine",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1210,6 +1288,7 @@
         {
             "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "acrylonitrile",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1217,6 +1296,10 @@
         {
             "id": "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "aziridine",
+                "ethyleneimine"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1224,6 +1307,7 @@
         {
             "id": "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Hydrazine",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1231,6 +1315,7 @@
         {
             "id": "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,4-Dichlorobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1238,6 +1323,7 @@
         {
             "id": "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Simazine",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1245,6 +1331,7 @@
         {
             "id": "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dichlorvos",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1252,6 +1339,7 @@
         {
             "id": "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,3,4,7,8-Pentachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1259,6 +1347,7 @@
         {
             "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-dibromoethane",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1266,6 +1355,7 @@
         {
             "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "4-chloro-2-nitroaniline",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1273,6 +1363,7 @@
         {
             "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Nonadecafluorodecanoic acid",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1289,6 +1380,7 @@
         {
             "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "3-chloroaniline",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1296,6 +1388,7 @@
         {
             "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Isoproturon",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1303,6 +1396,7 @@
         {
             "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dichlorodifluoromethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1310,6 +1404,7 @@
         {
             "id": "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Undecafluorohexanoic acid",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1317,6 +1412,7 @@
         {
             "id": "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,7,8,9-Hexachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1324,6 +1420,7 @@
         {
             "id": "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1,2,2-Tetrachloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1331,6 +1428,7 @@
         {
             "id": "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Mercury",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1338,6 +1436,7 @@
         {
             "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "4-chloroaniline",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1345,6 +1444,7 @@
         {
             "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1,1,2-Tetrachloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1352,6 +1452,7 @@
         {
             "id": "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Perfluorohexane-1-sulphonic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1359,6 +1460,7 @@
         {
             "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-dichlorobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1366,6 +1468,7 @@
         {
             "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1373,6 +1476,7 @@
         {
             "id": "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1389,6 +1493,7 @@
         {
             "id": "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "o-toluidine",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1405,6 +1510,7 @@
         {
             "id": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Arsenic",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1412,6 +1518,7 @@
         {
             "id": "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Heptacosafluorotetradecanoic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1419,6 +1526,7 @@
         {
             "id": "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Cumene",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1426,6 +1534,7 @@
         {
             "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,4-dioxane",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1442,6 +1551,7 @@
         {
             "id": "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,7,8-Pentachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1449,6 +1559,7 @@
         {
             "id": "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chlorpyrifos",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1456,6 +1567,7 @@
         {
             "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "3,4-dichloroaniline",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1463,6 +1575,7 @@
         {
             "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1-Methyl-2-pyrrolidone (NMP)",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1479,6 +1592,7 @@
         {
             "id": "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Henicosafluoroundecanoic acid",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1486,6 +1600,7 @@
         {
             "id": "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Bifenox",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1493,6 +1608,7 @@
         {
             "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1,2-trichloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1500,6 +1616,7 @@
         {
             "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Naphthalene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1507,6 +1624,7 @@
         {
             "id": "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "carbon monoxide",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1514,6 +1632,7 @@
         {
             "id": "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Benzene",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1521,6 +1640,7 @@
         {
             "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,1,1-trichloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1528,6 +1648,7 @@
         {
             "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Perfluorononan-1-oic-acid",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1544,6 +1665,7 @@
         {
             "id": "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dimethyl sulphate",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1560,6 +1682,7 @@
         {
             "id": "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,7,8,9-Heptachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1567,6 +1690,7 @@
         {
             "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Hexachloroethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1574,6 +1698,7 @@
         {
             "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1581,6 +1706,7 @@
         {
             "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dicyclohexyl phthalate",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",
@@ -1600,6 +1726,10 @@
         {
             "id": "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "2,4-toluenediamine",
+                "4-methyl-<i>m</i>-phenylenediamine"
+            ],
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1616,6 +1746,7 @@
         {
             "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1-chloro-2,4-dinitrobenzene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1623,6 +1754,7 @@
         {
             "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Carbon tetrachloride",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1630,6 +1762,7 @@
         {
             "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Lead",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1637,6 +1770,7 @@
         {
             "id": "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-dibromo-3-chloropropane",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1644,6 +1778,7 @@
         {
             "id": "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1651,6 +1786,7 @@
         {
             "id": "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,7,8-Hexachlorodibenzodioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1658,6 +1794,7 @@
         {
             "id": "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Chrysen (CHR)",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1674,6 +1811,7 @@
         {
             "id": "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1681,6 +1819,7 @@
         {
             "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Propazine",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1688,6 +1827,7 @@
         {
             "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Cadmium",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1695,6 +1835,7 @@
         {
             "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "tert-butyl acetate",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1702,6 +1843,7 @@
         {
             "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Quinoxyfen",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1709,6 +1851,7 @@
         {
             "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Formaldehyde",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1716,6 +1859,7 @@
         {
             "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2-dichloroethane",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1732,6 +1876,7 @@
         {
             "id": "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Alachlor",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1739,6 +1884,10 @@
         {
             "id": "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",
+                "linuron (ISO)"
+            ],
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1746,6 +1895,7 @@
         {
             "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Diuron",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1753,6 +1903,10 @@
         {
             "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "2-methoxyethanol",
+                "ethylene glycol monomethyl ether"
+            ],
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1769,6 +1923,7 @@
         {
             "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Trichloroethylene",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1785,6 +1940,7 @@
         {
             "id": "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2,3,4,6,7,8-Hexachlorodibenzofuran",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1792,6 +1948,7 @@
         {
             "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "2-chlorobuta-1,3-diene",
             "broader": "zorgwekkende_stof:c_l_harmonized_classification",
             "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
             "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
@@ -1799,6 +1956,7 @@
         {
             "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "4,4'- Diaminodiphenylmethane (MDA)",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1815,6 +1973,7 @@
         {
             "id": "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1822,6 +1981,7 @@
         {
             "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Dichloromethane",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1829,6 +1989,7 @@
         {
             "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Phenanthrene",
             "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
             "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1836,6 +1997,7 @@
         {
             "id": "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Toluene",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1843,6 +2005,7 @@
         {
             "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "Diisopropyl ether",
             "broader": "zorgwekkende_stof:eigen",
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "semanticRelation": "zorgwekkende_stof:eigen"
@@ -1850,6 +2013,7 @@
         {
             "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": "N,N-dimethylformamide",
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1866,6 +2030,10 @@
         {
             "id": "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
             "type": "skos:Concept",
+            "altLabel": [
+                "2-ethoxyethanol",
+                "ethylene glycol monoethyl ether"
+            ],
             "broader": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list"
@@ -1881,15 +2049,18 @@
         },
         {
             "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
-            "type": "skos:Concept"
+            "type": "skos:Concept",
+            "altLabel": "1,3-dichlorobenzene"
         },
         {
             "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-            "type": "skos:Concept"
+            "type": "skos:Concept",
+            "altLabel": "Di-“isodecyl” phthalate (DIDP)"
         },
         {
             "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
-            "type": "skos:Concept"
+            "type": "skos:Concept",
+            "altLabel": "Heptachlor epoxide"
         },
         {
             "id": "zorgwekkende_stof:c_l_harmonized_classification",
@@ -2089,7 +2260,7 @@
                 "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
                 "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
             ],
-            "prefLabel": "edlists.org List I",
+            "prefLabel": "EndocrineDisruptor_List_I",
             "semanticRelation": [
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
