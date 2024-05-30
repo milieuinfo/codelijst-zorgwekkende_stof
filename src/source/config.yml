@@ -3,6 +3,7 @@ skos:
   rules :
     skos_rules : /../node_modules/maven-metadata-generator-npm/src/n3/skos-rules.n3
     dcterms_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dcterms-rules.n3
+    dbpedia_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dbpedia-rules.n3
   prefixes :
     concept : https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/
     zorgwekkende_stof: https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/

@@ -277,6 +277,9 @@
   "casNumber" : {
     "@id" : "http://dbpedia.org/ontology/casNumber"
   },
+  "ecNumber" : {
+    "@id" : "http://dbpedia.org/ontology/ecNumber"
+  },
   "references" : {
     "@id" : "http://purl.org/dc/terms/references",
     "@type" : "@id"

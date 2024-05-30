@@ -1,4 +1,4 @@
-uri,type,prefLabel,topConceptOf,inScheme,altLabel,broader,b,collections,c,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,,EC_No,CAS_Nr
+uri,type,prefLabel,topConceptOf,inScheme,altLabel,broader,b,collections,c,C&L Harmonized classification,edlists.org List I,POP Regulation,REACH SVHC Candidate list,,ecNumber,casNumber
 conceptscheme:zorgwekkende_stof,,Codelijst zorgwekkende stoffen,,,,,,,,,,,,,,
 collectie:c_l_harmonized_classification,,C&L Harmonized classification,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,
 collectie:edlists_org_list_i,,EndocrineDisruptor_List_I,,conceptscheme:zorgwekkende_stof,,,,,,,,,,,,

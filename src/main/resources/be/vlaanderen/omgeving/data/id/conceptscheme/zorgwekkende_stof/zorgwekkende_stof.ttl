@@ -71,728 +71,1008 @@ collectie:reach_svhcc_candidate_list a skos:Collection;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:member concept:ALEROMXYYSQFLX-UHFFFAOYSA-N, concept:BBEAQIROQSPTKN-UHFFFAOYSA-N, concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N, concept:CSEBNABAWMZWIF-UHFFFAOYSA-N, concept:CXGONMQFMIYUJR-UHFFFAOYSA-N, concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N, concept:DXBHBZVCASKNBY-UHFFFAOYSA-N, concept:GOOHAUXETOMSMM-UHFFFAOYSA-N, concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N, concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N, concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N, concept:IISBACLAFKSPIT-UHFFFAOYSA-N, concept:IPKKHRVROFYTEK-UHFFFAOYSA-N, concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N, concept:JANBFCARANRIKJ-UHFFFAOYSA-N, concept:JGTNAGYHADQMCM-UHFFFAOYSA-N, concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N, concept:JVZREVRTMWNFME-UHFFFAOYSA-N, concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N, concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N, concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N, concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N, concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N, concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N, concept:RKELNIPLHQEBJO-UHFFFAOYSA-N, concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N, concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N, concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N, concept:SECXISVLQFMRJM-UHFFFAOYSA-N, concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N, concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N, concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N, concept:VOWAEIGWURALJQ-UHFFFAOYSA-N, concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N, concept:WABPQHHGFIMREM-UHFFFAOYSA-N, concept:WDECIBYCCFPHNR-UHFFFAOYSA-N, concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N, concept:WSLDOOZREJYCGB-UHFFFAOYSA-N, concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N, concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N, concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N, concept:YNPNZTXNASCQKK-UHFFFAOYSA-N, concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N, concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N;
     skos:prefLabel "REACH SVHC Candidate list"@nl.
-concept:AFDRCEOKCOUICI-UHFFFAOYSA-N a skos:Concept;
+concept:AFDRCEOKCOUICI-UHFFFAOYSA-N dbo:casNumber "919005-14-4";
+    dbo:ecNumber "700-835-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:ALEROMXYYSQFLX-UHFFFAOYSA-N a skos:Concept;
+concept:ALEROMXYYSQFLX-UHFFFAOYSA-N dbo:casNumber "71850-09-4";
+    dbo:ecNumber "276-090-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N a skos:Concept;
+concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N dbo:casNumber "7440-41-7";
+    dbo:ecNumber "231-150-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "beryllium"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:BBEAQIROQSPTKN-UHFFFAOYSA-N a skos:Concept;
+concept:BBEAQIROQSPTKN-UHFFFAOYSA-N dbo:casNumber "129-00-0";
+    dbo:ecNumber "204-927-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Pyrene"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N a skos:Concept;
+concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N dbo:casNumber "88-73-3";
+    dbo:ecNumber "201-854-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1-chloro-2-nitrobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N a skos:Concept;
+concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N dbo:casNumber "106-89-8";
+    dbo:ecNumber "203-439-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1-chloro-2,3-epoxypropane"@nl, "epichlorhydrin"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N a skos:Concept;
+concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N dbo:casNumber "75-01-4";
+    dbo:ecNumber "200-831-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chloroethylene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:BZLVMXJERCGZMT-UHFFFAOYSA-N a skos:Concept;
+concept:BZLVMXJERCGZMT-UHFFFAOYSA-N dbo:casNumber "1634-04-4";
+    dbo:ecNumber "216-653-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "tert-butyl methyl ether"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N a skos:Concept;
+concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N dbo:casNumber "96-18-4";
+    dbo:ecNumber "202-486-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3-trichloropropane"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:CSEBNABAWMZWIF-UHFFFAOYSA-N a skos:Concept;
+concept:CSEBNABAWMZWIF-UHFFFAOYSA-N dbo:casNumber "13252-13-6";
+    dbo:ecNumber "236-236-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N a skos:Concept;
+concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N dbo:casNumber "83-32-9";
+    dbo:ecNumber "201-469-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Acenaphthene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:CXGONMQFMIYUJR-UHFFFAOYSA-N a skos:Concept;
+concept:CXGONMQFMIYUJR-UHFFFAOYSA-N dbo:casNumber "307-55-1";
+    dbo:ecNumber "206-203-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Tricosafluorododecanoic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N a skos:Concept;
+concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N dbo:casNumber "95-69-2";
+    dbo:ecNumber "202-441-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "4-chloro-<i>o</i>-toluidine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:CYTYCFOTNPOANT-UHFFFAOYSA-N a skos:Concept;
+concept:CYTYCFOTNPOANT-UHFFFAOYSA-N dbo:casNumber "127-18-4";
+    dbo:ecNumber "204-825-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Tetrachloroethylene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N a skos:Concept;
+concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N dbo:casNumber "100-00-5";
+    dbo:ecNumber "202-809-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1-chloro-4-nitrobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:DDBMQDADIHOWIC-UHFFFAOYSA-N a skos:Concept;
+concept:DDBMQDADIHOWIC-UHFFFAOYSA-N dbo:casNumber "74070-46-5";
+    dbo:ecNumber "277-704-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Aclonifen"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N a skos:Concept;
+concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N dbo:casNumber "96-23-1";
+    dbo:ecNumber "202-491-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,3-dichloro-2-propanol"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N a skos:Concept;
+concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N dbo:casNumber "75-65-0";
+    dbo:ecNumber "200-889-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2-methylpropan-2-ol"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N a skos:Concept;
+concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N dbo:casNumber "84-74-2";
+    dbo:ecNumber "201-557-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "DBP"@nl, "dibutyl phthalate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:DXBHBZVCASKNBY-UHFFFAOYSA-N a skos:Concept;
+concept:DXBHBZVCASKNBY-UHFFFAOYSA-N dbo:casNumber "56-55-3";
+    dbo:ecNumber "200-280-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "benz[<i>a</i>]anthracene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N a skos:Concept;
+concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N dbo:casNumber "3268-87-9";
+    dbo:ecNumber "694-813-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:FSAVDKDHPDSCTO-WQLSENKSSA-N a skos:Concept;
+concept:FSAVDKDHPDSCTO-WQLSENKSSA-N dbo:casNumber "470-90-6";
+    dbo:ecNumber "207-432-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chlorfenvinphos"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:FSPZPQQWDODWAU-UHFFFAOYSA-N a skos:Concept;
+concept:FSPZPQQWDODWAU-UHFFFAOYSA-N dbo:casNumber "40321-76-4";
+    dbo:ecNumber "694-814-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,7,8-Pentachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:GOOHAUXETOMSMM-UHFFFAOYSA-N a skos:Concept;
+concept:GOOHAUXETOMSMM-UHFFFAOYSA-N dbo:casNumber "75-56-9";
+    dbo:ecNumber "200-879-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-epoxypropane"@nl, "methyloxirane"@nl, "propylene oxide"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N a skos:Concept;
+concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N dbo:casNumber "7440-48-4";
+    dbo:ecNumber "231-158-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "cobalt"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N a skos:Concept;
+concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N dbo:casNumber "206-44-0";
+    dbo:ecNumber "205-912-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Fluoranthene"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N a skos:Concept;
+concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N dbo:casNumber "191-24-2";
+    dbo:ecNumber "205-883-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Benzo(g,h,i)perylene"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N a skos:Concept;
+concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N dbo:casNumber "28159-98-0";
+    dbo:ecNumber "248-872-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Cybutryne"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:HEDRZPFGACZZDS-UHFFFAOYSA-N a skos:Concept;
+concept:HEDRZPFGACZZDS-UHFFFAOYSA-N dbo:casNumber "67-66-3";
+    dbo:ecNumber "200-663-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chloroform"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:HFACYLZERDEVSX-UHFFFAOYSA-N a skos:Concept;
+concept:HFACYLZERDEVSX-UHFFFAOYSA-N dbo:casNumber "92-87-5";
+    dbo:ecNumber "202-199-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Benzidine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:HFZWRUODUSTPEG-UHFFFAOYSA-N a skos:Concept;
+concept:HFZWRUODUSTPEG-UHFFFAOYSA-N dbo:casNumber "120-83-2";
+    dbo:ecNumber "204-429-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,4-dichlorophenol"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:HGUFODBRKLSHSI-UHFFFAOYSA-N a skos:Concept;
+concept:HGUFODBRKLSHSI-UHFFFAOYSA-N dbo:casNumber "1746-01-6";
+    dbo:ecNumber "217-122-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,3,7,8-Tetrachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:HRYZWHHZPQKTII-UHFFFAOYSA-N a skos:Concept;
+concept:HRYZWHHZPQKTII-UHFFFAOYSA-N dbo:casNumber "75-00-3";
+    dbo:ecNumber "200-830-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N a skos:Concept;
+concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N dbo:casNumber "91-94-1";
+    dbo:ecNumber "202-109-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "3,3'-dichlorobenzidine"@nl, "3,3'-dichlorobiphenyl-4,4'-ylenediamine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N a skos:Concept;
+concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N dbo:casNumber "101-14-4";
+    dbo:ecNumber "202-918-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,2'-dichloro-4,4'-methylenedianiline"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:IISBACLAFKSPIT-UHFFFAOYSA-N a skos:Concept;
+concept:IISBACLAFKSPIT-UHFFFAOYSA-N dbo:casNumber "80-05-7";
+    dbo:ecNumber "201-245-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "4,4'-isopropylidenediphenol; Bisphenol A"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:IPKKHRVROFYTEK-UHFFFAOYSA-N a skos:Concept;
+concept:IPKKHRVROFYTEK-UHFFFAOYSA-N dbo:casNumber "131-18-0";
+    dbo:ecNumber "205-017-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dipentyl phthalate (DPP)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N a skos:Concept;
+concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N dbo:casNumber "85-68-7";
+    dbo:ecNumber "201-622-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Benzyl butyl phthalate (BBP)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:IROINLKCQGIITA-UHFFFAOYSA-N a skos:Concept;
+concept:IROINLKCQGIITA-UHFFFAOYSA-N dbo:casNumber "886-50-0";
+    dbo:ecNumber "212-950-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Terbutryn"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:JANBFCARANRIKJ-UHFFFAOYSA-N a skos:Concept;
+concept:JANBFCARANRIKJ-UHFFFAOYSA-N dbo:casNumber "605-50-5";
+    dbo:ecNumber "210-088-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Diisopentyl phthalate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N a skos:Concept;
+concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N dbo:casNumber "91-59-8";
+    dbo:ecNumber "202-080-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2-naphthylamine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N a skos:Concept;
+concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N dbo:casNumber "57117-44-9";
+    dbo:ecNumber "694-837-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,6,7,8-Hexachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:JGTNAGYHADQMCM-UHFFFAOYSA-N a skos:Concept;
+concept:JGTNAGYHADQMCM-UHFFFAOYSA-N dbo:casNumber "375-73-5";
+    dbo:ecNumber "206-793-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N a skos:Concept;
+concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N dbo:casNumber "84852-15-3";
+    dbo:ecNumber "284-325-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Phenol, 4-nonyl-, branched"@nl;
     skos:broader zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:JVZREVRTMWNFME-UHFFFAOYSA-N a skos:Concept;
+concept:JVZREVRTMWNFME-UHFFFAOYSA-N dbo:casNumber "375-85-9";
+    dbo:ecNumber "206-798-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Perfluoroheptanoic acid; tridecafluoroheptanoic acid"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:KAATUXNTWXVJKI-UHFFFAOYSA-N a skos:Concept;
+concept:KAATUXNTWXVJKI-UHFFFAOYSA-N dbo:casNumber "52315-07-8";
+    dbo:ecNumber "257-842-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Cypermethrin;zeta-Cypermethrin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N a skos:Concept;
+concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N dbo:casNumber "106-99-0";
+    dbo:ecNumber "203-450-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,3-butadiene"@nl, "buta-1,3-diene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N a skos:Concept;
+concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N dbo:casNumber "100-44-7";
+    dbo:ecNumber "202-853-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "benzyl chloride"@nl, "α-chlorotoluene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N a skos:Concept;
+concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N dbo:casNumber "84-75-3";
+    dbo:ecNumber "201-559-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dihexyl phthalate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:KFUSEUYYWQURPO-OWOJBTEDSA-N a skos:Concept;
+concept:KFUSEUYYWQURPO-OWOJBTEDSA-N dbo:casNumber "156-60-5";
+    dbo:ecNumber "205-860-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "trans-dichloroethylene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:KNKRKFALVUDBJE-UHFFFAOYSA-N a skos:Concept;
+concept:KNKRKFALVUDBJE-UHFFFAOYSA-N dbo:casNumber "78-87-5";
+    dbo:ecNumber "201-152-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-dichloropropane"@nl, "propylene dichloride"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:KSMVNVHUTQZITP-UHFFFAOYSA-N a skos:Concept;
+concept:KSMVNVHUTQZITP-UHFFFAOYSA-N dbo:casNumber "51207-31-9";
+    dbo:ecNumber "694-829-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,3,7,8-Tetrachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N a skos:Concept;
+concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N dbo:casNumber "19408-74-3";
+    dbo:ecNumber "694-810-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:LGXVIGDEPROXKC-UHFFFAOYSA-N a skos:Concept;
+concept:LGXVIGDEPROXKC-UHFFFAOYSA-N dbo:casNumber "75-35-4";
+    dbo:ecNumber "200-864-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1-Dichloroethene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:LHRCREOYAASXPZ-UHFFFAOYSA-N a skos:Concept;
+concept:LHRCREOYAASXPZ-UHFFFAOYSA-N dbo:casNumber "53-70-3";
+    dbo:ecNumber "200-181-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dibenzo[a,h]anthracene (DBAhA)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N a skos:Concept;
+concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N dbo:casNumber "72629-94-8";
+    dbo:ecNumber "276-745-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Pentacosafluorotridecanoic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N a skos:Concept;
+concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N dbo:casNumber "70648-26-9";
+    dbo:ecNumber "694-812-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,7,8-Hexachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N a skos:Concept;
+concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N dbo:casNumber "84-69-5";
+    dbo:ecNumber "201-553-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Diisobutyl phthalate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N a skos:Concept;
+concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N dbo:casNumber "117-84-0";
+    dbo:ecNumber "204-214-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Di-n-octyl phthalate (DNOP)"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N a skos:Concept;
+concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N dbo:casNumber "108-90-7";
+    dbo:ecNumber "203-628-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chlorobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N a skos:Concept;
+concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N dbo:casNumber "120-12-7";
+    dbo:ecNumber "204-371-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Anthracene"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:MXWJVTOOROXGIU-UHFFFAOYSA-N a skos:Concept;
+concept:MXWJVTOOROXGIU-UHFFFAOYSA-N dbo:casNumber "1912-24-9";
+    dbo:ecNumber "217-617-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Atrazine"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N a skos:Concept;
+concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N dbo:casNumber "107-13-1";
+    dbo:ecNumber "203-466-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "acrylonitrile"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N a skos:Concept;
+concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N dbo:casNumber "151-56-4";
+    dbo:ecNumber "205-793-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "aziridine"@nl, "ethyleneimine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N a skos:Concept;
+concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N dbo:casNumber "302-01-2";
+    dbo:ecNumber "206-114-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Hydrazine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N a skos:Concept;
+concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N dbo:casNumber "106-46-7";
+    dbo:ecNumber "203-400-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,4-Dichlorobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N a skos:Concept;
+concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N dbo:casNumber "122-34-9";
+    dbo:ecNumber "204-535-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Simazine"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N a skos:Concept;
+concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N dbo:casNumber "62-73-7";
+    dbo:ecNumber "200-547-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dichlorvos"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:OGBQILNBLMPPDP-UHFFFAOYSA-N a skos:Concept;
+concept:OGBQILNBLMPPDP-UHFFFAOYSA-N dbo:casNumber "57117-31-4";
+    dbo:ecNumber "694-761-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,3,4,7,8-Pentachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PAAZPARNPHGIKF-UHFFFAOYSA-N a skos:Concept;
+concept:PAAZPARNPHGIKF-UHFFFAOYSA-N dbo:casNumber "106-93-4";
+    dbo:ecNumber "203-444-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-dibromoethane"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N a skos:Concept;
+concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N dbo:casNumber "89-63-4";
+    dbo:ecNumber "201-925-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "4-chloro-2-nitroaniline"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N a skos:Concept;
+concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N dbo:casNumber "335-76-2";
+    dbo:ecNumber "206-400-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Nonadecafluorodecanoic acid"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:PNPCRKVUWYDDST-UHFFFAOYSA-N a skos:Concept;
+concept:PNPCRKVUWYDDST-UHFFFAOYSA-N dbo:casNumber "108-42-9";
+    dbo:ecNumber "203-581-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "3-chloroaniline"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N a skos:Concept;
+concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N dbo:casNumber "34123-59-6";
+    dbo:ecNumber "251-835-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Isoproturon"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N a skos:Concept;
+concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N dbo:casNumber "75-71-8";
+    dbo:ecNumber "200-893-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dichlorodifluoromethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PXUULQAPEKKVAH-UHFFFAOYSA-N a skos:Concept;
+concept:PXUULQAPEKKVAH-UHFFFAOYSA-N dbo:casNumber "307-24-4";
+    dbo:ecNumber "206-196-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Undecafluorohexanoic acid"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N a skos:Concept;
+concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N dbo:casNumber "72918-21-9";
+    dbo:ecNumber "694-765-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,7,8,9-Hexachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N a skos:Concept;
+concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N dbo:casNumber "79-34-5";
+    dbo:ecNumber "201-197-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1,2,2-Tetrachloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:QSHDDOUJBYECFT-UHFFFAOYSA-N a skos:Concept;
+concept:QSHDDOUJBYECFT-UHFFFAOYSA-N dbo:casNumber "7439-97-6";
+    dbo:ecNumber "231-106-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Mercury"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:QSNSCYSYFYORTR-UHFFFAOYSA-N a skos:Concept;
+concept:QSNSCYSYFYORTR-UHFFFAOYSA-N dbo:casNumber "106-47-8";
+    dbo:ecNumber "203-401-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "4-chloroaniline"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N a skos:Concept;
+concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N dbo:casNumber "630-20-6";
+    dbo:ecNumber "-";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1,1,2-Tetrachloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N a skos:Concept;
+concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N dbo:casNumber "355-46-4";
+    dbo:ecNumber "206-587-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Perfluorohexane-1-sulphonic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N a skos:Concept;
+concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N dbo:casNumber "95-50-1";
+    dbo:ecNumber "202-425-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-dichlorobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:RHIROFAGUQOFLU-UHFFFAOYSA-N a skos:Concept;
+concept:RHIROFAGUQOFLU-UHFFFAOYSA-N dbo:casNumber "39001-02-0";
+    dbo:ecNumber "694-806-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,6,7,8,9-Octachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:RKELNIPLHQEBJO-UHFFFAOYSA-N a skos:Concept;
+concept:RKELNIPLHQEBJO-UHFFFAOYSA-N dbo:casNumber "71888-89-6";
+    dbo:ecNumber "276-158-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N a skos:Concept;
+concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N dbo:casNumber "95-53-4";
+    dbo:ecNumber "202-429-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "o-toluidine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:RQNWIZPPADIBDY-UHFFFAOYSA-N a skos:Concept;
+concept:RQNWIZPPADIBDY-UHFFFAOYSA-N dbo:casNumber "7440-38-2";
+    dbo:ecNumber "231-148-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Arsenic"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N a skos:Concept;
+concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N dbo:casNumber "376-06-7";
+    dbo:ecNumber "206-803-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Heptacosafluorotetradecanoic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N a skos:Concept;
+concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N dbo:casNumber "98-82-8";
+    dbo:ecNumber "202-704-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Cumene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N a skos:Concept;
+concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N dbo:casNumber "123-91-1";
+    dbo:ecNumber "204-661-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,4-dioxane"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N a skos:Concept;
+concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N dbo:casNumber "57117-41-6";
+    dbo:ecNumber "694-762-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,7,8-Pentachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N a skos:Concept;
+concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N dbo:casNumber "2921-88-2";
+    dbo:ecNumber "220-864-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chlorpyrifos"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N a skos:Concept;
+concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N dbo:casNumber "95-76-1";
+    dbo:ecNumber "202-448-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "3,4-dichloroaniline"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:SECXISVLQFMRJM-UHFFFAOYSA-N a skos:Concept;
+concept:SECXISVLQFMRJM-UHFFFAOYSA-N dbo:casNumber "872-50-4";
+    dbo:ecNumber "212-828-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1-Methyl-2-pyrrolidone (NMP)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N a skos:Concept;
+concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N dbo:casNumber "2058-94-8";
+    dbo:ecNumber "218-165-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Henicosafluoroundecanoic acid"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:SUSRORUBZHMPCO-UHFFFAOYSA-N a skos:Concept;
+concept:SUSRORUBZHMPCO-UHFFFAOYSA-N dbo:casNumber "42576-02-3";
+    dbo:ecNumber "255-894-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Bifenox"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N a skos:Concept;
+concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N dbo:casNumber "79-00-5";
+    dbo:ecNumber "201-166-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1,2-trichloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:UFWIBTONFRDIAS-UHFFFAOYSA-N a skos:Concept;
+concept:UFWIBTONFRDIAS-UHFFFAOYSA-N dbo:casNumber "91-20-3";
+    dbo:ecNumber "202-049-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Naphthalene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N a skos:Concept;
+concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N dbo:casNumber "630-08-0";
+    dbo:ecNumber "211-128-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "carbon monoxide"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:UHOVQNZJYSORNB-UHFFFAOYSA-N a skos:Concept;
+concept:UHOVQNZJYSORNB-UHFFFAOYSA-N dbo:casNumber "71-43-2";
+    dbo:ecNumber "200-753-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Benzene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N a skos:Concept;
+concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N dbo:casNumber "71-55-6";
+    dbo:ecNumber "200-756-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,1,1-trichloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N a skos:Concept;
+concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N dbo:casNumber "375-95-1";
+    dbo:ecNumber "206-801-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Perfluorononan-1-oic-acid"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N a skos:Concept;
+concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N dbo:casNumber "77-78-1";
+    dbo:ecNumber "201-058-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dimethyl sulphate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:VEZCTZWLJYWARH-UHFFFAOYSA-N a skos:Concept;
+concept:VEZCTZWLJYWARH-UHFFFAOYSA-N dbo:casNumber "55673-89-7";
+    dbo:ecNumber "694-836-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,7,8,9-Heptachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:VHHHONWQHHHLTI-UHFFFAOYSA-N a skos:Concept;
+concept:VHHHONWQHHHLTI-UHFFFAOYSA-N dbo:casNumber "67-72-1";
+    dbo:ecNumber "200-666-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Hexachloroethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:VIONGDJUYAYOPU-UHFFFAOYSA-N a skos:Concept;
+concept:VIONGDJUYAYOPU-UHFFFAOYSA-N dbo:casNumber "27619-97-2";
+    dbo:ecNumber "248-580-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:VOWAEIGWURALJQ-UHFFFAOYSA-N a skos:Concept;
+concept:VOWAEIGWURALJQ-UHFFFAOYSA-N dbo:casNumber "84-61-7";
+    dbo:ecNumber "201-545-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dicyclohexyl phthalate"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:edlists_org_list_i, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N a skos:Concept;
+concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N dbo:casNumber "95-80-7";
+    dbo:ecNumber "202-453-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,4-toluenediamine"@nl, "4-methyl-<i>m</i>-phenylenediamine"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N a skos:Concept;
+concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N dbo:casNumber "97-00-7";
+    dbo:ecNumber "202-551-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1-chloro-2,4-dinitrobenzene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:VZGDMQKNWNREIO-UHFFFAOYSA-N a skos:Concept;
+concept:VZGDMQKNWNREIO-UHFFFAOYSA-N dbo:casNumber "56-23-5";
+    dbo:ecNumber "200-262-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Carbon tetrachloride"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WABPQHHGFIMREM-UHFFFAOYSA-N a skos:Concept;
+concept:WABPQHHGFIMREM-UHFFFAOYSA-N dbo:casNumber "7439-92-1";
+    dbo:ecNumber "231-100-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Lead"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:WBEJYOJJBDISQU-UHFFFAOYSA-N a skos:Concept;
+concept:WBEJYOJJBDISQU-UHFFFAOYSA-N dbo:casNumber "96-12-8";
+    dbo:ecNumber "202-479-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-dibromo-3-chloropropane"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N a skos:Concept;
+concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N dbo:casNumber "35822-46-9";
+    dbo:ecNumber "694-835-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N a skos:Concept;
+concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N dbo:casNumber "39227-28-6";
+    dbo:ecNumber "694-767-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,7,8-Hexachlorodibenzodioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WDECIBYCCFPHNR-UHFFFAOYSA-N a skos:Concept;
+concept:WDECIBYCCFPHNR-UHFFFAOYSA-N dbo:casNumber "218-01-9";
+    dbo:ecNumber "-";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Chrysen (CHR)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N a skos:Concept;
+concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N dbo:casNumber "67562-39-4";
+    dbo:ecNumber "694-815-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,4,6,7,8-Heptachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WJNRPILHGGKWCK-UHFFFAOYSA-N a skos:Concept;
+concept:WJNRPILHGGKWCK-UHFFFAOYSA-N dbo:casNumber "139-40-2";
+    dbo:ecNumber "205-359-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Propazine"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N a skos:Concept;
+concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N dbo:casNumber "7440-43-9";
+    dbo:ecNumber "231-152-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Cadmium"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:WMOVHXAZOJBABW-UHFFFAOYSA-N a skos:Concept;
+concept:WMOVHXAZOJBABW-UHFFFAOYSA-N dbo:casNumber "540-88-5";
+    dbo:ecNumber "208-760-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "tert-butyl acetate"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WRPIRSINYZBGPK-UHFFFAOYSA-N a skos:Concept;
+concept:WRPIRSINYZBGPK-UHFFFAOYSA-N dbo:casNumber "124495-18-7";
+    dbo:ecNumber "602-997-3";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Quinoxyfen"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N a skos:Concept;
+concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N dbo:casNumber "50-00-0";
+    dbo:ecNumber "200-001-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Formaldehyde"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:WSLDOOZREJYCGB-UHFFFAOYSA-N a skos:Concept;
+concept:WSLDOOZREJYCGB-UHFFFAOYSA-N dbo:casNumber "107-06-2";
+    dbo:ecNumber "203-458-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2-dichloroethane"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N a skos:Concept;
+concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N dbo:casNumber "15972-60-8";
+    dbo:ecNumber "240-110-8";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Alachlor"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:XKJMBINCVNINCA-UHFFFAOYSA-N a skos:Concept;
+concept:XKJMBINCVNINCA-UHFFFAOYSA-N dbo:casNumber "330-55-2";
+    dbo:ecNumber "206-356-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea"@nl, "linuron (ISO)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N a skos:Concept;
+concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N dbo:casNumber "330-54-1";
+    dbo:ecNumber "206-354-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Diuron"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N a skos:Concept;
+concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N dbo:casNumber "109-86-4";
+    dbo:ecNumber "203-713-7";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2-methoxyethanol"@nl, "ethylene glycol monomethyl ether"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N a skos:Concept;
+concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N dbo:casNumber "79-01-6";
+    dbo:ecNumber "201-167-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Trichloroethylene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:XTAHLACQOVXINQ-UHFFFAOYSA-N a skos:Concept;
+concept:XTAHLACQOVXINQ-UHFFFAOYSA-N dbo:casNumber "60851-34-5";
+    dbo:ecNumber "694-831-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2,3,4,6,7,8-Hexachlorodibenzofuran"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:YACLQRRMGMJLJV-UHFFFAOYSA-N a skos:Concept;
+concept:YACLQRRMGMJLJV-UHFFFAOYSA-N dbo:casNumber "126-99-8";
+    dbo:ecNumber "204-818-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2-chlorobuta-1,3-diene"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification.
-concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N a skos:Concept;
+concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N dbo:casNumber "101-77-9";
+    dbo:ecNumber "202-974-4";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "4,4'- Diaminodiphenylmethane (MDA)"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N a skos:Concept;
+concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N dbo:casNumber "57653-85-7";
+    dbo:ecNumber "694-811-2";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:YMWUJEATGCHHMB-UHFFFAOYSA-N a skos:Concept;
+concept:YMWUJEATGCHHMB-UHFFFAOYSA-N dbo:casNumber "75-09-2";
+    dbo:ecNumber "200-838-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Dichloromethane"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:YNPNZTXNASCQKK-UHFFFAOYSA-N a skos:Concept;
+concept:YNPNZTXNASCQKK-UHFFFAOYSA-N dbo:casNumber "85-01-8";
+    dbo:ecNumber "201-581-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Phenanthrene"@nl;
     skos:broader zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:YXFVVABEGXRONW-UHFFFAOYSA-N a skos:Concept;
+concept:YXFVVABEGXRONW-UHFFFAOYSA-N dbo:casNumber "108-88-3";
+    dbo:ecNumber "203-625-9";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Toluene"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N a skos:Concept;
+concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N dbo:casNumber "108-20-3";
+    dbo:ecNumber "203-560-6";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Diisopropyl ether"@nl;
     skos:broader zorgwekkende_stof:eigen;
     skos:broaderTransitive zorgwekkende_stof:eigen;
     skos:semanticRelation zorgwekkende_stof:eigen.
-concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N a skos:Concept;
+concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N dbo:casNumber "68-12-2";
+    dbo:ecNumber "200-679-5";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "N,N-dimethylformamide"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N a skos:Concept;
+concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N dbo:casNumber "110-80-5";
+    dbo:ecNumber "203-804-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "2-ethoxyethanol"@nl, "ethylene glycol monoethyl ether"@nl;
     skos:broader zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:broaderTransitive zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list;
     skos:semanticRelation zorgwekkende_stof:c_l_harmonized_classification, zorgwekkende_stof:reach_svhcc_candidate_list.
-concept:ZPQOPVIELGIULI-UHFFFAOYSA-N a skos:Concept;
+concept:ZPQOPVIELGIULI-UHFFFAOYSA-N dbo:casNumber "541-73-1";
+    dbo:ecNumber "208-792-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "1,3-dichlorobenzene"@nl.
-concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N a skos:Concept;
+concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N dbo:casNumber "26761-40-0";
+    dbo:ecNumber "247-977-1";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Di-“isodecyl” phthalate (DIDP)"@nl.
-concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N a skos:Concept;
+concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N dbo:casNumber "1024-57-3";
+    dbo:ecNumber "213-831-0";
+    a dbo:Biomolecule, skos:Concept;
     skos:altLabel "Heptachlor epoxide"@nl.
 zorgwekkende_stof:c_l_harmonized_classification a skos:Concept;
     skos:inScheme conceptscheme:zorgwekkende_stof;
