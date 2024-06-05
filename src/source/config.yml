@@ -12,7 +12,7 @@ skos:
   name: zorgwekkende_stof
   turtle: .ttl
   jsonld: .jsonld
-  xsd: .xsd
+  #xsd: .xsd
   csv: .csv
   rdf_xml: .rdf
   xlsx: .xlsx
