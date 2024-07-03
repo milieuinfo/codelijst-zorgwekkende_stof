@@ -19,3 +19,5 @@ temp/
 .idea/
 node_modules/
 codelijst-zorgwekkende_stof.iml
+src/.env
+src/utils/setenv.js
