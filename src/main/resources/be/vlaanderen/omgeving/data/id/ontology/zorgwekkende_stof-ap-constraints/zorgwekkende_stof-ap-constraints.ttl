@@ -61,7 +61,7 @@ ons:schema
     sh:description   "Het schema waarbinnen de matrices gedefinieerd zijn"@en ;
     rdfs:isDefinedBy omg_ont:zorgwekkende_stof-ap-constraints, omg_voc:zorgwekkende_stof-ap-constraints ;
     sh:property      omg_ps:conceptscheme_prefLabel, omg_ps:schema_hasTopConcept,
-                     omg_ps:definition, omg_ps:rdf_type;
+                     omg_ps:definition, omg_ps:rdf_type, omg_ps:altLabel;
         sh:closed true ;
     sh:targetClass   skos:ConceptScheme .
 

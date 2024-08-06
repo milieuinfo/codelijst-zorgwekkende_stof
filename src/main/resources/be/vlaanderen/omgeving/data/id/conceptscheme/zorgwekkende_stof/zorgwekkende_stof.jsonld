@@ -2967,6 +2967,7 @@
         {
             "id": "conceptscheme:zorgwekkende_stof",
             "type": "skos:ConceptScheme",
+            "altLabel": "lijst van zorgwekkende stoffen",
             "hasTopConcept": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
                 "zorgwekkende_stof:reach_svhcc_candidate_list",

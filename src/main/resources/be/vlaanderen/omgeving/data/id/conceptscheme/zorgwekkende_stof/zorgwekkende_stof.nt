@@ -1864,6 +1864,7 @@
 <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/reach_svhcc_candidate_list> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/ZNQVEEAIQZEUHB-UHFFFAOYSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/reach_svhcc_candidate_list> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> <http://www.w3.org/2004/02/skos/core#altLabel> "lijst van zorgwekkende stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/c_l_harmonized_classification> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/edlists_org_list_i> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/pop_regulation> .
