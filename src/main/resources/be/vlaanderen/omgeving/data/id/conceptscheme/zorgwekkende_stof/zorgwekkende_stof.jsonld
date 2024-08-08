@@ -465,6 +465,7 @@
         {
             "id": "collectie:edlists_org_list_i",
             "type": "skos:Collection",
+            "altLabel": "lijst van hormoonontregelaars",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
