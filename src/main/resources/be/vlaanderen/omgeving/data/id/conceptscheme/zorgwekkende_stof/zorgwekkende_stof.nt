@@ -58,6 +58,7 @@
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/c_l_harmonized_classification> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/ZNQVEEAIQZEUHB-UHFFFAOYSA-N> .
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/c_l_harmonized_classification> <http://www.w3.org/2004/02/skos/core#prefLabel> "C&L Harmonized classification"@nl .
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/edlists_org_list_i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/edlists_org_list_i> <http://www.w3.org/2004/02/skos/core#altLabel> "lijst van hormoonontregelaars"@nl .
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/edlists_org_list_i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/zorgwekkende_stof> .
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/edlists_org_list_i> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/DOIRQSBPFJWKBE-UHFFFAOYSA-N> .
 <https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/edlists_org_list_i> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/IISBACLAFKSPIT-UHFFFAOYSA-N> .
