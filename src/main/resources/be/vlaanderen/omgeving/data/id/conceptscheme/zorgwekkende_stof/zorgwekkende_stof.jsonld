@@ -612,7 +612,10 @@
         },
         {
             "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "919005-14-4",
             "ecNumber": "700-835-7",
             "altLabel": "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",
@@ -623,7 +626,10 @@
         },
         {
             "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "71850-09-4",
             "ecNumber": "276-090-2",
             "altLabel": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
@@ -643,7 +649,10 @@
         },
         {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7440-41-7",
             "ecNumber": "231-150-7",
             "altLabel": "beryllium",
@@ -663,7 +672,10 @@
         },
         {
             "id": "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "129-00-0",
             "ecNumber": "204-927-3",
             "altLabel": "Pyrene",
@@ -674,7 +686,10 @@
         },
         {
             "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "88-73-3",
             "ecNumber": "201-854-9",
             "altLabel": "1-chloro-2-nitrobenzene",
@@ -685,7 +700,10 @@
         },
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "106-89-8",
             "ecNumber": "203-439-8",
             "altLabel": [
@@ -699,7 +717,10 @@
         },
         {
             "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-01-4",
             "ecNumber": "200-831-0",
             "altLabel": "Chloroethylene",
@@ -710,7 +731,10 @@
         },
         {
             "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "1634-04-4",
             "ecNumber": "216-653-1",
             "altLabel": "tert-butyl methyl ether",
@@ -721,7 +745,10 @@
         },
         {
             "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "96-18-4",
             "ecNumber": "202-486-1",
             "altLabel": "1,2,3-trichloropropane",
@@ -741,7 +768,10 @@
         },
         {
             "id": "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "13252-13-6",
             "ecNumber": "236-236-8",
             "altLabel": "2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid",
@@ -752,7 +782,10 @@
         },
         {
             "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "83-32-9",
             "ecNumber": "201-469-6",
             "altLabel": "Acenaphthene",
@@ -763,7 +796,10 @@
         },
         {
             "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "307-55-1",
             "ecNumber": "206-203-2",
             "altLabel": "Tricosafluorododecanoic acid",
@@ -774,7 +810,10 @@
         },
         {
             "id": "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "95-69-2",
             "ecNumber": "202-441-6",
             "altLabel": "4-chloro-<i>o</i>-toluidine",
@@ -785,7 +824,10 @@
         },
         {
             "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "127-18-4",
             "ecNumber": "204-825-9",
             "altLabel": "Tetrachloroethylene",
@@ -796,7 +838,10 @@
         },
         {
             "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "100-00-5",
             "ecNumber": "202-809-6",
             "altLabel": "1-chloro-4-nitrobenzene",
@@ -807,7 +852,10 @@
         },
         {
             "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "74070-46-5",
             "ecNumber": "277-704-1",
             "altLabel": "Aclonifen",
@@ -818,7 +866,10 @@
         },
         {
             "id": "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "96-23-1",
             "ecNumber": "202-491-9",
             "altLabel": "1,3-dichloro-2-propanol",
@@ -829,7 +880,10 @@
         },
         {
             "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-65-0",
             "ecNumber": "200-889-7",
             "altLabel": "2-methylpropan-2-ol",
@@ -840,7 +894,10 @@
         },
         {
             "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "84-74-2",
             "ecNumber": "201-557-4",
             "altLabel": [
@@ -866,7 +923,10 @@
         },
         {
             "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "56-55-3",
             "ecNumber": "200-280-6",
             "altLabel": "benz[<i>a</i>]anthracene",
@@ -886,7 +946,10 @@
         },
         {
             "id": "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "3268-87-9",
             "ecNumber": "694-813-3",
             "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",
@@ -897,7 +960,10 @@
         },
         {
             "id": "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "470-90-6",
             "ecNumber": "207-432-0",
             "altLabel": "Chlorfenvinphos",
@@ -908,7 +974,10 @@
         },
         {
             "id": "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "40321-76-4",
             "ecNumber": "694-814-9",
             "altLabel": "1,2,3,7,8-Pentachlorodibenzo-p-dioxin",
@@ -919,7 +988,10 @@
         },
         {
             "id": "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-56-9",
             "ecNumber": "200-879-2",
             "altLabel": [
@@ -943,7 +1015,10 @@
         },
         {
             "id": "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7440-48-4",
             "ecNumber": "231-158-0",
             "altLabel": "cobalt",
@@ -954,7 +1029,10 @@
         },
         {
             "id": "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "206-44-0",
             "ecNumber": "205-912-4",
             "altLabel": "Fluoranthene",
@@ -965,7 +1043,10 @@
         },
         {
             "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "191-24-2",
             "ecNumber": "205-883-8",
             "altLabel": "Benzo(g,h,i)perylene",
@@ -976,7 +1057,10 @@
         },
         {
             "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "28159-98-0",
             "ecNumber": "248-872-3",
             "altLabel": "Cybutryne",
@@ -987,7 +1071,10 @@
         },
         {
             "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "67-66-3",
             "ecNumber": "200-663-8",
             "altLabel": "Chloroform",
@@ -998,7 +1085,10 @@
         },
         {
             "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "92-87-5",
             "ecNumber": "202-199-1",
             "altLabel": "Benzidine",
@@ -1009,7 +1099,10 @@
         },
         {
             "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "120-83-2",
             "ecNumber": "204-429-6",
             "altLabel": "2,4-dichlorophenol",
@@ -1020,7 +1113,10 @@
         },
         {
             "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "1746-01-6",
             "ecNumber": "217-122-7",
             "altLabel": "2,3,7,8-Tetrachlorodibenzo-p-dioxin",
@@ -1031,7 +1127,10 @@
         },
         {
             "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-00-3",
             "ecNumber": "200-830-5",
             "altLabel": "Chloroethane",
@@ -1041,7 +1140,10 @@
         },
         {
             "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "91-94-1",
             "ecNumber": "202-109-0",
             "altLabel": [
@@ -1054,7 +1156,10 @@
         },
         {
             "id": "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "101-14-4",
             "ecNumber": "202-918-9",
             "altLabel": "2,2'-dichloro-4,4'-methylenedianiline",
@@ -1073,7 +1178,10 @@
         },
         {
             "id": "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "80-05-7",
             "ecNumber": "201-245-8",
             "altLabel": "4,4'-isopropylidenediphenol; Bisphenol A",
@@ -1095,7 +1203,10 @@
         },
         {
             "id": "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "131-18-0",
             "ecNumber": "205-017-9",
             "altLabel": "Dipentyl phthalate (DPP)",
@@ -1114,7 +1225,10 @@
         },
         {
             "id": "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "85-68-7",
             "ecNumber": "201-622-7",
             "altLabel": "Benzyl butyl phthalate (BBP)",
@@ -1136,7 +1250,10 @@
         },
         {
             "id": "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "886-50-0",
             "ecNumber": "212-950-5",
             "altLabel": "Terbutryn",
@@ -1146,7 +1263,10 @@
         },
         {
             "id": "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "605-50-5",
             "ecNumber": "210-088-4",
             "altLabel": "Diisopentyl phthalate",
@@ -1165,7 +1285,10 @@
         },
         {
             "id": "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "91-59-8",
             "ecNumber": "202-080-4",
             "altLabel": "2-naphthylamine",
@@ -1175,7 +1298,10 @@
         },
         {
             "id": "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "57117-44-9",
             "ecNumber": "694-837-4",
             "altLabel": "1,2,3,6,7,8-Hexachlorodibenzofuran",
@@ -1185,7 +1311,10 @@
         },
         {
             "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "375-73-5",
             "ecNumber": "206-793-1",
             "altLabel": "1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid",
@@ -1195,7 +1324,10 @@
         },
         {
             "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "84852-15-3",
             "ecNumber": "284-325-5",
             "altLabel": "Phenol, 4-nonyl-, branched",
@@ -1214,7 +1346,10 @@
         },
         {
             "id": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "375-85-9",
             "ecNumber": "206-798-9",
             "altLabel": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
@@ -1233,7 +1368,10 @@
         },
         {
             "id": "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "52315-07-8",
             "ecNumber": "257-842-9",
             "altLabel": "Cypermethrin;zeta-Cypermethrin",
@@ -1243,7 +1381,10 @@
         },
         {
             "id": "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "106-99-0",
             "ecNumber": "203-450-8",
             "altLabel": [
@@ -1256,7 +1397,10 @@
         },
         {
             "id": "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "100-44-7",
             "ecNumber": "202-853-6",
             "altLabel": [
@@ -1269,7 +1413,10 @@
         },
         {
             "id": "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "84-75-3",
             "ecNumber": "201-559-5",
             "altLabel": "Dihexyl phthalate",
@@ -1288,7 +1435,10 @@
         },
         {
             "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "156-60-5",
             "ecNumber": "205-860-2",
             "altLabel": "trans-dichloroethylene",
@@ -1298,7 +1448,10 @@
         },
         {
             "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "78-87-5",
             "ecNumber": "201-152-2",
             "altLabel": [
@@ -1311,7 +1464,10 @@
         },
         {
             "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "51207-31-9",
             "ecNumber": "694-829-0",
             "altLabel": "2,3,7,8-Tetrachlorodibenzofuran",
@@ -1321,7 +1477,10 @@
         },
         {
             "id": "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "19408-74-3",
             "ecNumber": "694-810-7",
             "altLabel": "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",
@@ -1331,7 +1490,10 @@
         },
         {
             "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-35-4",
             "ecNumber": "200-864-0",
             "altLabel": "1,1-Dichloroethene",
@@ -1341,7 +1503,10 @@
         },
         {
             "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "53-70-3",
             "ecNumber": "200-181-8",
             "altLabel": "Dibenzo[a,h]anthracene (DBAhA)",
@@ -1351,7 +1516,10 @@
         },
         {
             "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "72629-94-8",
             "ecNumber": "276-745-2",
             "altLabel": "Pentacosafluorotridecanoic acid",
@@ -1361,7 +1529,10 @@
         },
         {
             "id": "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "70648-26-9",
             "ecNumber": "694-812-8",
             "altLabel": "1,2,3,4,7,8-Hexachlorodibenzofuran",
@@ -1371,7 +1542,10 @@
         },
         {
             "id": "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "84-69-5",
             "ecNumber": "201-553-2",
             "altLabel": "Diisobutyl phthalate",
@@ -1393,7 +1567,10 @@
         },
         {
             "id": "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "117-84-0",
             "ecNumber": "204-214-7",
             "altLabel": "Di-n-octyl phthalate (DNOP)",
@@ -1403,7 +1580,10 @@
         },
         {
             "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "108-90-7",
             "ecNumber": "203-628-5",
             "altLabel": "Chlorobenzene",
@@ -1413,7 +1593,10 @@
         },
         {
             "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "120-12-7",
             "ecNumber": "204-371-1",
             "altLabel": "Anthracene",
@@ -1423,7 +1606,10 @@
         },
         {
             "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "1912-24-9",
             "ecNumber": "217-617-8",
             "altLabel": "Atrazine",
@@ -1433,7 +1619,10 @@
         },
         {
             "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "107-13-1",
             "ecNumber": "203-466-5",
             "altLabel": "acrylonitrile",
@@ -1443,7 +1632,10 @@
         },
         {
             "id": "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "151-56-4",
             "ecNumber": "205-793-9",
             "altLabel": [
@@ -1456,7 +1648,10 @@
         },
         {
             "id": "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "302-01-2",
             "ecNumber": "206-114-9",
             "altLabel": "Hydrazine",
@@ -1466,7 +1661,10 @@
         },
         {
             "id": "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "106-46-7",
             "ecNumber": "203-400-5",
             "altLabel": "1,4-Dichlorobenzene",
@@ -1476,7 +1674,10 @@
         },
         {
             "id": "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "122-34-9",
             "ecNumber": "204-535-2",
             "altLabel": "Simazine",
@@ -1486,7 +1687,10 @@
         },
         {
             "id": "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "62-73-7",
             "ecNumber": "200-547-7",
             "altLabel": "Dichlorvos",
@@ -1496,7 +1700,10 @@
         },
         {
             "id": "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "57117-31-4",
             "ecNumber": "694-761-1",
             "altLabel": "2,3,4,7,8-Pentachlorodibenzofuran",
@@ -1506,7 +1713,10 @@
         },
         {
             "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "106-93-4",
             "ecNumber": "203-444-5",
             "altLabel": "1,2-dibromoethane",
@@ -1516,7 +1726,10 @@
         },
         {
             "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "89-63-4",
             "ecNumber": "201-925-4",
             "altLabel": "4-chloro-2-nitroaniline",
@@ -1526,7 +1739,10 @@
         },
         {
             "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "335-76-2",
             "ecNumber": "206-400-3",
             "altLabel": "Nonadecafluorodecanoic acid",
@@ -1545,7 +1761,10 @@
         },
         {
             "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "108-42-9",
             "ecNumber": "203-581-0",
             "altLabel": "3-chloroaniline",
@@ -1555,7 +1774,10 @@
         },
         {
             "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "34123-59-6",
             "ecNumber": "251-835-4",
             "altLabel": "Isoproturon",
@@ -1565,7 +1787,10 @@
         },
         {
             "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-71-8",
             "ecNumber": "200-893-9",
             "altLabel": "Dichlorodifluoromethane",
@@ -1575,7 +1800,10 @@
         },
         {
             "id": "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "307-24-4",
             "ecNumber": "206-196-6",
             "altLabel": "Undecafluorohexanoic acid",
@@ -1585,7 +1813,10 @@
         },
         {
             "id": "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "72918-21-9",
             "ecNumber": "694-765-3",
             "altLabel": "1,2,3,7,8,9-Hexachlorodibenzofuran",
@@ -1595,7 +1826,10 @@
         },
         {
             "id": "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "79-34-5",
             "ecNumber": "201-197-8",
             "altLabel": "1,1,2,2-Tetrachloroethane",
@@ -1605,7 +1839,10 @@
         },
         {
             "id": "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7439-97-6",
             "ecNumber": "231-106-7",
             "altLabel": "Mercury",
@@ -1615,7 +1852,10 @@
         },
         {
             "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "106-47-8",
             "ecNumber": "203-401-0",
             "altLabel": "4-chloroaniline",
@@ -1625,7 +1865,10 @@
         },
         {
             "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "630-20-6",
             "ecNumber": "-",
             "altLabel": "1,1,1,2-Tetrachloroethane",
@@ -1635,7 +1878,10 @@
         },
         {
             "id": "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "355-46-4",
             "ecNumber": "206-587-1",
             "altLabel": "Perfluorohexane-1-sulphonic acid",
@@ -1645,7 +1891,10 @@
         },
         {
             "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "95-50-1",
             "ecNumber": "202-425-9",
             "altLabel": "1,2-dichlorobenzene",
@@ -1655,7 +1904,10 @@
         },
         {
             "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "39001-02-0",
             "ecNumber": "694-806-5",
             "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzofuran",
@@ -1665,7 +1917,10 @@
         },
         {
             "id": "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "71888-89-6",
             "ecNumber": "276-158-1",
             "altLabel": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
@@ -1684,7 +1939,10 @@
         },
         {
             "id": "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "95-53-4",
             "ecNumber": "202-429-0",
             "altLabel": "o-toluidine",
@@ -1703,7 +1961,10 @@
         },
         {
             "id": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7440-38-2",
             "ecNumber": "231-148-6",
             "altLabel": "Arsenic",
@@ -1713,7 +1974,10 @@
         },
         {
             "id": "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "376-06-7",
             "ecNumber": "206-803-4",
             "altLabel": "Heptacosafluorotetradecanoic acid",
@@ -1723,7 +1987,10 @@
         },
         {
             "id": "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "98-82-8",
             "ecNumber": "202-704-5",
             "altLabel": "Cumene",
@@ -1733,7 +2000,10 @@
         },
         {
             "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "123-91-1",
             "ecNumber": "204-661-8",
             "altLabel": "1,4-dioxane",
@@ -1752,7 +2022,10 @@
         },
         {
             "id": "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "57117-41-6",
             "ecNumber": "694-762-7",
             "altLabel": "1,2,3,7,8-Pentachlorodibenzofuran",
@@ -1762,7 +2035,10 @@
         },
         {
             "id": "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "2921-88-2",
             "ecNumber": "220-864-4",
             "altLabel": "Chlorpyrifos",
@@ -1772,7 +2048,10 @@
         },
         {
             "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "95-76-1",
             "ecNumber": "202-448-4",
             "altLabel": "3,4-dichloroaniline",
@@ -1782,7 +2061,10 @@
         },
         {
             "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "872-50-4",
             "ecNumber": "212-828-1",
             "altLabel": "1-Methyl-2-pyrrolidone (NMP)",
@@ -1801,7 +2083,10 @@
         },
         {
             "id": "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "2058-94-8",
             "ecNumber": "218-165-4",
             "altLabel": "Henicosafluoroundecanoic acid",
@@ -1811,7 +2096,10 @@
         },
         {
             "id": "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "42576-02-3",
             "ecNumber": "255-894-7",
             "altLabel": "Bifenox",
@@ -1821,7 +2109,10 @@
         },
         {
             "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "79-00-5",
             "ecNumber": "201-166-9",
             "altLabel": "1,1,2-trichloroethane",
@@ -1831,7 +2122,10 @@
         },
         {
             "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "91-20-3",
             "ecNumber": "202-049-5",
             "altLabel": "Naphthalene",
@@ -1841,7 +2135,10 @@
         },
         {
             "id": "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "630-08-0",
             "ecNumber": "211-128-3",
             "altLabel": "carbon monoxide",
@@ -1851,7 +2148,10 @@
         },
         {
             "id": "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "71-43-2",
             "ecNumber": "200-753-7",
             "altLabel": "Benzene",
@@ -1861,7 +2161,10 @@
         },
         {
             "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "71-55-6",
             "ecNumber": "200-756-3",
             "altLabel": "1,1,1-trichloroethane",
@@ -1871,7 +2174,10 @@
         },
         {
             "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "375-95-1",
             "ecNumber": "206-801-3",
             "altLabel": "Perfluorononan-1-oic-acid",
@@ -1890,7 +2196,10 @@
         },
         {
             "id": "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "77-78-1",
             "ecNumber": "201-058-1",
             "altLabel": "Dimethyl sulphate",
@@ -1909,7 +2218,10 @@
         },
         {
             "id": "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "55673-89-7",
             "ecNumber": "694-836-9",
             "altLabel": "1,2,3,4,7,8,9-Heptachlorodibenzofuran",
@@ -1919,7 +2231,10 @@
         },
         {
             "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "67-72-1",
             "ecNumber": "200-666-4",
             "altLabel": "Hexachloroethane",
@@ -1929,7 +2244,10 @@
         },
         {
             "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "27619-97-2",
             "ecNumber": "248-580-6",
             "altLabel": "3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid",
@@ -1939,7 +2257,10 @@
         },
         {
             "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "84-61-7",
             "ecNumber": "201-545-9",
             "altLabel": "Dicyclohexyl phthalate",
@@ -1961,7 +2282,10 @@
         },
         {
             "id": "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "95-80-7",
             "ecNumber": "202-453-1",
             "altLabel": [
@@ -1983,7 +2307,10 @@
         },
         {
             "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "97-00-7",
             "ecNumber": "202-551-4",
             "altLabel": "1-chloro-2,4-dinitrobenzene",
@@ -1993,7 +2320,10 @@
         },
         {
             "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "56-23-5",
             "ecNumber": "200-262-8",
             "altLabel": "Carbon tetrachloride",
@@ -2003,7 +2333,10 @@
         },
         {
             "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7439-92-1",
             "ecNumber": "231-100-4",
             "altLabel": "Lead",
@@ -2013,7 +2346,10 @@
         },
         {
             "id": "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "96-12-8",
             "ecNumber": "202-479-3",
             "altLabel": "1,2-dibromo-3-chloropropane",
@@ -2023,7 +2359,10 @@
         },
         {
             "id": "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "35822-46-9",
             "ecNumber": "694-835-3",
             "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",
@@ -2033,7 +2372,10 @@
         },
         {
             "id": "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "39227-28-6",
             "ecNumber": "694-767-4",
             "altLabel": "1,2,3,4,7,8-Hexachlorodibenzodioxin",
@@ -2043,7 +2385,10 @@
         },
         {
             "id": "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "218-01-9",
             "ecNumber": "-",
             "altLabel": "Chrysen (CHR)",
@@ -2062,7 +2407,10 @@
         },
         {
             "id": "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "67562-39-4",
             "ecNumber": "694-815-4",
             "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzofuran",
@@ -2072,7 +2420,10 @@
         },
         {
             "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "139-40-2",
             "ecNumber": "205-359-9",
             "altLabel": "Propazine",
@@ -2082,7 +2433,10 @@
         },
         {
             "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "7440-43-9",
             "ecNumber": "231-152-8",
             "altLabel": "Cadmium",
@@ -2092,7 +2446,10 @@
         },
         {
             "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "540-88-5",
             "ecNumber": "208-760-7",
             "altLabel": "tert-butyl acetate",
@@ -2102,7 +2459,10 @@
         },
         {
             "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "124495-18-7",
             "ecNumber": "602-997-3",
             "altLabel": "Quinoxyfen",
@@ -2112,7 +2472,10 @@
         },
         {
             "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "50-00-0",
             "ecNumber": "200-001-8",
             "altLabel": "Formaldehyde",
@@ -2122,7 +2485,10 @@
         },
         {
             "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "107-06-2",
             "ecNumber": "203-458-1",
             "altLabel": "1,2-dichloroethane",
@@ -2141,7 +2507,10 @@
         },
         {
             "id": "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "15972-60-8",
             "ecNumber": "240-110-8",
             "altLabel": "Alachlor",
@@ -2151,7 +2520,10 @@
         },
         {
             "id": "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "330-55-2",
             "ecNumber": "206-356-5",
             "altLabel": [
@@ -2184,7 +2556,10 @@
         },
         {
             "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "330-54-1",
             "ecNumber": "206-354-4",
             "altLabel": "Diuron",
@@ -2194,7 +2569,10 @@
         },
         {
             "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "109-86-4",
             "ecNumber": "203-713-7",
             "altLabel": [
@@ -2216,7 +2594,10 @@
         },
         {
             "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "79-01-6",
             "ecNumber": "201-167-4",
             "altLabel": "Trichloroethylene",
@@ -2235,7 +2616,10 @@
         },
         {
             "id": "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "60851-34-5",
             "ecNumber": "694-831-1",
             "altLabel": "2,3,4,6,7,8-Hexachlorodibenzofuran",
@@ -2245,7 +2629,10 @@
         },
         {
             "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "126-99-8",
             "ecNumber": "204-818-0",
             "altLabel": "2-chlorobuta-1,3-diene",
@@ -2255,7 +2642,10 @@
         },
         {
             "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "101-77-9",
             "ecNumber": "202-974-4",
             "altLabel": "4,4'- Diaminodiphenylmethane (MDA)",
@@ -2274,7 +2664,10 @@
         },
         {
             "id": "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "57653-85-7",
             "ecNumber": "694-811-2",
             "altLabel": "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",
@@ -2284,7 +2677,10 @@
         },
         {
             "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "75-09-2",
             "ecNumber": "200-838-9",
             "altLabel": "Dichloromethane",
@@ -2294,7 +2690,10 @@
         },
         {
             "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "85-01-8",
             "ecNumber": "201-581-5",
             "altLabel": "Phenanthrene",
@@ -2304,7 +2703,10 @@
         },
         {
             "id": "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "108-88-3",
             "ecNumber": "203-625-9",
             "altLabel": "Toluene",
@@ -2314,7 +2716,10 @@
         },
         {
             "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "108-20-3",
             "ecNumber": "203-560-6",
             "altLabel": "Diisopropyl ether",
@@ -2324,7 +2729,10 @@
         },
         {
             "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "68-12-2",
             "ecNumber": "200-679-5",
             "altLabel": "N,N-dimethylformamide",
@@ -2343,7 +2751,10 @@
         },
         {
             "id": "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "110-80-5",
             "ecNumber": "203-804-1",
             "altLabel": [
@@ -2365,21 +2776,30 @@
         },
         {
             "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "541-73-1",
             "ecNumber": "208-792-1",
             "altLabel": "1,3-dichlorobenzene"
         },
         {
             "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "26761-40-0",
             "ecNumber": "247-977-1",
             "altLabel": "Di-“isodecyl” phthalate (DIDP)"
         },
         {
             "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
-            "type": "skos:Concept",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
             "casNumber": "1024-57-3",
             "ecNumber": "213-831-0",
             "altLabel": "Heptachlor epoxide"
