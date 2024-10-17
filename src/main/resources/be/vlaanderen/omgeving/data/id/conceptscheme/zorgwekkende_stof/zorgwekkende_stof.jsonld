@@ -403,8 +403,8 @@
             "type": "skos:Collection",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -562,7 +562,7 @@
             "type": "skos:Collection",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "member": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -606,7 +606,8 @@
                 "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
                 "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
                 "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
             ],
             "prefLabel": "REACH SVHC Candidate list"
         },
@@ -623,29 +624,6 @@
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "71850-09-4",
-            "ecNumber": "276-090-2",
-            "altLabel": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
         },
         {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
@@ -697,6 +675,29 @@
             "broaderTransitive": "zorgwekkende_stof:eigen",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "semanticRelation": "zorgwekkende_stof:eigen"
+        },
+        {
+            "id": "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
+            "casNumber": "71850-09-4",
+            "ecNumber": "276-090-2",
+            "altLabel": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
+            "broader": [
+                "zorgwekkende_stof:c_l_harmonized_classification",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "broaderTransitive": [
+                "zorgwekkende_stof:c_l_harmonized_classification",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ],
+            "inScheme": "conceptscheme:zorgwekkende_stof",
+            "semanticRelation": [
+                "zorgwekkende_stof:c_l_harmonized_classification",
+                "zorgwekkende_stof:reach_svhcc_candidate_list"
+            ]
         },
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
@@ -2715,6 +2716,15 @@
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
+            "id": "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N",
+            "type": "skos:Concept",
+            "altLabel": "waterstof",
+            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
+            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+        },
+        {
             "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
             "type": [
                 "dbo:Biomolecule",
@@ -2809,8 +2819,8 @@
             "type": "skos:Concept",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -2867,8 +2877,8 @@
                 "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
             ],
             "narrowerTransitive": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -2926,8 +2936,8 @@
             ],
             "prefLabel": "C&L Harmonized classification",
             "semanticRelation": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
                 "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
@@ -3242,7 +3252,7 @@
             "type": "skos:Concept",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -3286,10 +3296,11 @@
                 "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
                 "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
                 "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
             ],
             "narrowerTransitive": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -3333,11 +3344,12 @@
                 "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
                 "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
                 "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
             ],
             "prefLabel": "REACH SVHC Candidate list",
             "semanticRelation": [
-                "concept:ALEROMXYYSQFLX-UHFFFAOYSA-N",
+                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
                 "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
                 "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
                 "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
@@ -3381,7 +3393,8 @@
                 "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
                 "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
                 "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N"
+                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
+                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
             ],
             "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
@@ -3391,8 +3404,8 @@
             "altLabel": "lijst van zorgwekkende stoffen",
             "hasTopConcept": [
                 "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:pop_regulation",
+                "zorgwekkende_stof:reach_svhcc_candidate_list",
                 "zorgwekkende_stof:edlists_org_list_i"
             ],
             "prefLabel": "Codelijst zorgwekkende stoffen"

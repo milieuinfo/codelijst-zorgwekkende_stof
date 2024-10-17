@@ -13,7 +13,7 @@ construct
 }
 
 where
-{{
+{graph <>{
     ?s a ?type ; ?p ?o .
     optional{?o a ?type2}
     bind(  COALESCE(
