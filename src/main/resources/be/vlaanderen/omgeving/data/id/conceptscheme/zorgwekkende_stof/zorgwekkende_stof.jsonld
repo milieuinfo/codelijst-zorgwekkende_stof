@@ -481,7 +481,6 @@
             "id": "collectie:eigen",
             "type": "skos:Collection",
             "member": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
                 "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
                 "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
@@ -531,6 +530,7 @@
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
                 "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
                 "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
                 "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
@@ -610,20 +610,6 @@
                 "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
             ],
             "prefLabel": "REACH SVHC Candidate list"
-        },
-        {
-            "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "919005-14-4",
-            "ecNumber": "700-835-7",
-            "altLabel": "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
@@ -2231,6 +2217,20 @@
             "semanticRelation": "zorgwekkende_stof:eigen"
         },
         {
+            "id": "concept:VFDRCEOKCOUICI-UHFFFAOYSA-N",
+            "type": [
+                "dbo:Biomolecule",
+                "skos:Concept"
+            ],
+            "casNumber": "919005-14-4",
+            "ecNumber": "700-835-7",
+            "altLabel": "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",
+            "broader": "zorgwekkende_stof:eigen",
+            "broaderTransitive": "zorgwekkende_stof:eigen",
+            "inScheme": "conceptscheme:zorgwekkende_stof",
+            "semanticRelation": "zorgwekkende_stof:eigen"
+        },
+        {
             "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
             "type": [
                 "dbo:Biomolecule",
@@ -3030,7 +3030,6 @@
             "id": "zorgwekkende_stof:eigen",
             "type": "skos:Concept",
             "narrower": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
                 "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
                 "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
@@ -3080,6 +3079,7 @@
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
                 "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
                 "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
                 "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
@@ -3099,7 +3099,6 @@
                 "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
             ],
             "narrowerTransitive": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
                 "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
                 "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
@@ -3149,6 +3148,7 @@
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
                 "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
                 "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
                 "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
@@ -3168,7 +3168,6 @@
                 "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
             ],
             "semanticRelation": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
                 "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
                 "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
@@ -3218,6 +3217,7 @@
                 "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
                 "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
                 "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
+                "concept:VFDRCEOKCOUICI-UHFFFAOYSA-N",
                 "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
                 "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
                 "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",

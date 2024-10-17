@@ -8,7 +8,7 @@ zorgwekkende_stof:c_l_harmonized_classification,skos:Concept,C&L Harmonized clas
 zorgwekkende_stof:edlists_org_list_i,skos:Concept,EndocrineDisruptor_List_I,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,
 zorgwekkende_stof:pop_regulation,skos:Concept,POP Regulation,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,
 zorgwekkende_stof:reach_svhcc_candidate_list,skos:Concept,REACH SVHC Candidate list,conceptscheme:zorgwekkende_stof,conceptscheme:zorgwekkende_stof,,,,,,,,,
-AFDRCEOKCOUICI-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,"2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",zorgwekkende_stof:eigen,collectie:eigen,,,,,700-835-7,919005-14-4
+VFDRCEOKCOUICI-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,"2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",zorgwekkende_stof:eigen,collectie:eigen,,,,,700-835-7,919005-14-4
 BLEROMXYYSQFLX-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,"1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",zorgwekkende_stof:c_l_harmonized_classification|zorgwekkende_stof:reach_svhcc_candidate_list,collectie:c_l_harmonized_classification|collectie:reach_svhcc_candidate_list,2,,,2,276-090-2,71850-09-4
 ATBAMAFKBVZNFJ-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,beryllium,zorgwekkende_stof:c_l_harmonized_classification|zorgwekkende_stof:pop_regulation,collectie:c_l_harmonized_classification|collectie:pop_regulation,1,,1,,231-150-7,7440-41-7
 BBEAQIROQSPTKN-UHFFFAOYSA-N,skos:Concept,,,conceptscheme:zorgwekkende_stof,Pyrene,zorgwekkende_stof:reach_svhcc_candidate_list,collectie:reach_svhcc_candidate_list,,,,1,204-927-3,129-00-0
