@@ -10,7 +10,7 @@
   <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
   <artifactId>codelijst-zorgwekkende_stof</artifactId>
   <version>0.1.0-SNAPSHOT</version>
-  <name>,codelijst-zorgwekkende_stof</name>
+  <name>codelijst-zorgwekkende_stof</name>
   <description />
   <scm>
     <connection>scm:git:https://github.com/milieuinfo/codelijst-zorgwekkende_stof.git</connection>
