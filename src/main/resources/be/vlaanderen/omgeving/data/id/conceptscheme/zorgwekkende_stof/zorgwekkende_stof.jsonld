@@ -339,11 +339,24 @@
             "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
             "@type": "@id"
         },
+        "hasBody": {
+            "@id": "http://www.w3.org/ns/oa#hasBody",
+            "@type": "@id"
+        },
+        "hasTarget": {
+            "@id": "http://www.w3.org/ns/oa#hasTarget",
+            "@type": "@id"
+        },
+        "motivatedBy": {
+            "@id": "http://www.w3.org/ns/oa#motivatedBy",
+            "@type": "@id"
+        },
         "concept": "https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/",
         "zorgwekkende_stof": "https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/",
         "collectie": "https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/",
         "access_right": "http://publications.europa.eu/resource/authority/access-right/",
         "adms": "http://www.w3.org/ns/adms#",
+        "annotation": "https://data.omgeving.vlaanderen.be/id/annotation/",
         "assettype": "http://purl.org/adms/assettype/",
         "conceptscheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
         "country": "http://publications.europa.eu/resource/authority/country/",
@@ -363,6 +376,7 @@
         "gemet": "http://www.eionet.europa.eu/gemet/concept/",
         "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
         "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
+        "oa": "http://www.w3.org/ns/oa#",
         "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
         "omg_catalog_doc": "https://data.omgeving.vlaanderen.be/doc/catalog/",
         "omg_collection": "https://data.omgeving.vlaanderen.be/id/collection/",
@@ -400,3014 +414,343 @@
     "graph": [
         {
             "id": "collectie:c_l_harmonized_classification",
-            "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "member": [
-                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
+            "type": [
+                "skos:Collection",
+                "skos:Concept",
+                "oa:Motivation"
             ],
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "prefLabel": "C&L Harmonized classification"
         },
         {
             "id": "collectie:edlists_org_list_i",
-            "type": "skos:Collection",
-            "altLabel": "lijst van hormoonontregelaars",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "member": [
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
+            "type": [
+                "skos:Collection",
+                "skos:Concept",
+                "oa:Motivation"
             ],
-            "prefLabel": "EndocrineDisruptor_List_I"
-        },
-        {
-            "id": "collectie:eigen",
-            "type": "skos:Collection",
-            "member": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
-            ]
+            "inScheme": "conceptscheme:zorgwekkende_stof",
+            "prefLabel": "EndocrineDisruptor List I"
         },
         {
             "id": "collectie:pop_regulation",
-            "type": "skos:Collection",
+            "type": [
+                "skos:Collection",
+                "skos:Concept",
+                "oa:Motivation"
+            ],
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "member": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
             "prefLabel": "POP Regulation"
         },
         {
             "id": "collectie:reach_svhcc_candidate_list",
-            "type": "skos:Collection",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "member": [
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
+            "type": [
+                "skos:Collection",
+                "skos:Concept",
+                "oa:Motivation"
             ],
+            "inScheme": "conceptscheme:zorgwekkende_stof",
             "prefLabel": "REACH SVHC Candidate list"
         },
         {
-            "id": "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "919005-14-4",
-            "ecNumber": "700-835-7",
-            "altLabel": "2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
             "id": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7440-41-7",
-            "ecNumber": "231-150-7",
-            "altLabel": "beryllium",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:pop_regulation"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:pop_regulation"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:pop_regulation"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "129-00-0",
-            "ecNumber": "204-927-3",
-            "altLabel": "Pyrene",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "88-73-3",
-            "ecNumber": "201-854-9",
-            "altLabel": "1-chloro-2-nitrobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "71850-09-4",
-            "ecNumber": "276-090-2",
-            "altLabel": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "106-89-8",
-            "ecNumber": "203-439-8",
-            "altLabel": [
-                "1-chloro-2,3-epoxypropane",
-                "epichlorhydrin"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-01-4",
-            "ecNumber": "200-831-0",
-            "altLabel": "Chloroethylene",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "1634-04-4",
-            "ecNumber": "216-653-1",
-            "altLabel": "tert-butyl methyl ether",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "96-18-4",
-            "ecNumber": "202-486-1",
-            "altLabel": "1,2,3-trichloropropane",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "13252-13-6",
-            "ecNumber": "236-236-8",
-            "altLabel": "2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "83-32-9",
-            "ecNumber": "201-469-6",
-            "altLabel": "Acenaphthene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "307-55-1",
-            "ecNumber": "206-203-2",
-            "altLabel": "Tricosafluorododecanoic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "95-69-2",
-            "ecNumber": "202-441-6",
-            "altLabel": "4-chloro-<i>o</i>-toluidine",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "127-18-4",
-            "ecNumber": "204-825-9",
-            "altLabel": "Tetrachloroethylene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "100-00-5",
-            "ecNumber": "202-809-6",
-            "altLabel": "1-chloro-4-nitrobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "74070-46-5",
-            "ecNumber": "277-704-1",
-            "altLabel": "Aclonifen",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "96-23-1",
-            "ecNumber": "202-491-9",
-            "altLabel": "1,3-dichloro-2-propanol",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-65-0",
-            "ecNumber": "200-889-7",
-            "altLabel": "2-methylpropan-2-ol",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "84-74-2",
-            "ecNumber": "201-557-4",
-            "altLabel": [
-                "DBP",
-                "dibutyl phthalate"
-            ],
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "56-55-3",
-            "ecNumber": "200-280-6",
-            "altLabel": "benz[<i>a</i>]anthracene",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "3268-87-9",
-            "ecNumber": "694-813-3",
-            "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "470-90-6",
-            "ecNumber": "207-432-0",
-            "altLabel": "Chlorfenvinphos",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "40321-76-4",
-            "ecNumber": "694-814-9",
-            "altLabel": "1,2,3,7,8-Pentachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-56-9",
-            "ecNumber": "200-879-2",
-            "altLabel": [
-                "1,2-epoxypropane",
-                "methyloxirane",
-                "propylene oxide"
-            ],
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7440-48-4",
-            "ecNumber": "231-158-0",
-            "altLabel": "cobalt",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "206-44-0",
-            "ecNumber": "205-912-4",
-            "altLabel": "Fluoranthene",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "191-24-2",
-            "ecNumber": "205-883-8",
-            "altLabel": "Benzo(g,h,i)perylene",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "28159-98-0",
-            "ecNumber": "248-872-3",
-            "altLabel": "Cybutryne",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "67-66-3",
-            "ecNumber": "200-663-8",
-            "altLabel": "Chloroform",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "92-87-5",
-            "ecNumber": "202-199-1",
-            "altLabel": "Benzidine",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "120-83-2",
-            "ecNumber": "204-429-6",
-            "altLabel": "2,4-dichlorophenol",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "1746-01-6",
-            "ecNumber": "217-122-7",
-            "altLabel": "2,3,7,8-Tetrachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-00-3",
-            "ecNumber": "200-830-5",
-            "altLabel": "Chloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "91-94-1",
-            "ecNumber": "202-109-0",
-            "altLabel": [
-                "3,3'-dichlorobenzidine",
-                "3,3'-dichlorobiphenyl-4,4'-ylenediamine"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "101-14-4",
-            "ecNumber": "202-918-9",
-            "altLabel": "2,2'-dichloro-4,4'-methylenedianiline",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "80-05-7",
-            "ecNumber": "201-245-8",
-            "altLabel": "4,4'-isopropylidenediphenol; Bisphenol A",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "131-18-0",
-            "ecNumber": "205-017-9",
-            "altLabel": "Dipentyl phthalate (DPP)",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "85-68-7",
-            "ecNumber": "201-622-7",
-            "altLabel": "Benzyl butyl phthalate (BBP)",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
-        },
-        {
-            "id": "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "886-50-0",
-            "ecNumber": "212-950-5",
-            "altLabel": "Terbutryn",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "605-50-5",
-            "ecNumber": "210-088-4",
-            "altLabel": "Diisopentyl phthalate",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "91-59-8",
-            "ecNumber": "202-080-4",
-            "altLabel": "2-naphthylamine",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "57117-44-9",
-            "ecNumber": "694-837-4",
-            "altLabel": "1,2,3,6,7,8-Hexachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "375-73-5",
-            "ecNumber": "206-793-1",
-            "altLabel": "1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "84852-15-3",
-            "ecNumber": "284-325-5",
-            "altLabel": "Phenol, 4-nonyl-, branched",
-            "broader": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "375-85-9",
-            "ecNumber": "206-798-9",
-            "altLabel": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "52315-07-8",
-            "ecNumber": "257-842-9",
-            "altLabel": "Cypermethrin;zeta-Cypermethrin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "106-99-0",
-            "ecNumber": "203-450-8",
-            "altLabel": [
-                "1,3-butadiene",
-                "buta-1,3-diene"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "100-44-7",
-            "ecNumber": "202-853-6",
-            "altLabel": [
-                "benzyl chloride",
-                "α-chlorotoluene"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "84-75-3",
-            "ecNumber": "201-559-5",
-            "altLabel": "Dihexyl phthalate",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "156-60-5",
-            "ecNumber": "205-860-2",
-            "altLabel": "trans-dichloroethylene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "78-87-5",
-            "ecNumber": "201-152-2",
-            "altLabel": [
-                "1,2-dichloropropane",
-                "propylene dichloride"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "51207-31-9",
-            "ecNumber": "694-829-0",
-            "altLabel": "2,3,7,8-Tetrachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "19408-74-3",
-            "ecNumber": "694-810-7",
-            "altLabel": "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-35-4",
-            "ecNumber": "200-864-0",
-            "altLabel": "1,1-Dichloroethene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "53-70-3",
-            "ecNumber": "200-181-8",
-            "altLabel": "Dibenzo[a,h]anthracene (DBAhA)",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "72629-94-8",
-            "ecNumber": "276-745-2",
-            "altLabel": "Pentacosafluorotridecanoic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "70648-26-9",
-            "ecNumber": "694-812-8",
-            "altLabel": "1,2,3,4,7,8-Hexachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "84-69-5",
-            "ecNumber": "201-553-2",
-            "altLabel": "Diisobutyl phthalate",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
-        },
-        {
-            "id": "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "117-84-0",
-            "ecNumber": "204-214-7",
-            "altLabel": "Di-n-octyl phthalate (DNOP)",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "108-90-7",
-            "ecNumber": "203-628-5",
-            "altLabel": "Chlorobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "120-12-7",
-            "ecNumber": "204-371-1",
-            "altLabel": "Anthracene",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "1912-24-9",
-            "ecNumber": "217-617-8",
-            "altLabel": "Atrazine",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "107-13-1",
-            "ecNumber": "203-466-5",
-            "altLabel": "acrylonitrile",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "151-56-4",
-            "ecNumber": "205-793-9",
-            "altLabel": [
-                "aziridine",
-                "ethyleneimine"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "302-01-2",
-            "ecNumber": "206-114-9",
-            "altLabel": "Hydrazine",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "106-46-7",
-            "ecNumber": "203-400-5",
-            "altLabel": "1,4-Dichlorobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "122-34-9",
-            "ecNumber": "204-535-2",
-            "altLabel": "Simazine",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "62-73-7",
-            "ecNumber": "200-547-7",
-            "altLabel": "Dichlorvos",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "57117-31-4",
-            "ecNumber": "694-761-1",
-            "altLabel": "2,3,4,7,8-Pentachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "106-93-4",
-            "ecNumber": "203-444-5",
-            "altLabel": "1,2-dibromoethane",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "89-63-4",
-            "ecNumber": "201-925-4",
-            "altLabel": "4-chloro-2-nitroaniline",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "335-76-2",
-            "ecNumber": "206-400-3",
-            "altLabel": "Nonadecafluorodecanoic acid",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "108-42-9",
-            "ecNumber": "203-581-0",
-            "altLabel": "3-chloroaniline",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "34123-59-6",
-            "ecNumber": "251-835-4",
-            "altLabel": "Isoproturon",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-71-8",
-            "ecNumber": "200-893-9",
-            "altLabel": "Dichlorodifluoromethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "307-24-4",
-            "ecNumber": "206-196-6",
-            "altLabel": "Undecafluorohexanoic acid",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "72918-21-9",
-            "ecNumber": "694-765-3",
-            "altLabel": "1,2,3,7,8,9-Hexachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "79-34-5",
-            "ecNumber": "201-197-8",
-            "altLabel": "1,1,2,2-Tetrachloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7439-97-6",
-            "ecNumber": "231-106-7",
-            "altLabel": "Mercury",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "106-47-8",
-            "ecNumber": "203-401-0",
-            "altLabel": "4-chloroaniline",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "630-20-6",
-            "ecNumber": "-",
-            "altLabel": "1,1,1,2-Tetrachloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "355-46-4",
-            "ecNumber": "206-587-1",
-            "altLabel": "Perfluorohexane-1-sulphonic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "95-50-1",
-            "ecNumber": "202-425-9",
-            "altLabel": "1,2-dichlorobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "39001-02-0",
-            "ecNumber": "694-806-5",
-            "altLabel": "1,2,3,4,6,7,8,9-Octachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "71888-89-6",
-            "ecNumber": "276-158-1",
-            "altLabel": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "95-53-4",
-            "ecNumber": "202-429-0",
-            "altLabel": "o-toluidine",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7440-38-2",
-            "ecNumber": "231-148-6",
-            "altLabel": "Arsenic",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "376-06-7",
-            "ecNumber": "206-803-4",
-            "altLabel": "Heptacosafluorotetradecanoic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "98-82-8",
-            "ecNumber": "202-704-5",
-            "altLabel": "Cumene",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "123-91-1",
-            "ecNumber": "204-661-8",
-            "altLabel": "1,4-dioxane",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "57117-41-6",
-            "ecNumber": "694-762-7",
-            "altLabel": "1,2,3,7,8-Pentachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "2921-88-2",
-            "ecNumber": "220-864-4",
-            "altLabel": "Chlorpyrifos",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "95-76-1",
-            "ecNumber": "202-448-4",
-            "altLabel": "3,4-dichloroaniline",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "872-50-4",
-            "ecNumber": "212-828-1",
-            "altLabel": "1-Methyl-2-pyrrolidone (NMP)",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "2058-94-8",
-            "ecNumber": "218-165-4",
-            "altLabel": "Henicosafluoroundecanoic acid",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "42576-02-3",
-            "ecNumber": "255-894-7",
-            "altLabel": "Bifenox",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "79-00-5",
-            "ecNumber": "201-166-9",
-            "altLabel": "1,1,2-trichloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "91-20-3",
-            "ecNumber": "202-049-5",
-            "altLabel": "Naphthalene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "630-08-0",
-            "ecNumber": "211-128-3",
-            "altLabel": "carbon monoxide",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "71-43-2",
-            "ecNumber": "200-753-7",
-            "altLabel": "Benzene",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "71-55-6",
-            "ecNumber": "200-756-3",
-            "altLabel": "1,1,1-trichloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "375-95-1",
-            "ecNumber": "206-801-3",
-            "altLabel": "Perfluorononan-1-oic-acid",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "77-78-1",
-            "ecNumber": "201-058-1",
-            "altLabel": "Dimethyl sulphate",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "55673-89-7",
-            "ecNumber": "694-836-9",
-            "altLabel": "1,2,3,4,7,8,9-Heptachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "67-72-1",
-            "ecNumber": "200-666-4",
-            "altLabel": "Hexachloroethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "27619-97-2",
-            "ecNumber": "248-580-6",
-            "altLabel": "3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "84-61-7",
-            "ecNumber": "201-545-9",
-            "altLabel": "Dicyclohexyl phthalate",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "95-80-7",
-            "ecNumber": "202-453-1",
-            "altLabel": [
-                "2,4-toluenediamine",
-                "4-methyl-<i>m</i>-phenylenediamine"
-            ],
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "97-00-7",
-            "ecNumber": "202-551-4",
-            "altLabel": "1-chloro-2,4-dinitrobenzene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "56-23-5",
-            "ecNumber": "200-262-8",
-            "altLabel": "Carbon tetrachloride",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7439-92-1",
-            "ecNumber": "231-100-4",
-            "altLabel": "Lead",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "96-12-8",
-            "ecNumber": "202-479-3",
-            "altLabel": "1,2-dibromo-3-chloropropane",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
-        },
-        {
-            "id": "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "35822-46-9",
-            "ecNumber": "694-835-3",
-            "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "39227-28-6",
-            "ecNumber": "694-767-4",
-            "altLabel": "1,2,3,4,7,8-Hexachlorodibenzodioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "218-01-9",
-            "ecNumber": "-",
-            "altLabel": "Chrysen (CHR)",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "67562-39-4",
-            "ecNumber": "694-815-4",
-            "altLabel": "1,2,3,4,6,7,8-Heptachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "139-40-2",
-            "ecNumber": "205-359-9",
-            "altLabel": "Propazine",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "7440-43-9",
-            "ecNumber": "231-152-8",
-            "altLabel": "Cadmium",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "540-88-5",
-            "ecNumber": "208-760-7",
-            "altLabel": "tert-butyl acetate",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "124495-18-7",
-            "ecNumber": "602-997-3",
-            "altLabel": "Quinoxyfen",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "50-00-0",
-            "ecNumber": "200-001-8",
-            "altLabel": "Formaldehyde",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "107-06-2",
-            "ecNumber": "203-458-1",
-            "altLabel": "1,2-dichloroethane",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "15972-60-8",
-            "ecNumber": "240-110-8",
-            "altLabel": "Alachlor",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "330-55-2",
-            "ecNumber": "206-356-5",
-            "altLabel": [
-                "3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",
-                "linuron (ISO)"
-            ],
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "casNumber": "84776-64-7",
-            "altLabel": "gedestilleerd water",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "prefLabel": "water",
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "330-54-1",
-            "ecNumber": "206-354-4",
-            "altLabel": "Diuron",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "109-86-4",
-            "ecNumber": "203-713-7",
-            "altLabel": [
-                "2-methoxyethanol",
-                "ethylene glycol monomethyl ether"
-            ],
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "79-01-6",
-            "ecNumber": "201-167-4",
-            "altLabel": "Trichloroethylene",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "60851-34-5",
-            "ecNumber": "694-831-1",
-            "altLabel": "2,3,4,6,7,8-Hexachlorodibenzofuran",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "126-99-8",
-            "ecNumber": "204-818-0",
-            "altLabel": "2-chlorobuta-1,3-diene",
-            "broader": "zorgwekkende_stof:c_l_harmonized_classification",
-            "broaderTransitive": "zorgwekkende_stof:c_l_harmonized_classification",
-            "semanticRelation": "zorgwekkende_stof:c_l_harmonized_classification"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "101-77-9",
-            "ecNumber": "202-974-4",
-            "altLabel": "4,4'- Diaminodiphenylmethane (MDA)",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
-        },
-        {
-            "id": "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "57653-85-7",
-            "ecNumber": "694-811-2",
-            "altLabel": "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
-        },
-        {
-            "id": "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "75-09-2",
-            "ecNumber": "200-838-9",
-            "altLabel": "Dichloromethane",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "85-01-8",
-            "ecNumber": "201-581-5",
-            "altLabel": "Phenanthrene",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "108-88-3",
-            "ecNumber": "203-625-9",
-            "altLabel": "Toluene",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N",
-            "type": "skos:Concept",
-            "altLabel": "waterstof",
-            "broader": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "broaderTransitive": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "semanticRelation": "zorgwekkende_stof:reach_svhcc_candidate_list"
-        },
-        {
-            "id": "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "108-20-3",
-            "ecNumber": "203-560-6",
-            "altLabel": "Diisopropyl ether",
-            "broader": "zorgwekkende_stof:eigen",
-            "broaderTransitive": "zorgwekkende_stof:eigen",
-            "semanticRelation": "zorgwekkende_stof:eigen"
+            "type": "skos:Concept"
         },
         {
             "id": "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "68-12-2",
-            "ecNumber": "200-679-5",
-            "altLabel": "N,N-dimethylformamide",
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
             "id": "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "110-80-5",
-            "ecNumber": "203-804-1",
-            "altLabel": [
-                "2-ethoxyethanol",
-                "ethylene glycol monoethyl ether"
-            ],
-            "broader": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "broaderTransitive": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ],
-            "semanticRelation": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:reach_svhcc_candidate_list"
-            ]
+            "type": "skos:Concept"
         },
         {
-            "id": "concept:ZPQOPVIELGIULI-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "541-73-1",
-            "ecNumber": "208-792-1",
-            "altLabel": "1,3-dichlorobenzene"
-        },
-        {
-            "id": "concept:ZVFDTKUVRCTHQE-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "26761-40-0",
-            "ecNumber": "247-977-1",
-            "altLabel": "Di-“isodecyl” phthalate (DIDP)"
-        },
-        {
-            "id": "concept:ZXFXBSWRVIQKOD-UHFFFAOYSA-N",
-            "type": [
-                "dbo:Biomolecule",
-                "skos:Concept"
-            ],
-            "casNumber": "1024-57-3",
-            "ecNumber": "213-831-0",
-            "altLabel": "Heptachlor epoxide"
-        },
-        {
-            "id": "zorgwekkende_stof:c_l_harmonized_classification",
+            "id": "zorgwekkende_stof:zorgwekkende_stof",
             "type": "skos:Concept",
             "inScheme": "conceptscheme:zorgwekkende_stof",
-            "narrower": [
-                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
-            ],
-            "prefLabel": "C&L Harmonized classification",
-            "semanticRelation": [
-                "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N",
-                "concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N",
-                "concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N",
-                "concept:HFACYLZERDEVSX-UHFFFAOYSA-N",
-                "concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N",
-                "concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:KNKRKFALVUDBJE-UHFFFAOYSA-N",
-                "concept:LHRCREOYAASXPZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N",
-                "concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N",
-                "concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N",
-                "concept:PAAZPARNPHGIKF-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:QSHDDOUJBYECFT-UHFFFAOYSA-N",
-                "concept:QSNSCYSYFYORTR-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N",
-                "concept:UHOVQNZJYSORNB-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WBEJYOJJBDISQU-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XKJMBINCVNINCA-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YACLQRRMGMJLJV-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N"
-            ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stof"
-        },
-        {
-            "id": "zorgwekkende_stof:edlists_org_list_i",
-            "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "narrower": [
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
-            ],
-            "prefLabel": "EndocrineDisruptor_List_I",
-            "semanticRelation": [
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N"
-            ],
-            "topConceptOf": "conceptscheme:zorgwekkende_stof"
-        },
-        {
-            "id": "zorgwekkende_stof:eigen",
-            "type": "skos:Concept",
-            "narrower": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
-            ],
-            "semanticRelation": [
-                "concept:AFDRCEOKCOUICI-UHFFFAOYSA-N",
-                "concept:BFCFYVKQTRLZHA-UHFFFAOYSA-N",
-                "concept:BZLVMXJERCGZMT-UHFFFAOYSA-N",
-                "concept:CWRYPZZKDGJXCA-UHFFFAOYSA-N",
-                "concept:CYTYCFOTNPOANT-UHFFFAOYSA-N",
-                "concept:CZGCEKJOLUNIFY-UHFFFAOYSA-N",
-                "concept:DDBMQDADIHOWIC-UHFFFAOYSA-N",
-                "concept:DKGAVHZHDRPRBM-UHFFFAOYSA-N",
-                "concept:FOIBFBMSLDGNHL-UHFFFAOYSA-N",
-                "concept:FSAVDKDHPDSCTO-WQLSENKSSA-N",
-                "concept:FSPZPQQWDODWAU-UHFFFAOYSA-N",
-                "concept:HDHLIWCXDDZUFH-UHFFFAOYSA-N",
-                "concept:HEDRZPFGACZZDS-UHFFFAOYSA-N",
-                "concept:HFZWRUODUSTPEG-UHFFFAOYSA-N",
-                "concept:HGUFODBRKLSHSI-UHFFFAOYSA-N",
-                "concept:HRYZWHHZPQKTII-UHFFFAOYSA-N",
-                "concept:IROINLKCQGIITA-UHFFFAOYSA-N",
-                "concept:JEYJJJXOFWNEHN-UHFFFAOYSA-N",
-                "concept:KAATUXNTWXVJKI-UHFFFAOYSA-N",
-                "concept:KFUSEUYYWQURPO-OWOJBTEDSA-N",
-                "concept:KSMVNVHUTQZITP-UHFFFAOYSA-N",
-                "concept:LGIRBUBHIWTVCK-UHFFFAOYSA-N",
-                "concept:LGXVIGDEPROXKC-UHFFFAOYSA-N",
-                "concept:LVYBAQIVPKCOEE-UHFFFAOYSA-N",
-                "concept:MQIUGAXCHLFZKX-UHFFFAOYSA-N",
-                "concept:MVPPADPHJFYWMZ-UHFFFAOYSA-N",
-                "concept:MXWJVTOOROXGIU-UHFFFAOYSA-N",
-                "concept:OCJBOOLMMGQPQU-UHFFFAOYSA-N",
-                "concept:ODCWYMIRDDJXKW-UHFFFAOYSA-N",
-                "concept:OEBRKCOSUFCWJD-UHFFFAOYSA-N",
-                "concept:OGBQILNBLMPPDP-UHFFFAOYSA-N",
-                "concept:PBGKNXWGYQPUJK-UHFFFAOYSA-N",
-                "concept:PNPCRKVUWYDDST-UHFFFAOYSA-N",
-                "concept:PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
-                "concept:PXBRQCKWGAHEHS-UHFFFAOYSA-N",
-                "concept:PXUULQAPEKKVAH-UHFFFAOYSA-N",
-                "concept:PYUSJFJVDVSXIU-UHFFFAOYSA-N",
-                "concept:QPFMBZIOSGYJDE-UHFFFAOYSA-N",
-                "concept:QVLAWKAXOMEXPM-UHFFFAOYSA-N",
-                "concept:RFFLAFLAYFXFSW-UHFFFAOYSA-N",
-                "concept:RHIROFAGUQOFLU-UHFFFAOYSA-N",
-                "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
-                "concept:SBMIVUVRFPGOEB-UHFFFAOYSA-N",
-                "concept:SBPBAQFWLVIOKP-UHFFFAOYSA-N",
-                "concept:SDYWXFYBZPNOFX-UHFFFAOYSA-N",
-                "concept:SUSRORUBZHMPCO-UHFFFAOYSA-N",
-                "concept:UBOXGVDOUJQMTN-UHFFFAOYSA-N",
-                "concept:UFWIBTONFRDIAS-UHFFFAOYSA-N",
-                "concept:UOCLXMDMGBRAIB-UHFFFAOYSA-N",
-                "concept:VEZCTZWLJYWARH-UHFFFAOYSA-N",
-                "concept:VHHHONWQHHHLTI-UHFFFAOYSA-N",
-                "concept:VIONGDJUYAYOPU-UHFFFAOYSA-N",
-                "concept:VYZAHLCBVHPDDF-UHFFFAOYSA-N",
-                "concept:VZGDMQKNWNREIO-UHFFFAOYSA-N",
-                "concept:WCLNVRQZUKYVAI-UHFFFAOYSA-N",
-                "concept:WCYYQNSQJHPVMG-UHFFFAOYSA-N",
-                "concept:WDMKCPIVJOGHBF-UHFFFAOYSA-N",
-                "concept:WJNRPILHGGKWCK-UHFFFAOYSA-N",
-                "concept:WMOVHXAZOJBABW-UHFFFAOYSA-N",
-                "concept:WRPIRSINYZBGPK-UHFFFAOYSA-N",
-                "concept:XCSGPAVHZFQHGE-UHFFFAOYSA-N",
-                "concept:XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
-                "concept:XTAHLACQOVXINQ-UHFFFAOYSA-N",
-                "concept:YCLUIPQDHHPDJJ-UHFFFAOYSA-N",
-                "concept:YMWUJEATGCHHMB-UHFFFAOYSA-N",
-                "concept:YXFVVABEGXRONW-UHFFFAOYSA-N",
-                "concept:ZAFNJMIOTHYJRJ-UHFFFAOYSA-N"
-            ]
-        },
-        {
-            "id": "zorgwekkende_stof:pop_regulation",
-            "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "narrower": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-            "narrowerTransitive": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-            "prefLabel": "POP Regulation",
-            "semanticRelation": "concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N",
-            "topConceptOf": "conceptscheme:zorgwekkende_stof"
-        },
-        {
-            "id": "zorgwekkende_stof:reach_svhcc_candidate_list",
-            "type": "skos:Concept",
-            "inScheme": "conceptscheme:zorgwekkende_stof",
-            "narrower": [
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
-            ],
-            "narrowerTransitive": [
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
-            ],
-            "prefLabel": "REACH SVHC Candidate list",
-            "semanticRelation": [
-                "concept:BLEROMXYYSQFLX-UHFFFAOYSA-N",
-                "concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N",
-                "concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N",
-                "concept:DXBHBZVCASKNBY-UHFFFAOYSA-N",
-                "concept:GOOHAUXETOMSMM-UHFFFAOYSA-N",
-                "concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N",
-                "concept:IISBACLAFKSPIT-UHFFFAOYSA-N",
-                "concept:IPKKHRVROFYTEK-UHFFFAOYSA-N",
-                "concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N",
-                "concept:JANBFCARANRIKJ-UHFFFAOYSA-N",
-                "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
-                "concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N",
-                "concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N",
-                "concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N",
-                "concept:RKELNIPLHQEBJO-UHFFFAOYSA-N",
-                "concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N",
-                "concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N",
-                "concept:SECXISVLQFMRJM-UHFFFAOYSA-N",
-                "concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
-                "concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
-                "concept:VOWAEIGWURALJQ-UHFFFAOYSA-N",
-                "concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N",
-                "concept:WDECIBYCCFPHNR-UHFFFAOYSA-N",
-                "concept:WSLDOOZREJYCGB-UHFFFAOYSA-N",
-                "concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
-                "concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N",
-                "concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N",
-                "concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N",
-                "concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N",
-                "concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N",
-                "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
-                "concept:BBEAQIROQSPTKN-UHFFFAOYSA-N",
-                "concept:CSEBNABAWMZWIF-UHFFFAOYSA-N",
-                "concept:CXGONMQFMIYUJR-UHFFFAOYSA-N",
-                "concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N",
-                "concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N",
-                "concept:JGTNAGYHADQMCM-UHFFFAOYSA-N",
-                "concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N",
-                "concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N",
-                "concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N",
-                "concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N",
-                "concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N",
-                "concept:WABPQHHGFIMREM-UHFFFAOYSA-N",
-                "concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N",
-                "concept:YNPNZTXNASCQKK-UHFFFAOYSA-N",
-                "concept:YZCKVEUIGOORGS-UHFFFAOYSA-N"
-            ],
+            "prefLabel": "Zorgwekkende stof",
             "topConceptOf": "conceptscheme:zorgwekkende_stof"
         },
         {
             "id": "conceptscheme:zorgwekkende_stof",
             "type": "skos:ConceptScheme",
-            "altLabel": "lijst van zorgwekkende stoffen",
-            "hasTopConcept": [
-                "zorgwekkende_stof:c_l_harmonized_classification",
-                "zorgwekkende_stof:pop_regulation",
-                "zorgwekkende_stof:reach_svhcc_candidate_list",
-                "zorgwekkende_stof:edlists_org_list_i"
-            ],
+            "hasTopConcept": "zorgwekkende_stof:zorgwekkende_stof",
             "prefLabel": "Codelijst zorgwekkende stoffen"
         }
     ]

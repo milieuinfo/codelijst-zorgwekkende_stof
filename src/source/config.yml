@@ -2,6 +2,8 @@ types : zorgwekkende_stoffen
 skos:
   rules :
     skos_rules : /../node_modules/maven-metadata-generator-npm/src/n3/skos-rules.n3
+    oa_rules : /../node_modules/maven-metadata-generator-npm/src/n3/oa-rules.n3
+    oa_extra_rules : /n3/oa-rules.n3
     dcterms_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dcterms-rules.n3
     dbpedia_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dbpedia-rules.n3
   prefixes :
@@ -55,7 +57,10 @@ metadata :
     supportedLanguage: http://www.w3.org/ns/sparql-service-description#SPARQL10Query
   all :
     accessURL : https://github.com/omgeving/codelijst-zorgwekkende_stof.git
-    contactPoint : https://data.omgeving.vlaanderen.be/id/vcard/helpdesk
+    contactPoint :
+      id : https://data.omgeving.vlaanderen.be/id/vcard/helpdesk
+      fn : 'Helpdesk departement Omgeving'
+      hasEmail : mailto:help@omgevingvlaanderen.be
     license : http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0
     publisher : http://data.vlaanderen.be/id/organisatie/OVO003323
     rightsHolder :  http://data.vlaanderen.be/id/organisatie/OVO003749
@@ -108,6 +113,7 @@ metadata :
 prefixes :
   access_right: http://publications.europa.eu/resource/authority/access-right/
   adms: http://www.w3.org/ns/adms#
+  annotation: https://data.omgeving.vlaanderen.be/id/annotation/
   assettype: http://purl.org/adms/assettype/
   conceptscheme: https://data.omgeving.vlaanderen.be/id/conceptscheme/
   country: http://publications.europa.eu/resource/authority/country/
@@ -127,6 +133,7 @@ prefixes :
   gemet: http://www.eionet.europa.eu/gemet/concept/
   licence: http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/
   metadata: https://data.omgeving.vlaanderen.be/ns/metadata#
+  oa: http://www.w3.org/ns/oa#
   omg_catalog: https://data.omgeving.vlaanderen.be/id/catalog/
   omg_catalog_doc: https://data.omgeving.vlaanderen.be/doc/catalog/
   omg_collection: https://data.omgeving.vlaanderen.be/id/collection/

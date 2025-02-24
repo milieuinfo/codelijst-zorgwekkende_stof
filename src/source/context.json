@@ -338,7 +338,28 @@
   "belongsTo" : {
     "@id" : "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
     "@type" : "@id"
+  },
+  "hasBody" : {
+    "@id" : "http://www.w3.org/ns/oa#hasBody",
+    "@type" : "@id"
+  },
+  "hasTarget" : {
+    "@id" : "http://www.w3.org/ns/oa#hasTarget",
+    "@type" : "@id"
+  },
+  "motivatedBy" : {
+    "@id" : "http://www.w3.org/ns/oa#motivatedBy",
+    "@type" : "@id"
+  },
+  "hasEmail" : {
+    "@id" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "@type" : "@id"
+  },
+  "fn" : {
+    "@id" : "http://www.w3.org/2006/vcard/ns#fn",
+    "@language" : "nl"
   }
+
 }
 
 
