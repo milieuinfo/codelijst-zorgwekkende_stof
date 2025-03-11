@@ -24,6 +24,7 @@
 @prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
 @prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
 @prefix oa: <http://www.w3.org/ns/oa#>.
+@prefix vcs: <https://data.omgeving.vlaanderen.be/ns/chemische_stof#>.
 @prefix omg_catalog: <https://data.omgeving.vlaanderen.be/id/catalog/>.
 @prefix omg_catalog_doc: <https://data.omgeving.vlaanderen.be/doc/catalog/>.
 @prefix omg_collection: <https://data.omgeving.vlaanderen.be/id/collection/>.
@@ -57,547 +58,547 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-annotation:ATBAMAFKBVZNFJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:ATBAMAFKBVZNFJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:ATBAMAFKBVZNFJ-UHFFFAOYSA-N_pop_regulation a oa:Annotation;
+annotation:ATBAMAFKBVZNFJ-UHFFFAOYSA-N_pop_regulation a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "pop regulation"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ATBAMAFKBVZNFJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:pop_regulation.
-annotation:BBEAQIROQSPTKN-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:BBEAQIROQSPTKN-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:BBEAQIROQSPTKN-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:BLEROMXYYSQFLX-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:BLEROMXYYSQFLX-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:BLEROMXYYSQFLX-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:BLEROMXYYSQFLX-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:BLEROMXYYSQFLX-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:BLEROMXYYSQFLX-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:BRLQWZUYTZBJKN-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:BRLQWZUYTZBJKN-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:BRLQWZUYTZBJKN-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:BZHJMEDXRYGGRV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:BZHJMEDXRYGGRV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:BZHJMEDXRYGGRV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:CFXQEHVMCRXUSD-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:CFXQEHVMCRXUSD-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:CFXQEHVMCRXUSD-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:CFXQEHVMCRXUSD-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:CFXQEHVMCRXUSD-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:CSEBNABAWMZWIF-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:CSEBNABAWMZWIF-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:CSEBNABAWMZWIF-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:CXGONMQFMIYUJR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:CXGONMQFMIYUJR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:CXGONMQFMIYUJR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:CXNVOWPRHWWCQR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:CXNVOWPRHWWCQR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:CXNVOWPRHWWCQR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:DEWLEGDTCGBNGU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:DEWLEGDTCGBNGU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DEWLEGDTCGBNGU-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:DOIRQSBPFJWKBE-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DOIRQSBPFJWKBE-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:DXBHBZVCASKNBY-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:DXBHBZVCASKNBY-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DXBHBZVCASKNBY-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:DXBHBZVCASKNBY-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:DXBHBZVCASKNBY-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:DXBHBZVCASKNBY-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:GOOHAUXETOMSMM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:GOOHAUXETOMSMM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:GOOHAUXETOMSMM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:GOOHAUXETOMSMM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:GOOHAUXETOMSMM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:GOOHAUXETOMSMM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:GUTLYIVDDKVIGB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:GUTLYIVDDKVIGB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:GUTLYIVDDKVIGB-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:GVEPBJHOBDJJJI-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:GVEPBJHOBDJJJI-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:GVEPBJHOBDJJJI-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:GYFAGKUZYNFMBN-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:GYFAGKUZYNFMBN-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:GYFAGKUZYNFMBN-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:HFACYLZERDEVSX-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:HFACYLZERDEVSX-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:HFACYLZERDEVSX-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:HUWXDEQWWKGHRV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:HUWXDEQWWKGHRV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:HUWXDEQWWKGHRV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:IBOFVQJTBBUKMU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:IBOFVQJTBBUKMU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:IBOFVQJTBBUKMU-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:IBOFVQJTBBUKMU-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IBOFVQJTBBUKMU-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IISBACLAFKSPIT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IISBACLAFKSPIT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:IISBACLAFKSPIT-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IISBACLAFKSPIT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:IPKKHRVROFYTEK-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:IPKKHRVROFYTEK-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IPKKHRVROFYTEK-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:IPKKHRVROFYTEK-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:IPKKHRVROFYTEK-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IPKKHRVROFYTEK-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:IRIAEXORFWYRCZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:IRIAEXORFWYRCZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:JANBFCARANRIKJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:JANBFCARANRIKJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JANBFCARANRIKJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:JANBFCARANRIKJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:JANBFCARANRIKJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JANBFCARANRIKJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:JBIJLHTVPXGSAM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:JBIJLHTVPXGSAM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JBIJLHTVPXGSAM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:JGTNAGYHADQMCM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:JGTNAGYHADQMCM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JGTNAGYHADQMCM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:JSFITYFUKSFPBZ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:JSFITYFUKSFPBZ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:JSFITYFUKSFPBZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:JSFITYFUKSFPBZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:JVZREVRTMWNFME-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:JVZREVRTMWNFME-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JVZREVRTMWNFME-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:JVZREVRTMWNFME-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:JVZREVRTMWNFME-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:JVZREVRTMWNFME-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:KAKZBPTYRLMSJV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:KAKZBPTYRLMSJV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:KAKZBPTYRLMSJV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:KCXMKQUNVWSEMD-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:KCXMKQUNVWSEMD-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:KCXMKQUNVWSEMD-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:KCXZNSGUUQJJTR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:KCXZNSGUUQJJTR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:KCXZNSGUUQJJTR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:KCXZNSGUUQJJTR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:KCXZNSGUUQJJTR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:KNKRKFALVUDBJE-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:KNKRKFALVUDBJE-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:KNKRKFALVUDBJE-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:LHRCREOYAASXPZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:LHRCREOYAASXPZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:LHRCREOYAASXPZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:LVDGGZAZAYHXEY-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:LVDGGZAZAYHXEY-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:LVDGGZAZAYHXEY-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:MGWAVDBGNNKXQV-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:MGWAVDBGNNKXQV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:MWPLVEDNUUSJAV-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:MWPLVEDNUUSJAV-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:MWPLVEDNUUSJAV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:NLHHRLWOUZZQLW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:NLHHRLWOUZZQLW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:NLHHRLWOUZZQLW-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:NOWKCMXCCJGMRR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:NOWKCMXCCJGMRR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:NOWKCMXCCJGMRR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:OAKJQQAXSVQMHS-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:OAKJQQAXSVQMHS-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:OAKJQQAXSVQMHS-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:PAAZPARNPHGIKF-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:PAAZPARNPHGIKF-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:PAAZPARNPHGIKF-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:PCIUEQPBYFRTEM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:PCIUEQPBYFRTEM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:PCIUEQPBYFRTEM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:PCIUEQPBYFRTEM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:PCIUEQPBYFRTEM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:QSHDDOUJBYECFT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:QSHDDOUJBYECFT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:QSHDDOUJBYECFT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:QSNSCYSYFYORTR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:QSNSCYSYFYORTR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:QSNSCYSYFYORTR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:QZHDEAJFRJCDMF-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:QZHDEAJFRJCDMF-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:QZHDEAJFRJCDMF-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:RKELNIPLHQEBJO-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:RKELNIPLHQEBJO-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RKELNIPLHQEBJO-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:RKELNIPLHQEBJO-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:RKELNIPLHQEBJO-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RKELNIPLHQEBJO-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:RNVCVTLRINQCPJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:RNVCVTLRINQCPJ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:RNVCVTLRINQCPJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:RNVCVTLRINQCPJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RNVCVTLRINQCPJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:RUDINRUXCKIXAJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:RUDINRUXCKIXAJ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RUDINRUXCKIXAJ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:RWGFKTVRMDUZSP-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:RWGFKTVRMDUZSP-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RWGFKTVRMDUZSP-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:RYHBNJHYFVUHQT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:RYHBNJHYFVUHQT-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:RYHBNJHYFVUHQT-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:RYHBNJHYFVUHQT-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:RYHBNJHYFVUHQT-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:SECXISVLQFMRJM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:SECXISVLQFMRJM-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:SECXISVLQFMRJM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:SECXISVLQFMRJM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:SECXISVLQFMRJM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:SECXISVLQFMRJM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:SIDINRCMMRKXGQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:SIDINRCMMRKXGQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:SIDINRCMMRKXGQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:UGFAIRIUMAVXCW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:UGFAIRIUMAVXCW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:UGFAIRIUMAVXCW-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:UHOVQNZJYSORNB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:UHOVQNZJYSORNB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:UHOVQNZJYSORNB-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:UZUFPBIDKMEQEQ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:UZUFPBIDKMEQEQ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:UZUFPBIDKMEQEQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:UZUFPBIDKMEQEQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:UZUFPBIDKMEQEQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:VAYGXNSJCAHWJZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:VAYGXNSJCAHWJZ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:VAYGXNSJCAHWJZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:VAYGXNSJCAHWJZ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VAYGXNSJCAHWJZ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VOWAEIGWURALJQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation;
+annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_edlists_org_list_i a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "edlists org list i"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VOWAEIGWURALJQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:edlists_org_list_i.
-annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:VOWAEIGWURALJQ-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VOWAEIGWURALJQ-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:VOZKAJLKRJDJLL-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:VOZKAJLKRJDJLL-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:VOZKAJLKRJDJLL-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:VOZKAJLKRJDJLL-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:VOZKAJLKRJDJLL-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:WABPQHHGFIMREM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:WABPQHHGFIMREM-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WABPQHHGFIMREM-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:WBEJYOJJBDISQU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:WBEJYOJJBDISQU-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WBEJYOJJBDISQU-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:WDECIBYCCFPHNR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:WDECIBYCCFPHNR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WDECIBYCCFPHNR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:WDECIBYCCFPHNR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:WDECIBYCCFPHNR-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WDECIBYCCFPHNR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:WLZRMCYVCSSEQC-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:WLZRMCYVCSSEQC-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WLZRMCYVCSSEQC-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:WSFSSNUMVMOOMR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:WSFSSNUMVMOOMR-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WSFSSNUMVMOOMR-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:WSLDOOZREJYCGB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:WSLDOOZREJYCGB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WSLDOOZREJYCGB-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:WSLDOOZREJYCGB-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:WSLDOOZREJYCGB-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:WSLDOOZREJYCGB-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:XKJMBINCVNINCA-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:XKJMBINCVNINCA-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XKJMBINCVNINCA-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:XLYOFNOQVPJJNP-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:XLYOFNOQVPJJNP-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:XLYOFNOQVPJJNP-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:XLYOFNOQVPJJNP-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XLYOFNOQVPJJNP-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:XNWFRZJHXBZDAG-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:XNWFRZJHXBZDAG-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:XNWFRZJHXBZDAG-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:XNWFRZJHXBZDAG-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XNWFRZJHXBZDAG-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:XSTXAVWGXDQKEL-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:XSTXAVWGXDQKEL-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:XSTXAVWGXDQKEL-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:XSTXAVWGXDQKEL-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:XSTXAVWGXDQKEL-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:YACLQRRMGMJLJV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:YACLQRRMGMJLJV-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:YACLQRRMGMJLJV-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:YBRVSVVVWCFQMG-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:YBRVSVVVWCFQMG-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:YBRVSVVVWCFQMG-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:YBRVSVVVWCFQMG-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:YBRVSVVVWCFQMG-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:YNPNZTXNASCQKK-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:YNPNZTXNASCQKK-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:YNPNZTXNASCQKK-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:YZCKVEUIGOORGS-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:YZCKVEUIGOORGS-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:YZCKVEUIGOORGS-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:ZMXDDKWLCZADIW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:ZMXDDKWLCZADIW-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:ZMXDDKWLCZADIW-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:ZMXDDKWLCZADIW-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ZMXDDKWLCZADIW-UHFFFAOYSA-N;
     oa:motivatedBy collectie:reach_svhcc_candidate_list.
-annotation:ZNQVEEAIQZEUHB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation;
+annotation:ZNQVEEAIQZEUHB-UHFFFAOYSA-N_c_l_harmonized_classification a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "c l harmonized classification"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N;
     oa:motivatedBy collectie:c_l_harmonized_classification.
-annotation:ZNQVEEAIQZEUHB-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation;
+annotation:ZNQVEEAIQZEUHB-UHFFFAOYSA-N_reach_svhcc_candidate_list a oa:Annotation, vcs:Zorgwekkende_stof;
     skos:prefLabel "reach svhcc candidate list"@nl;
     oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
     oa:hasTarget concept:ZNQVEEAIQZEUHB-UHFFFAOYSA-N;

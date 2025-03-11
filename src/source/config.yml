@@ -134,6 +134,7 @@ prefixes :
   licence: http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/
   metadata: https://data.omgeving.vlaanderen.be/ns/metadata#
   oa: http://www.w3.org/ns/oa#
+  vcs:   https://data.omgeving.vlaanderen.be/ns/chemische_stof#
   omg_catalog: https://data.omgeving.vlaanderen.be/id/catalog/
   omg_catalog_doc: https://data.omgeving.vlaanderen.be/doc/catalog/
   omg_collection: https://data.omgeving.vlaanderen.be/id/collection/

@@ -351,6 +351,14 @@
             "@id": "http://www.w3.org/ns/oa#motivatedBy",
             "@type": "@id"
         },
+        "hasEmail": {
+            "@id": "http://www.w3.org/2006/vcard/ns#hasEmail",
+            "@type": "@id"
+        },
+        "fn": {
+            "@id": "http://www.w3.org/2006/vcard/ns#fn",
+            "@language": "nl"
+        },
         "concept": "https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/",
         "zorgwekkende_stof": "https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/",
         "collectie": "https://data.omgeving.vlaanderen.be/id/collection/zorgwekkende_stof/",
@@ -377,6 +385,7 @@
         "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
         "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
         "oa": "http://www.w3.org/ns/oa#",
+        "vcs": "https://data.omgeving.vlaanderen.be/ns/chemische_stof#",
         "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
         "omg_catalog_doc": "https://data.omgeving.vlaanderen.be/doc/catalog/",
         "omg_collection": "https://data.omgeving.vlaanderen.be/id/collection/",
