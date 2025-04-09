@@ -5,7 +5,6 @@ skos:
     oa_rules : /../node_modules/maven-metadata-generator-npm/src/n3/oa-rules.n3
     oa_extra_rules : /n3/oa-rules.n3
     dcterms_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dcterms-rules.n3
-    dbpedia_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dbpedia-rules.n3
   prefixes :
     concept : https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/
     zorgwekkende_stof: https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/
@@ -23,6 +22,7 @@ skos:
 source:
   path: ./source/
   codelijst_csv: codelijst-source.csv
+  zs_basislijst_csv: ZS-Basislijst_v1_20250321_inchikey.csv
   context: context.json
 dcat:
   path_catalog: be/vlaanderen/omgeving/data/id/catalog/
@@ -159,6 +159,7 @@ prefixes :
   rdfs: http://www.w3.org/2000/01/rdf-schema#
   sd: http://www.w3.org/ns/sparql-service-description#
   skos: http://www.w3.org/2004/02/skos/core#
+  sommatie_stoffen : https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/
   spdx: http://spdx.org/rdf/terms#
   ssd: http://www.w3.org/ns/sparql-service-description#
   ts: http://www.w3.org/ns/formats/

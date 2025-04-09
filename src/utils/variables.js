@@ -123,6 +123,7 @@ const csv = [config.skos.path + config.skos.name + '/' + config.skos.name + conf
 
 
 export {
+    config,
     virtuoso,
     ttl,
     nt,

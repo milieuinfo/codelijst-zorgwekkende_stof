@@ -1,0 +1,5 @@
+PREFIX wdt:      <http://www.wikidata.org/prop/direct/>
+PREFIX wdtn:     <http://www.wikidata.org/prop/direct-normalized/>
+select ?inchikey ?cas ?ecnr ?pubchem
+where
+{?s wdt:P235 ?inchikey;  wdt:P231   ?cas ; wdtn:P662  ?pubchem ; wdt:P232 ?ecnr .}
