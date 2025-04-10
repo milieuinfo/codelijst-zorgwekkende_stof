@@ -22,7 +22,16 @@ expand_df_on_pipe <- function(df) {
 #df <- read.csv("done2.csv", header = TRUE)
 #write.csv(df,"ZS-Basislijst_v1_20250321_inchikey.csv", row.names = FALSE)
 df <- read.xlsx("ZS-Basislijst_v1_20250321_inchikey.xlsx", sheetName="ZS-Basislijst")
+
+
+
 df2 <- read.csv("wikidata.csv", header = TRUE)
+
+#df2 <- rbind(df2,dfcu)
+dfcid = read.csv("/tmp/cid_inchikey.csv", header = TRUE)%>% mutate_all(as.character)
+dfcu = read.csv("/tmp/cas-url2.csv", header = TRUE)%>% mutate_all(as.character) %>%subset(pubchem!='')
+dfcidcu <- merge(x = dfcid, y = dfcu, by = "pubchem", all = TRUE)%>% mutate_all(as.character)
+
 df3 <- merge(x = df, y = df2, by.x = "CAS.nummer",by.y = "cas", all.x = TRUE)%>% mutate_all(as.character)
 
 df3$hasTarget <- ifelse(is.na(df3$hasTarget), df3$inchikey,  df3$hasTarget)
