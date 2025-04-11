@@ -19,26 +19,33 @@ expand_df_on_pipe <- function(df) {
   return(df)
 }
 
-#df <- read.csv("done2.csv", header = TRUE)
-#write.csv(df,"ZS-Basislijst_v1_20250321_inchikey.csv", row.names = FALSE)
+
 df <- read.xlsx("ZS-Basislijst_v1_20250321_inchikey.xlsx", sheetName="ZS-Basislijst")
 
 
 
 df2 <- read.csv("wikidata.csv", header = TRUE)
 
-#df2 <- rbind(df2,dfcu)
-dfcid = read.csv("/tmp/cid_inchikey.csv", header = TRUE)%>% mutate_all(as.character)
-dfcu = read.csv("/tmp/cas-url2.csv", header = TRUE)%>% mutate_all(as.character) %>%subset(pubchem!='')
+
+dfcid = read.csv("cid_inchikey.csv", header = TRUE)%>% mutate_all(as.character)
+dfcu = read.csv("cas-url2.csv", header = TRUE)%>% mutate_all(as.character) %>%subset(pubchem!='')
 dfcidcu <- merge(x = dfcid, y = dfcu, by = "pubchem", all = TRUE)%>% mutate_all(as.character)
+dfcidcu$ecnr <- ""
+
+df2 <- rbind(df2,dfcidcu)
+dfp <- read.csv("cas_to_inchikey2.csv", header = TRUE)%>% mutate_all(as.character)
+dfp$ecnr <- ""
+df2 <- rbind(df2,dfp)
 
 df3 <- merge(x = df, y = df2, by.x = "CAS.nummer",by.y = "cas", all.x = TRUE)%>% mutate_all(as.character)
 
 df3$hasTarget <- ifelse(is.na(df3$hasTarget), df3$inchikey,  df3$hasTarget)
 df3$EC.Nummer <- ifelse(is.na(df3$EC.Nummer), df3$ecnr,  df3$EC.Nummer)
 df3$hasTarget <- ifelse(is.na(df3$hasTarget), paste("sommatie_stoffen:", df3$CAS.nummer , sep = ""),  df3$hasTarget)
-df3 <-df3 %>%select(hasTarget, Stofnaam_IUPAC, CAS.nummer, EC.Nummer, CLP_Aanwezig, SVHC_Aanwezig, Restrict_Aanwezig, POP_Aanwezig, OSPAR_Aanwezig, WFD_Aanwezig, Gewas_Aanwezig, Biociden_Aanwezig)%>% mutate_all(as.character)%>% unique()
+df3 <-df3 %>%select(hasTarget, Stofnaam_IUPAC, CAS.nummer, EC.Nummer, pubchem, CLP_Aanwezig, SVHC_Aanwezig, Restrict_Aanwezig, POP_Aanwezig, OSPAR_Aanwezig, WFD_Aanwezig, Gewas_Aanwezig, Biociden_Aanwezig)%>% mutate_all(as.character)%>% unique()
 write.xlsx(df3, "ZS-Basislijst_v1_20250409_inchikey.xlsx", sheetName="ZS-Basislijst", row.names = FALSE)
+
+df3 <- read.xlsx("ZS-Basislijst_v1_20250409_inchikey.xlsx", sheetName="ZS-Basislijst")
 
 df1 <- df3%>% 
   mutate(CLP_Aanwezig = ifelse(as.character(CLP_Aanwezig) == "1", "CLP_Aanwezig", NA))%>% 
@@ -64,4 +71,11 @@ write.csv(df1,"codelijst-source.csv", row.names = FALSE)
 
 
 
-
+dfx <- df3%>%subset(is.na(pubchem))%>%
+  subset(!grepl("sommatie", hasTarget) )%>%
+  select(hasTarget, CAS.nummer)%>% 
+  mutate_all(as.character)%>% 
+  unique()%>%
+  setnames( "CAS.nummer", "casNumber")%>%
+  setnames( "hasTarget", "inchikey")
+write.csv(dfx,"/tmp/inchi_cas.csv", row.names = FALSE)

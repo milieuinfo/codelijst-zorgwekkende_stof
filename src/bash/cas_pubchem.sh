@@ -21,3 +21,11 @@ while read cas ; do
   inchikey=`curl -L  $iko.nt | grep SIO_000300 | cut -d '"' -f 2`
   echo ${cas},${inchikey} >> /tmp/cas_to_inchikey.csv
 done < /tmp/casno
+
+
+/tmp/cas_to_inchikey2.csv
+while read i ; do
+  inchikey=`echo $i | cut -d ',' -f 1`\
+  cp=`curl -L http://rdf.ncbi.nlm.nih.gov/pubchem/inchikey/$inchikey.nt | tr '<' '\n' | tr '>' '\n' | grep compound | tr '\n' '|'`
+  echo ${i},${cp} >> /tmp/cas_to_inchikey2.csv
+done < /tmp/inchi_cas.csv
