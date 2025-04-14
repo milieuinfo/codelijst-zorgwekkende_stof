@@ -85,6 +85,10 @@
     "@id" : "http://purl.org/dc/terms/accrualPeriodicity",
     "@type" : "@id"
   },
+  "pubchem" : {
+    "@id" : "http://dbpedia.org/ontology/pubchem",
+    "@type" : "@id"
+  },
   "publisher" : {
     "@id" : "http://purl.org/dc/terms/publisher",
     "@type" : "@id"

@@ -98,7 +98,7 @@ const frame_skos_prefixes = {
 const frame_skos_no_prefixes = {
     //uri,type,prefLabel,topConceptOf,inScheme,hasTarget,hasBody,motivatedBy,collections
     "@context": context,
-    "@type": ["https://data.omgeving.vlaanderen.be/ns/chemische_stof#Zorgwekkende_stof"],
+    "@type": ["http://www.w3.org/ns/oa#Annotation"],
     "hasTarget": {
         "@embed": "@never",
         "@omitDefault": true

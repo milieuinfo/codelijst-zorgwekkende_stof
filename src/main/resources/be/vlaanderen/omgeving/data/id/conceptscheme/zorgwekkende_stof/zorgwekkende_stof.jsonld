@@ -86,6 +86,10 @@
             "@id": "http://purl.org/dc/terms/accrualPeriodicity",
             "@type": "@id"
         },
+        "pubchem": {
+            "@id": "http://dbpedia.org/ontology/pubchem",
+            "@type": "@id"
+        },
         "publisher": {
             "@id": "http://purl.org/dc/terms/publisher",
             "@type": "@id"
@@ -372,6 +376,8 @@
         "assettype": "http://purl.org/adms/assettype/",
         "conceptscheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
         "country": "http://publications.europa.eu/resource/authority/country/",
+        "chemische_stof": "https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/",
+        "compound": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/",
         "datasets": "https://datasets.omgeving.vlaanderen.be/",
         "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
         "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
@@ -4164,10 +4170,6 @@
         },
         {
             "id": "concept:JJWLMSCSLRJSAN-ODZAUARKSA-L",
-            "type": "skos:Concept"
-        },
-        {
-            "id": "concept:JJWLMSCSLRJSAN-TYYBGVCCSA-L",
             "type": "skos:Concept"
         },
         {
@@ -10775,6 +10777,10 @@
             "type": "skos:Concept"
         },
         {
+            "id": "concept:ZJIJAJXFLBMLCK-UHFFFAOYSA-N",
+            "type": "skos:Concept"
+        },
+        {
             "id": "concept:ZJJFOTCYYMAOMX-UHFFFAOYSA-M",
             "type": "skos:Concept"
         },
@@ -12292,6 +12298,10 @@
         },
         {
             "id": "sommatie_stoffen:41234-07-5",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "sommatie_stoffen:413615-35-7",
             "type": "skos:Concept"
         },
         {
@@ -14583,6 +14593,10 @@
             "type": "skos:Concept"
         },
         {
+            "id": "sommatie_stoffen:74115-24-5",
+            "type": "skos:Concept"
+        },
+        {
             "id": "sommatie_stoffen:741687-98-9",
             "type": "skos:Concept"
         },
@@ -14948,10 +14962,6 @@
         },
         {
             "id": "sommatie_stoffen:85480-75-7",
-            "type": "skos:Concept"
-        },
-        {
-            "id": "sommatie_stoffen:85535-84-8",
             "type": "skos:Concept"
         },
         {
@@ -16571,11 +16581,8 @@
             "type": "skos:Concept"
         },
         {
-            "id": "omg_id:concept/zorgwekkende_stof/",
-            "type": [
-                "skos:Concept",
-                "oa:Motivation"
-            ]
+            "id": "sommatie_stoffen:alk_c",
+            "type": "skos:Concept"
         },
         {
             "id": "zorgwekkende_stof:CLP_Aanwezig",

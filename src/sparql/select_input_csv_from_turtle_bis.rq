@@ -1,0 +1,69 @@
+prefix oa: <http://www.w3.org/ns/oa#>
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix zorgwekkende_stof: <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/>
+prefix concept: <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>
+
+select distinct ?hasTarget ?casNumber ?ecNumber ?label_en
+(SUM(?CLP) AS  ?CLP_Aanwezig)
+(SUM(?SVHC) AS  ?SVHC_Aanwezig)
+(SUM(?Restrict) AS  ?Restrict_Aanwezig)
+(SUM(?POP) AS  ?POP_Aanwezig)
+(SUM(?OSPAR) AS  ?OSPAR_Aanwezig)
+(SUM(?WFD) AS  ?WFD_Aanwezig)
+(SUM(?Gewas) AS  ?Gewas_Aanwezig)
+(SUM(?Biociden) AS  ?Biociden_Aanwezig)
+where
+{
+    select distinct ?hasTarget ?casNumber ?ecNumber ?label_en ?CLP ?SVHC ?Restrict ?POP ?OSPAR ?WFD ?Gewas ?Biociden
+
+    where
+    {
+        BIND (IF(?motivation = zorgwekkende_stof:Biociden_Aanwezig, 1, 0) AS ?Biociden)
+        BIND (IF(?motivation = zorgwekkende_stof:CLP_Aanwezig, 1, 0) AS ?CLP)
+        BIND (IF(?motivation = zorgwekkende_stof:Gewas_Aanwezig, 1, 0) AS ?Gewas)
+        BIND (IF(?motivation = zorgwekkende_stof:OSPAR_Aanwezig, 1, 0) AS ?OSPAR)
+        BIND (IF(?motivation = zorgwekkende_stof:POP_Aanwezig, 1, 0) AS ?POP)
+        BIND (IF(?motivation = zorgwekkende_stof:Restrict_Aanwezig, 1, 0) AS ?Restrict)
+        BIND (IF(?motivation = zorgwekkende_stof:SVHC_Aanwezig, 1, 0) AS ?SVHC)
+        BIND (IF(?motivation = zorgwekkende_stof:WFD_Aanwezig, 1, 0) AS ?WFD)
+
+{
+select distinct ?hasTarget ?motivation ?casNumber ?ecNumber (group_concat(distinct str(?l);separator="|") as ?label_en)
+where
+{
+select distinct ?hasTarget ?motivation ?casNumber ?l (group_concat(distinct str(?ec);separator="|") as ?ecNumber)
+where
+{
+select distinct ?hasTarget ?motivation ?ec ?l (group_concat(distinct str(?cas);separator="|") as ?casNumber)
+where
+{
+?uri a oa:Annotation ;
+dbo:casNumber ?cas;
+rdfs:label ?l ;
+oa:hasBody zorgwekkende_stof:zorgwekkende_stof;
+oa:hasTarget ?hasTarget;
+oa:motivatedBy ?motivation.
+optional{?uri dbo:ecNumber ?ec.}
+}
+group by ?hasTarget ?motivation ?casNumber ?l
+order by ?ec
+}
+group by ?hasTarget ?motivation ?ec ?l
+order by ?cas
+}
+group by ?hasTarget ?motivation ?casNumber ?ecNumber
+order by ?l
+}
+}
+
+}
+
+
+group by ?hasTarget ?CLP ?SVHC ?Restrict ?POP ?OSPAR ?WFD ?Gewas ?Biociden
+ORDER BY ?hasTarget
+
+
+
+
+

@@ -79,3 +79,6 @@ dfx <- df3%>%subset(is.na(pubchem))%>%
   setnames( "CAS.nummer", "casNumber")%>%
   setnames( "hasTarget", "inchikey")
 write.csv(dfx,"/tmp/inchi_cas.csv", row.names = FALSE)
+
+dftest <- df3 %>%
+  subset(grepl("^.-", CAS.nummer) )
