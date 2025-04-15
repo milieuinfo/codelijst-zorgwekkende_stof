@@ -67,8 +67,12 @@ df1$topConceptOf <- ""
 df1$broader <- ""
 
 
+df2 = read.csv("concept-definitions-source.csv", header = TRUE)%>% mutate_all(as.character)
+df1 <- rbind(df2, df1)
+
 df1 <- df1%>%
-  select(uri,prefLabel,label_en,definition,topConceptOf,broader,casNumber,ecNumber,hasTarget,motivatedBy,hasBody,pubchem)
+  select(uri,prefLabel,label_en,definition,topConceptOf,broader,casNumber,ecNumber,hasTarget,motivatedBy,hasBody,pubchem)%>%
+  mutate(across(everything(), ~ replace(.x, is.na(.x), "")))
 
 write.csv(df1,"codelijst-source.csv", row.names = FALSE)
 
