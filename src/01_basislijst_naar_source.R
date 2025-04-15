@@ -61,9 +61,14 @@ df1 <- df%>%
 df1$uri <- gsub('sommatie_stoffen:', '', df1$uri)
 df1$uri <- gsub('zorgwekkende_stof:', 'annotation:', df1$uri)
 df1$hasBody <- "zorgwekkende_stof:zorgwekkende_stof"
+df1$prefLabel <- ""
+df1$definition <- ""
+df1$topConceptOf <- ""
+df1$broader <- ""
+
 
 df1 <- df1%>%
-  select(hasTarget,label_en,uri,casNumber,ecNumber,motivatedBy,hasBody,pubchem)
+  select(uri,prefLabel,label_en,definition,topConceptOf,broader,casNumber,ecNumber,hasTarget,motivatedBy,hasBody,pubchem)
 
 write.csv(df1,"codelijst-source.csv", row.names = FALSE)
 

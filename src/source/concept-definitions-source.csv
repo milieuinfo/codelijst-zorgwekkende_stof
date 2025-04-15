@@ -1,0 +1,10 @@
+uri,prefLabel,definition,topConceptOf,broader,casNumber,ecNumber,hasTarget,motivatedBy,hasBody,pubchem,label_en
+conceptscheme:zorgwekkende_stof,"De lijst van begrippen rond het feit dat de Vlaamse overheid bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen als zorgwekkend bestempeld.",todo,,,,,,,,,
+zorgwekkende_stof:CLP_Aanwezig,clp,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:Gewas_Aanwezig,gewas,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:OSPAR_Aanwezig,ospar,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:POP_Aanwezig,pop,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:Restrict_Aanwezig,restrict,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:SVHC_Aanwezig,svhc,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:WFD_Aanwezig,wfd,todo,,zorgwekkende_stof:zorgwekkende_stof,,,,,,,
+zorgwekkende_stof:zorgwekkende_stof,Zorgwekkende stof,"Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen.",conceptscheme:zorgwekkende_stof,,,,,,,,
