@@ -1,10 +1,12 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+# Voer een SPARQL zoekopdracht in ...
 prefix oa: <http://www.w3.org/ns/oa#>
 prefix dbo: <http://dbpedia.org/ontology/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix zorgwekkende_stof: <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/>
 prefix concept: <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/>
 
-select distinct ?hasTarget ?casNumber ?ecNumber ?label_en
+select distinct ?hasTarget ?iupacName ?casNumber ?ecNumber ?label_en ?pubchem
 (SUM(?CLP) AS  ?CLP_Aanwezig)
 (SUM(?SVHC) AS  ?SVHC_Aanwezig)
 (SUM(?Restrict) AS  ?Restrict_Aanwezig)
@@ -19,6 +21,8 @@ where
     (group_concat(distinct str(?cas);separator="|") as ?casNumber)
     (group_concat(distinct str(?ec);separator="|") as ?ecNumber)
     (group_concat(distinct str(?l) ;separator="|") as ?label_en)
+    (group_concat(distinct str(?pL) ;separator="|") as ?iupacName)
+    (group_concat(distinct str(?pu) ;separator="|") as ?pubchem)
     ?CLP ?SVHC ?Restrict ?POP ?OSPAR ?WFD ?Gewas ?Biociden
     where
     {
@@ -29,6 +33,10 @@ where
         oa:hasTarget ?hasTarget;
         oa:motivatedBy ?motivation.
         optional{?uri dbo:ecNumber ?ec.}
+        optional{?hasTarget skos:prefLabel ?pL.}
+        optional{?uri dbo:iupacName ?pu.}
+
+
 
 
         BIND (IF(?motivation = zorgwekkende_stof:Biociden_Aanwezig, 1, 0) AS ?Biociden)
@@ -42,8 +50,10 @@ where
 
 
     }
+
+
     group by ?hasTarget ?CLP ?SVHC ?Restrict ?POP ?OSPAR ?WFD ?Gewas ?Biociden
 
 }
-group by ?hasTarget ?casNumber ?ecNumber ?label_en
+group by ?hasTarget ?casNumber ?ecNumber ?label_en ?pubchem ?iupacName
 ORDER BY ?hasTarget

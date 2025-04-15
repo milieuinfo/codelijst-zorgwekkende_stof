@@ -164,6 +164,7 @@ prefixes :
   sommatie_stoffen : https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/
   spdx: http://spdx.org/rdf/terms#
   ssd: http://www.w3.org/ns/sparql-service-description#
+  substance: https://rdf.ncbi.nlm.nih.gov/pubchem/substance/
   ts: http://www.w3.org/ns/formats/
   vcard: http://www.w3.org/2006/vcard/ns#
   void: http://rdfs.org/ns/void#

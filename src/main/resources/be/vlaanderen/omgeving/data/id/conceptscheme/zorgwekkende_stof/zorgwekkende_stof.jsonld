@@ -423,6 +423,7 @@
         "sommatie_stoffen": "https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/",
         "spdx": "http://spdx.org/rdf/terms#",
         "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "substance": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/",
         "ts": "http://www.w3.org/ns/formats/",
         "vcard": "http://www.w3.org/2006/vcard/ns#",
         "void": "http://rdfs.org/ns/void#",
@@ -1324,7 +1325,7 @@
             "type": "oa:Annotation",
             "casNumber": "4682-01-3",
             "ecNumber": "414-850-9",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID505784399",
+            "pubchem": "substance:SID505784399",
             "label_en": "hydrazine-trinitromethane",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "sommatie_stoffen:4682-01-3",
@@ -2888,7 +2889,7 @@
             "type": "oa:Annotation",
             "casNumber": "65405-96-1",
             "ecNumber": "265-748-4",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID135175650",
+            "pubchem": "substance:SID135175650",
             "label_en": "[µ-[carbonato(2-)-O:O’]] dihydroxy trinickel",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "sommatie_stoffen:65405-96-1",
@@ -6423,7 +6424,7 @@
             "type": "oa:Annotation",
             "casNumber": "8009-03-8",
             "ecNumber": "232-373-2",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID135191838",
+            "pubchem": "substance:SID135191838",
             "label_en": [
                 "Petrolatum",
                 "[A complex combination of hydrocarbons obtained as a semi-solid from dewaxing paraffinic residual oil. It consists predominantly of saturated crystalline and liquid hydrocarbons having carbon numbers predominantly greater than C25.]"
@@ -6437,7 +6438,7 @@
             "type": "oa:Annotation",
             "casNumber": "8018-01-7",
             "ecNumber": "616-995-5",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID505805483",
+            "pubchem": "substance:SID505805483",
             "label_en": [
                 "mancozeb (ISO)",
                 "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt"
@@ -9914,10 +9915,15 @@
         {
             "id": "annotation:CLP_Aanwezig_AFYAQDWVUWAENU-UHFFFAOYSA-H",
             "type": "oa:Annotation",
-            "casNumber": "10381-36-9",
-            "ecNumber": "233-844-5",
+            "casNumber": [
+                "10381-36-9",
+                "14396-43-1"
+            ],
             "pubchem": "compound:CID165868",
-            "label_en": "trinickel bis(orthophosphate)",
+            "label_en": [
+                "Phosphoric acid, nickel salt",
+                "trinickel bis(orthophosphate)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:AFYAQDWVUWAENU-UHFFFAOYSA-H",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -10152,6 +10158,7 @@
             "id": "annotation:CLP_Aanwezig_ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
+                "6842-15-5",
                 "68476-49-3",
                 "68527-16-2",
                 "68606-26-8",
@@ -11438,13 +11445,22 @@
         {
             "id": "annotation:CLP_Aanwezig_GKDXQAKPHKQZSC-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "513-78-0",
-            "ecNumber": "208-168-9",
+            "casNumber": [
+                "513-78-0",
+                "93820-02-1"
+            ],
+            "ecNumber": [
+                "208-168-9",
+                "298-586-8"
+            ],
             "pubchem": [
                 "compound:CID10564",
                 "compound:CID139034889"
             ],
-            "label_en": "cadmium carbonate",
+            "label_en": [
+                "Carbonic acid, cadmium salt",
+                "cadmium carbonate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GKDXQAKPHKQZSC-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -11572,9 +11588,12 @@
             "id": "annotation:CLP_Aanwezig_GTZVCWWCDCAYHU-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": "12179-04-3",
-            "ecNumber": "601-808-1",
+            "ecNumber": [
+                "215-540-4",
+                "601-808-1"
+            ],
             "pubchem": "compound:CID131634875",
-            "label_en": "disodium tetraborate pentahydrate",
+            "label_en": "Disodium tetraborate, anhydrous",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GTZVCWWCDCAYHU-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -11593,14 +11612,23 @@
         {
             "id": "annotation:CLP_Aanwezig_GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "301-04-2",
-            "ecNumber": "206-104-4",
+            "casNumber": [
+                "15347-57-6",
+                "301-04-2"
+            ],
+            "ecNumber": [
+                "206-104-4",
+                "239-379-4"
+            ],
             "pubchem": [
                 "compound:CID16685321",
                 "compound:CID16685708",
                 "compound:CID9317"
             ],
-            "label_en": "lead di(acetate)",
+            "label_en": [
+                "Lead acetate",
+                "lead di(acetate)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -12000,13 +12028,18 @@
         {
             "id": "annotation:CLP_Aanwezig_HUTDDBSSHVOYJR-UHFFFAOYSA-H",
             "type": "oa:Annotation",
-            "casNumber": "7446-27-7",
-            "ecNumber": "231-205-5",
+            "casNumber": [
+                "16040-38-3",
+                "7446-27-7"
+            ],
             "pubchem": [
                 "compound:CID16685997",
                 "compound:CID24009"
             ],
-            "label_en": "trilead bis(orthophosphate)",
+            "label_en": [
+                "Phosphoric acid, lead salt",
+                "trilead bis(orthophosphate)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:HUTDDBSSHVOYJR-UHFFFAOYSA-H",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -12509,8 +12542,14 @@
         {
             "id": "annotation:CLP_Aanwezig_IZIPRBSCGMISKX-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "10325-94-7",
-            "ecNumber": "233-710-6",
+            "casNumber": [
+                "10022-68-1",
+                "10325-94-7"
+            ],
+            "ecNumber": [
+                "233-710-6",
+                "638-751-7"
+            ],
             "pubchem": [
                 "compound:CID139088965",
                 "compound:CID25154",
@@ -12518,6 +12557,7 @@
             ],
             "label_en": [
                 " cadmium dinitrate",
+                "cadmium nitrate tetrahydrate",
                 "cadmium nitrate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -12680,7 +12720,7 @@
             "casNumber": "7789-09-5",
             "ecNumber": "232-143-1",
             "pubchem": "compound:CID24600",
-            "label_en": "ammonium dichromate",
+            "label_en": "Ammonium dichromate",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:JOSWYUNQBRPBDN-UHFFFAOYSA-P",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -12790,8 +12830,14 @@
         {
             "id": "annotation:CLP_Aanwezig_JVZREVRTMWNFME-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "375-85-9",
-            "ecNumber": "206-798-9",
+            "casNumber": [
+                "375-85-9",
+                "6130-43-4"
+            ],
+            "ecNumber": [
+                "206-798-9",
+                "228-098-2"
+            ],
             "pubchem": [
                 "compound:CID67818",
                 "compound:CID73555207",
@@ -12799,6 +12845,7 @@
             ],
             "label_en": [
                 " tridecafluoroheptanoic acid",
+                "Ammonium perfluoroheptanoate",
                 "Perfluoroheptanoic acid"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -13204,10 +13251,19 @@
         {
             "id": "annotation:CLP_Aanwezig_LGQLOGILCSXPEA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "7786-81-4",
-            "ecNumber": "232-104-9",
+            "casNumber": [
+                "15244-37-8",
+                "7786-81-4"
+            ],
+            "ecNumber": [
+                "232-104-9",
+                "630-456-1"
+            ],
             "pubchem": "compound:CID24586",
-            "label_en": "nickel sulfate",
+            "label_en": [
+                "Nickel(II) sulfate hexa-/ heptahydrate",
+                "nickel sulfate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:LGQLOGILCSXPEA-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -13552,10 +13608,19 @@
         {
             "id": "annotation:CLP_Aanwezig_MGMXGCZJYUCMGY-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "26523-78-4",
-            "ecNumber": "247-759-6",
+            "casNumber": [
+                "26523-78-4",
+                "3050-88-2"
+            ],
+            "ecNumber": [
+                "247-759-6",
+                "608-492-4"
+            ],
             "pubchem": "compound:CID76452",
-            "label_en": "tris(nonylphenyl) phosphite",
+            "label_en": [
+                "Phenol, 4-nonyl-, phosphite (3:1)",
+                "tris(nonylphenyl) phosphite"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MGMXGCZJYUCMGY-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -13640,10 +13705,18 @@
         {
             "id": "annotation:CLP_Aanwezig_MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "7758-97-6",
+            "casNumber": [
+                "11119-70-3",
+                "15804-54-3",
+                "7758-97-6"
+            ],
             "ecNumber": "231-846-0",
             "pubchem": "compound:CID24460",
-            "label_en": "lead chromate",
+            "label_en": [
+                "Chromic acid (H2CrO4), lead(2 ) salt",
+                "Chromium lead oxide",
+                "lead chromate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -14547,10 +14620,14 @@
         {
             "id": "annotation:CLP_Aanwezig_PXHVJJICTQNCMI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "7440-02-0",
+            "casNumber": [
+                "68412-20-4",
+                "7440-02-0"
+            ],
             "ecNumber": "231-111-4",
             "pubchem": "compound:CID935",
             "label_en": [
+                "Nickel, dextrin complexes",
                 "[particle diameter < 1 mm]",
                 "nickel powder",
                 "nickel"
@@ -14565,7 +14642,7 @@
             "casNumber": "7775-11-3",
             "ecNumber": "231-889-5",
             "pubchem": "compound:CID24488",
-            "label_en": "sodium chromate",
+            "label_en": "Sodium chromate",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:PXLIDIMHPNPGMH-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -14633,10 +14710,17 @@
         {
             "id": "annotation:CLP_Aanwezig_QCUOBSQYDGUHHT-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "10124-36-4",
-            "ecNumber": "233-331-6",
+            "casNumber": [
+                "10124-36-4",
+                "13477-20-8",
+                "13477-21-9"
+            ],
             "pubchem": "compound:CID24962",
-            "label_en": "cadmium sulphate",
+            "label_en": [
+                "Cadmium mesosulfate (CdH2SO5) (7CI)",
+                "Cadmium sulfate, tetrahydrate",
+                "cadmium sulphate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QCUOBSQYDGUHHT-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -14783,13 +14867,22 @@
         {
             "id": "annotation:CLP_Aanwezig_QMMRZOWCJAIUJA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "7718-54-9",
-            "ecNumber": "231-743-0",
+            "casNumber": [
+                "37211-05-5",
+                "7718-54-9"
+            ],
+            "ecNumber": [
+                "231-743-0",
+                "253-399-0"
+            ],
             "pubchem": [
                 "compound:CID158404",
                 "compound:CID24385"
             ],
-            "label_en": "nickel dichloride",
+            "label_en": [
+                "Nickel chloride",
+                "nickel dichloride"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QMMRZOWCJAIUJA-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -14942,13 +15035,22 @@
         {
             "id": "annotation:CLP_Aanwezig_QVIDGJRVLOQYJX-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "18283-82-4",
-            "ecNumber": "242-161-1",
+            "casNumber": [
+                "18283-82-4",
+                "68025-13-8"
+            ],
+            "ecNumber": [
+                "242-161-1",
+                "268-176-3"
+            ],
             "pubchem": [
                 "compound:CID170843944",
                 "compound:CID172101"
             ],
-            "label_en": "citric acid, ammonium nickel salt",
+            "label_en": [
+                "Diammonium nickel bis(hydrogen citrate)",
+                "citric acid, ammonium nickel salt"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QVIDGJRVLOQYJX-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -15166,13 +15268,22 @@
         {
             "id": "annotation:CLP_Aanwezig_RQNWIZPPADIBDY-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "7440-38-2",
-            "ecNumber": "231-148-6",
+            "casNumber": [
+                "7440-38-2",
+                "7784-42-1"
+            ],
+            "ecNumber": [
+                "231-148-6",
+                "232-066-3"
+            ],
             "pubchem": [
                 "compound:CID23969",
                 "compound:CID5359596"
             ],
-            "label_en": "arsenic",
+            "label_en": [
+                "Arsine",
+                "arsenic"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -15447,10 +15558,19 @@
         {
             "id": "annotation:CLP_Aanwezig_SNGREZUHAYWORS-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "335-67-1",
-            "ecNumber": "206-397-9",
+            "casNumber": [
+                "33496-48-9",
+                "335-67-1"
+            ],
+            "ecNumber": [
+                "206-397-9",
+                "251-543-7"
+            ],
             "pubchem": "compound:CID9554",
-            "label_en": "perfluorooctanoic acid",
+            "label_en": [
+                "Perfluorooctanoic anhydride",
+                "perfluorooctanoic acid"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:SNGREZUHAYWORS-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -15767,13 +15887,21 @@
         {
             "id": "annotation:CLP_Aanwezig_UIFOTCALDQIDTI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "27016-75-7",
+            "casNumber": [
+                "12255-80-0",
+                "12795-30-1",
+                "27016-75-7"
+            ],
             "ecNumber": "248-169-1",
             "pubchem": [
                 "compound:CID101946360",
                 "compound:CID62391"
             ],
-            "label_en": "nickel arsenide",
+            "label_en": [
+                "Nickel arsenide",
+                "Nickel subarsenide",
+                "nickel arsenide"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UIFOTCALDQIDTI-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -15896,14 +16024,20 @@
         {
             "id": "annotation:CLP_Aanwezig_UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "7784-40-9",
+            "casNumber": [
+                "7645-25-2",
+                "7784-40-9"
+            ],
             "ecNumber": "232-064-2",
             "pubchem": [
                 "compound:CID16685995",
                 "compound:CID23618852",
                 "compound:CID24572"
             ],
-            "label_en": "lead hydrogen arsenate",
+            "label_en": [
+                "Arsenic acid (H3AsO4), lead salt",
+                "lead hydrogen arsenate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -16449,10 +16583,19 @@
         {
             "id": "annotation:CLP_Aanwezig_WJZOJDGNGVXSIK-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "13840-56-7",
-            "ecNumber": "237-560-2",
+            "casNumber": [
+                "13840-56-7",
+                "14312-40-4"
+            ],
+            "ecNumber": [
+                "237-560-2",
+                "238-253-6"
+            ],
             "pubchem": "compound:CID160998",
-            "label_en": "orthoboric acid, sodium salt",
+            "label_en": [
+                "Trisodium orthoborate",
+                "orthoboric acid, sodium salt"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:WJZOJDGNGVXSIK-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -17146,13 +17289,7 @@
             "casNumber": "7632-04-4",
             "ecNumber": "231-556-4",
             "pubchem": "compound:CID517072",
-            "label_en": [
-                "[containing < 0,1 % (w/w) of particles with an aerodynamic diameter of below 50 µm]",
-                "[containing = 0,1 % (w/w) of particles with an aerodynamic diameter of below 50 µm]",
-                "perboric acid (HB",
-                "perboric acid (HBO(O2)), sodium salt, monohydrate",
-                "sodium peroxoborate"
-            ],
+            "label_en": "Sodium peroxometaborate",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YKLJGMBLPUQQOI-UHFFFAOYSA-M",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -17160,15 +17297,28 @@
         {
             "id": "annotation:CLP_Aanwezig_YKYOUMDCQGMQQO-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "10108-64-2",
-            "ecNumber": "233-296-7",
+            "casNumber": [
+                "10108-64-2",
+                "13966-86-4",
+                "72589-96-9",
+                "7790-78-5"
+            ],
+            "ecNumber": [
+                "233-296-7",
+                "640-998-0"
+            ],
             "pubchem": [
                 "compound:CID16211524",
                 "compound:CID24633",
                 "compound:CID24947",
                 "compound:CID24978551"
             ],
-            "label_en": "cadmium chloride",
+            "label_en": [
+                "CADMIUMCHLORIDE",
+                "Cadmium chloride dihydrate",
+                "cadmium chloride (CdCl2), hydrate (2:5)",
+                "cadmium chloride"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YKYOUMDCQGMQQO-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -17290,7 +17440,10 @@
         {
             "id": "annotation:CLP_Aanwezig_YTOPFCCWCSOHFV-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "24602-86-6",
+            "casNumber": [
+                "24602-86-6",
+                "81412-43-3"
+            ],
             "ecNumber": "246-347-3",
             "pubchem": "compound:CID32518",
             "label_en": [
@@ -17431,8 +17584,14 @@
         {
             "id": "annotation:CLP_Aanwezig_ZHLICBPIXDOFFG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "1336-36-3",
-            "ecNumber": "215-648-1",
+            "casNumber": [
+                "1336-36-3",
+                "32774-16-6"
+            ],
+            "ecNumber": [
+                "215-648-1",
+                "682-345-2"
+            ],
             "pubchem": "compound:CID36231",
             "label_en": [
                 "PCB",
@@ -17503,10 +17662,14 @@
         {
             "id": "annotation:CLP_Aanwezig_ZLQBNKOPBDZKDP-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "13637-71-3",
+            "casNumber": [
+                "13637-71-3",
+                "41743-88-8"
+            ],
             "ecNumber": "237-124-1",
             "pubchem": "compound:CID26158",
             "label_en": [
+                "Perchloric acid, nickel salt",
                 "nickel diperchlorate",
                 "perchloric acid, nickel(II) salt"
             ],
@@ -17602,13 +17765,21 @@
         {
             "id": "annotation:CLP_Aanwezig_ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "16812-54-7",
+            "casNumber": [
+                "12137-08-5",
+                "16812-54-7",
+                "27911-69-9"
+            ],
             "ecNumber": "240-841-2",
             "pubchem": [
                 "compound:CID28094",
                 "compound:CID5360382"
             ],
-            "label_en": "nickel (II) sulfide",
+            "label_en": [
+                "Nickel sulfide (Ni(HS)2)",
+                "Nickel sulfide (Ni2S)",
+                "nickel (II) sulfide"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -17756,8 +17927,14 @@
         {
             "id": "annotation:CLP_Aanwezig_ZZPAXHDZFDUTLY-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "15699-18-0",
-            "ecNumber": "239-793-5",
+            "casNumber": [
+                "15699-18-0",
+                "7785-20-8"
+            ],
+            "ecNumber": [
+                "239-793-5",
+                "680-452-9"
+            ],
             "pubchem": [
                 "compound:CID139057148",
                 "compound:CID16211168",
@@ -17766,7 +17943,10 @@
                 "compound:CID53393523",
                 "compound:CID62669"
             ],
-            "label_en": "diammonium nickel bis(sulfate)",
+            "label_en": [
+                "Nickel ammonium sulfate hexahydrate",
+                "diammonium nickel bis(sulfate)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZZPAXHDZFDUTLY-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:CLP_Aanwezig"
@@ -18241,9 +18421,28 @@
         {
             "id": "annotation:OSPAR_Aanwezig_ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "6842-15-5",
+            "casNumber": [
+                "6842-15-5",
+                "68476-49-3",
+                "68527-16-2",
+                "68606-26-8",
+                "74-98-6"
+            ],
+            "ecNumber": [
+                "200-827-9",
+                "270-689-2",
+                "271-259-7",
+                "271-735-4"
+            ],
             "pubchem": "compound:CID6334",
-            "label_en": "1-propene, tetramer",
+            "label_en": [
+                "Petroleum gas",
+                "Hydrocarbons, C1-3",
+                "Hydrocarbons, C2-4, C3-rich",
+                "Hydrocarbons, C3",
+                "[A complex combination of hydrocarbons having carbon numbers predominantly in the range of C1 through C3 and boiling in the range of approximately minus 164 °C to minus 42 °C (– 263 °F to – 44 °F).]",
+                "propane"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -18316,10 +18515,19 @@
         {
             "id": "annotation:OSPAR_Aanwezig_BLXVTZPGEOGTGG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "9016-45-9",
-            "ecNumber": "500-024-6",
+            "casNumber": [
+                "20427-84-3",
+                "9016-45-9"
+            ],
+            "ecNumber": [
+                "243-816-4",
+                "500-024-6"
+            ],
             "pubchem": "compound:CID24773",
-            "label_en": "Nonylphenol, ethoxylated",
+            "label_en": [
+                "2-[2-(4-nonylphenoxy)ethoxy]ethanol",
+                "Nonylphenol, ethoxylated"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:BLXVTZPGEOGTGG-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -18880,10 +19088,16 @@
         {
             "id": "annotation:OSPAR_Aanwezig_HEOCBCNFKCOKBX-SDNWHVSQSA-N",
             "type": "oa:Annotation",
-            "casNumber": "36861-47-9",
+            "casNumber": [
+                "1782069-81-1",
+                "36861-47-9"
+            ],
             "ecNumber": "253-242-6",
             "pubchem": "compound:CID6434217",
-            "label_en": "(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one",
+            "label_en": [
+                "(3E)-1,7,7-trimethyl-3-(4-methylbenzylidene)bicyclo[2.2.1]heptan-2-one",
+                "(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:HEOCBCNFKCOKBX-SDNWHVSQSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -19288,10 +19502,19 @@
         {
             "id": "annotation:OSPAR_Aanwezig_JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "84852-15-3",
-            "ecNumber": "284-325-5",
+            "casNumber": [
+                "26543-97-5",
+                "84852-15-3"
+            ],
+            "ecNumber": [
+                "247-770-6",
+                "284-325-5"
+            ],
             "pubchem": "compound:CID338733",
-            "label_en": "Phenol, 4-nonyl-, branched",
+            "label_en": [
+                "Phenol, 4-nonyl-, branched",
+                "p-isononylphenol"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -20135,10 +20358,19 @@
         {
             "id": "annotation:OSPAR_Aanwezig_RMBFBMJGBANMMK-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "121-14-2",
-            "ecNumber": "204-450-0",
+            "casNumber": [
+                "121-14-2",
+                "25321-14-6"
+            ],
+            "ecNumber": [
+                "204-450-0",
+                "246-836-1"
+            ],
             "pubchem": "compound:CID8461",
-            "label_en": "2,4-dinitrotoluene",
+            "label_en": [
+                "2,4-dinitrotoluene",
+                "dinitrotoluene"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:RMBFBMJGBANMMK-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -20745,9 +20977,16 @@
         {
             "id": "annotation:OSPAR_Aanwezig_YTOPFCCWCSOHFV-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "81412-43-3",
+            "casNumber": [
+                "24602-86-6",
+                "81412-43-3"
+            ],
+            "ecNumber": "246-347-3",
             "pubchem": "compound:CID32518",
-            "label_en": "morpholine, 2,6-dimethyl-4-(C10-13)- alkyl-",
+            "label_en": [
+                "2,6-dimethyl-4-tridecylmorpholine",
+                "tridemorph (ISO)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YTOPFCCWCSOHFV-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:OSPAR_Aanwezig"
@@ -20820,8 +21059,14 @@
         {
             "id": "annotation:OSPAR_Aanwezig_ZHLICBPIXDOFFG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "1336-36-3",
-            "ecNumber": "215-648-1",
+            "casNumber": [
+                "1336-36-3",
+                "32774-16-6"
+            ],
+            "ecNumber": [
+                "215-648-1",
+                "682-345-2"
+            ],
             "pubchem": "compound:CID36231",
             "label_en": [
                 "PCB",
@@ -23178,8 +23423,8 @@
             "id": "annotation:POP_Aanwezig_SNGREZUHAYWORS-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "335-67-1",
-                "33496-48-9"
+                "33496-48-9",
+                "335-67-1"
             ],
             "ecNumber": [
                 "206-397-9",
@@ -23187,8 +23432,8 @@
             ],
             "pubchem": "compound:CID9554",
             "label_en": [
-                "perfluorooctanoic acid",
-                "Perfluorooctanoic anhydride"
+                "Perfluorooctanoic anhydride",
+                "perfluorooctanoic acid"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:SNGREZUHAYWORS-UHFFFAOYSA-N",
@@ -23909,8 +24154,14 @@
         {
             "id": "annotation:POP_Aanwezig_ZHLICBPIXDOFFG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "1336-36-3",
-            "ecNumber": "215-648-1",
+            "casNumber": [
+                "1336-36-3",
+                "32774-16-6"
+            ],
+            "ecNumber": [
+                "215-648-1",
+                "682-345-2"
+            ],
             "pubchem": "compound:CID36231",
             "label_en": [
                 "PCB",
@@ -23983,7 +24234,7 @@
             "motivatedBy": "zorgwekkende_stof:POP_Aanwezig"
         },
         {
-            "id": "annotation:POP_Aanwezig_todo",
+            "id": "annotation:POP_Aanwezig_todo2",
             "type": "oa:Annotation",
             "casNumber": [
                 "319-84-6",
@@ -24001,7 +24252,7 @@
                 "γ-HCH or γ-BHC"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
-            "hasTarget": "concept:todo",
+            "hasTarget": "concept:todo2",
             "motivatedBy": "zorgwekkende_stof:POP_Aanwezig"
         },
         {
@@ -25902,7 +26153,7 @@
             "type": "oa:Annotation",
             "casNumber": "65405-96-1",
             "ecNumber": "265-748-4",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID135175650",
+            "pubchem": "substance:SID135175650",
             "label_en": "[µ-[carbonato(2-)-O:O’]] dihydroxy trinickel",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "sommatie_stoffen:65405-96-1",
@@ -26692,7 +26943,7 @@
             "type": "oa:Annotation",
             "casNumber": "68892-01-3",
             "ecNumber": "272-591-5",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID135191838",
+            "pubchem": "substance:SID135191838",
             "label_en": "Bis(pentane-2,4-dionato-O,O')boron(1+) hexafluoroarsenate(1-)",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "sommatie_stoffen:68892-01-3",
@@ -29759,8 +30010,8 @@
             ],
             "pubchem": "compound:CID165868",
             "label_en": [
-                "trinickel bis(orthophosphate)",
-                "Phosphoric acid, nickel salt"
+                "Phosphoric acid, nickel salt",
+                "trinickel bis(orthophosphate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:AFYAQDWVUWAENU-UHFFFAOYSA-H",
@@ -30638,10 +30889,19 @@
         {
             "id": "annotation:Restrict_Aanwezig_BLXVTZPGEOGTGG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "9016-45-9",
-            "ecNumber": "500-024-6",
+            "casNumber": [
+                "20427-84-3",
+                "9016-45-9"
+            ],
+            "ecNumber": [
+                "243-816-4",
+                "500-024-6"
+            ],
             "pubchem": "compound:CID24773",
-            "label_en": "Nonylphenol, ethoxylated",
+            "label_en": [
+                "2-[2-(4-nonylphenoxy)ethoxy]ethanol",
+                "Nonylphenol, ethoxylated"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:BLXVTZPGEOGTGG-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:Restrict_Aanwezig"
@@ -31428,10 +31688,17 @@
         {
             "id": "annotation:Restrict_Aanwezig_CWBIFDGMOSWLRQ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "12001-29-5",
+            "casNumber": [
+                "12001-29-5",
+                "12168-92-2",
+                "132207-32-0"
+            ],
             "ecNumber": "601-650-3",
             "pubchem": "compound:CID25477",
-            "label_en": "asbestos",
+            "label_en": [
+                "asbestos",
+                "trimagnesium;hydroxy(trioxido)silane;hydrate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:CWBIFDGMOSWLRQ-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:Restrict_Aanwezig"
@@ -33076,8 +33343,8 @@
                 "compound:CID139034889"
             ],
             "label_en": [
-                "cadmium carbonate",
-                "Carbonic acid, cadmium salt"
+                "Carbonic acid, cadmium salt",
+                "cadmium carbonate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GKDXQAKPHKQZSC-UHFFFAOYSA-L",
@@ -33306,8 +33573,8 @@
             "id": "annotation:Restrict_Aanwezig_GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "301-04-2",
-                "15347-57-6"
+                "15347-57-6",
+                "301-04-2"
             ],
             "ecNumber": [
                 "206-104-4",
@@ -33319,8 +33586,8 @@
                 "compound:CID9317"
             ],
             "label_en": [
-                "lead di(acetate)",
-                "Lead acetate"
+                "Lead acetate",
+                "lead di(acetate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GUWSLQUAAYEZAF-UHFFFAOYSA-L",
@@ -34087,16 +34354,16 @@
             "id": "annotation:Restrict_Aanwezig_HUTDDBSSHVOYJR-UHFFFAOYSA-H",
             "type": "oa:Annotation",
             "casNumber": [
-                "7446-27-7",
-                "16040-38-3"
+                "16040-38-3",
+                "7446-27-7"
             ],
             "pubchem": [
                 "compound:CID16685997",
                 "compound:CID24009"
             ],
             "label_en": [
-                "trilead bis(orthophosphate)",
-                "Phosphoric acid, lead salt"
+                "Phosphoric acid, lead salt",
+                "trilead bis(orthophosphate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:HUTDDBSSHVOYJR-UHFFFAOYSA-H",
@@ -34862,8 +35129,8 @@
             "id": "annotation:Restrict_Aanwezig_IZIPRBSCGMISKX-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "10325-94-7",
-                "10022-68-1"
+                "10022-68-1",
+                "10325-94-7"
             ],
             "ecNumber": [
                 "233-710-6",
@@ -34876,8 +35143,8 @@
             ],
             "label_en": [
                 " cadmium dinitrate",
-                "cadmium nitrate",
-                "cadmium nitrate tetrahydrate"
+                "cadmium nitrate tetrahydrate",
+                "cadmium nitrate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:IZIPRBSCGMISKX-UHFFFAOYSA-N",
@@ -36284,10 +36551,16 @@
         {
             "id": "annotation:Restrict_Aanwezig_KUXGUCNZFCVULO-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "26027-38-3",
+            "casNumber": [
+                "104-35-8",
+                "26027-38-3"
+            ],
             "ecNumber": "500-045-0",
             "pubchem": "compound:CID7700",
-            "label_en": "4-Nonylphenol, ethoxylated",
+            "label_en": [
+                "2-(4-nonylphenoxy)ethanol",
+                "4-Nonylphenol, ethoxylated"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:KUXGUCNZFCVULO-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:Restrict_Aanwezig"
@@ -36610,8 +36883,8 @@
             "id": "annotation:Restrict_Aanwezig_LGQLOGILCSXPEA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7786-81-4",
-                "15244-37-8"
+                "15244-37-8",
+                "7786-81-4"
             ],
             "ecNumber": [
                 "232-104-9",
@@ -36619,8 +36892,8 @@
             ],
             "pubchem": "compound:CID24586",
             "label_en": [
-                "nickel sulfate",
-                "Nickel(II) sulfate hexa-/ heptahydrate"
+                "Nickel(II) sulfate hexa-/ heptahydrate",
+                "nickel sulfate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:LGQLOGILCSXPEA-UHFFFAOYSA-L",
@@ -37456,15 +37729,16 @@
             "id": "annotation:Restrict_Aanwezig_MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "7758-97-6",
                 "11119-70-3",
-                "15804-54-3"
+                "15804-54-3",
+                "7758-97-6"
             ],
+            "ecNumber": "231-846-0",
             "pubchem": "compound:CID24460",
             "label_en": [
-                "lead chromate",
                 "Chromic acid (H2CrO4), lead(2 ) salt",
-                "Chromium lead oxide"
+                "Chromium lead oxide",
+                "lead chromate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MOUPNEIJQCETIW-UHFFFAOYSA-N",
@@ -39659,15 +39933,16 @@
             "id": "annotation:Restrict_Aanwezig_PXHVJJICTQNCMI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "7440-02-0",
-                "68412-20-4"
+                "68412-20-4",
+                "7440-02-0"
             ],
+            "ecNumber": "231-111-4",
             "pubchem": "compound:CID935",
             "label_en": [
+                "Nickel, dextrin complexes",
                 "[particle diameter < 1 mm]",
                 "nickel powder",
-                "nickel",
-                "Nickel, dextrin complexes"
+                "nickel"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
@@ -39783,9 +40058,9 @@
             ],
             "pubchem": "compound:CID24962",
             "label_en": [
-                "cadmium sulphate",
                 "Cadmium mesosulfate (CdH2SO5) (7CI)",
-                "Cadmium sulfate, tetrahydrate"
+                "Cadmium sulfate, tetrahydrate",
+                "cadmium sulphate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QCUOBSQYDGUHHT-UHFFFAOYSA-L",
@@ -40042,8 +40317,8 @@
             "id": "annotation:Restrict_Aanwezig_QMMRZOWCJAIUJA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7718-54-9",
-                "37211-05-5"
+                "37211-05-5",
+                "7718-54-9"
             ],
             "ecNumber": [
                 "231-743-0",
@@ -40054,8 +40329,8 @@
                 "compound:CID24385"
             ],
             "label_en": [
-                "nickel dichloride",
-                "Nickel chloride"
+                "Nickel chloride",
+                "nickel dichloride"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QMMRZOWCJAIUJA-UHFFFAOYSA-L",
@@ -40290,8 +40565,8 @@
                 "compound:CID172101"
             ],
             "label_en": [
-                "citric acid, ammonium nickel salt",
-                "Diammonium nickel bis(hydrogen citrate)"
+                "Diammonium nickel bis(hydrogen citrate)",
+                "citric acid, ammonium nickel salt"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QVIDGJRVLOQYJX-UHFFFAOYSA-L",
@@ -40819,8 +41094,8 @@
                 "compound:CID5359596"
             ],
             "label_en": [
-                "arsenic",
-                "Arsine"
+                "Arsine",
+                "arsenic"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:RQNWIZPPADIBDY-UHFFFAOYSA-N",
@@ -42100,18 +42375,19 @@
             "id": "annotation:Restrict_Aanwezig_UIFOTCALDQIDTI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "27016-75-7",
                 "12255-80-0",
-                "12795-30-1"
+                "12795-30-1",
+                "27016-75-7"
             ],
+            "ecNumber": "248-169-1",
             "pubchem": [
                 "compound:CID101946360",
                 "compound:CID62391"
             ],
             "label_en": [
-                "nickel arsenide",
                 "Nickel arsenide",
-                "Nickel subarsenide"
+                "Nickel subarsenide",
+                "nickel arsenide"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UIFOTCALDQIDTI-UHFFFAOYSA-N",
@@ -42591,17 +42867,18 @@
             "id": "annotation:Restrict_Aanwezig_UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7784-40-9",
-                "7645-25-2"
+                "7645-25-2",
+                "7784-40-9"
             ],
+            "ecNumber": "232-064-2",
             "pubchem": [
                 "compound:CID16685995",
                 "compound:CID23618852",
                 "compound:CID24572"
             ],
             "label_en": [
-                "lead hydrogen arsenate",
-                "Arsenic acid (H3AsO4), lead salt"
+                "Arsenic acid (H3AsO4), lead salt",
+                "lead hydrogen arsenate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UWRBYRMOUPAKLM-UHFFFAOYSA-L",
@@ -45071,10 +45348,10 @@
                 "compound:CID24978551"
             ],
             "label_en": [
-                "cadmium chloride",
                 "CADMIUMCHLORIDE",
                 "Cadmium chloride dihydrate",
-                "cadmium chloride (CdCl2), hydrate (2:5)"
+                "cadmium chloride (CdCl2), hydrate (2:5)",
+                "cadmium chloride"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YKYOUMDCQGMQQO-UHFFFAOYSA-L",
@@ -45510,11 +45787,12 @@
                 "13637-71-3",
                 "41743-88-8"
             ],
+            "ecNumber": "237-124-1",
             "pubchem": "compound:CID26158",
             "label_en": [
+                "Perchloric acid, nickel salt",
                 "nickel diperchlorate",
-                "perchloric acid, nickel(II) salt",
-                "Perchloric acid, nickel salt"
+                "perchloric acid, nickel(II) salt"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZLQBNKOPBDZKDP-UHFFFAOYSA-L",
@@ -45606,18 +45884,19 @@
             "id": "annotation:Restrict_Aanwezig_ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "16812-54-7",
                 "12137-08-5",
+                "16812-54-7",
                 "27911-69-9"
             ],
+            "ecNumber": "240-841-2",
             "pubchem": [
                 "compound:CID28094",
                 "compound:CID5360382"
             ],
             "label_en": [
-                "nickel (II) sulfide",
                 "Nickel sulfide (Ni(HS)2)",
-                "Nickel sulfide (Ni2S)"
+                "Nickel sulfide (Ni2S)",
+                "nickel (II) sulfide"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
@@ -45806,8 +46085,14 @@
         {
             "id": "annotation:Restrict_Aanwezig_ZULUUIKRFGGGTL-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "3333-67-3",
-            "ecNumber": "222-068-2",
+            "casNumber": [
+                "16337-84-1",
+                "3333-67-3"
+            ],
+            "ecNumber": [
+                "222-068-2",
+                "240-408-8"
+            ],
             "pubchem": [
                 "compound:CID139034190",
                 "compound:CID18746"
@@ -45815,6 +46100,7 @@
             "label_en": [
                 "basic nickel carbonate",
                 "carbonic acid, nickel (2+) salt",
+                "carbonic acid, nickel salt",
                 "nickel carbonate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -45935,8 +46221,8 @@
                 "compound:CID62669"
             ],
             "label_en": [
-                "diammonium nickel bis(sulfate)",
-                "Nickel ammonium sulfate hexahydrate"
+                "Nickel ammonium sulfate hexahydrate",
+                "diammonium nickel bis(sulfate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZZPAXHDZFDUTLY-UHFFFAOYSA-L",
@@ -45954,12 +46240,12 @@
             "motivatedBy": "zorgwekkende_stof:Restrict_Aanwezig"
         },
         {
-            "id": "annotation:Restrict_Aanwezig_todo",
+            "id": "annotation:Restrict_Aanwezig_todo1",
             "type": "oa:Annotation",
             "casNumber": "83864-02-2",
             "label_en": "Nickel, bis[(cyano-κC)triphenylborato(1-)-κN]bis(hexanedinitrile-κN,κN')-",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
-            "hasTarget": "concept:todo",
+            "hasTarget": "concept:todo1",
             "motivatedBy": "zorgwekkende_stof:Restrict_Aanwezig"
         },
         {
@@ -46407,13 +46693,25 @@
         {
             "id": "annotation:SVHC_Aanwezig_AFPIWWDEGJLLCL-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "11120-22-2",
-            "ecNumber": "234-363-3",
+            "casNumber": [
+                "10099-76-0",
+                "11120-22-2",
+                "15906-71-5"
+            ],
+            "ecNumber": [
+                "233-246-4",
+                "234-363-3",
+                "240-047-6"
+            ],
             "pubchem": [
                 "compound:CID16686005",
                 "compound:CID61535"
             ],
-            "label_en": "Silicic acid, lead salt",
+            "label_en": [
+                "Lead silicate",
+                "Lead(2+) silicate",
+                "Silicic acid, lead salt"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:AFPIWWDEGJLLCL-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -46628,17 +46926,17 @@
             "id": "annotation:SVHC_Aanwezig_BLXVTZPGEOGTGG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "9016-45-9",
-                "20427-84-3"
+                "20427-84-3",
+                "9016-45-9"
             ],
             "ecNumber": [
-                "500-024-6",
-                "243-816-4"
+                "243-816-4",
+                "500-024-6"
             ],
             "pubchem": "compound:CID24773",
             "label_en": [
-                "Nonylphenol, ethoxylated",
-                "2-[2-(4-nonylphenoxy)ethoxy]ethanol"
+                "2-[2-(4-nonylphenoxy)ethoxy]ethanol",
+                "Nonylphenol, ethoxylated"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:BLXVTZPGEOGTGG-UHFFFAOYSA-N",
@@ -47042,13 +47340,22 @@
         {
             "id": "annotation:SVHC_Aanwezig_DJHGAFSJWGLOIV-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "7778-39-4",
-            "ecNumber": "231-901-9",
+            "casNumber": [
+                "10102-53-1",
+                "13453-15-1",
+                "7778-39-4",
+                "7786-36-9"
+            ],
             "pubchem": [
                 "compound:CID22141747",
                 "compound:CID234"
             ],
-            "label_en": "Arsenic acid",
+            "label_en": [
+                "Arsenenic acid",
+                "Arsenic acid",
+                "Diarsenic acid",
+                "Pentahydroxyarsorane"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:DJHGAFSJWGLOIV-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -47235,13 +47542,22 @@
         {
             "id": "annotation:SVHC_Aanwezig_GKDXQAKPHKQZSC-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "513-78-0",
-            "ecNumber": "208-168-9",
+            "casNumber": [
+                "513-78-0",
+                "93820-02-1"
+            ],
+            "ecNumber": [
+                "208-168-9",
+                "298-586-8"
+            ],
             "pubchem": [
                 "compound:CID10564",
                 "compound:CID139034889"
             ],
-            "label_en": "cadmium carbonate",
+            "label_en": [
+                "Carbonic acid, cadmium salt",
+                "cadmium carbonate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GKDXQAKPHKQZSC-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -47318,7 +47634,10 @@
             "id": "annotation:SVHC_Aanwezig_GTZVCWWCDCAYHU-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": "12179-04-3",
-            "ecNumber": "215-540-4",
+            "ecNumber": [
+                "215-540-4",
+                "601-808-1"
+            ],
             "pubchem": "compound:CID131634875",
             "label_en": "Disodium tetraborate, anhydrous",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -47328,14 +47647,23 @@
         {
             "id": "annotation:SVHC_Aanwezig_GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "301-04-2",
-            "ecNumber": "206-104-4",
+            "casNumber": [
+                "15347-57-6",
+                "301-04-2"
+            ],
+            "ecNumber": [
+                "206-104-4",
+                "239-379-4"
+            ],
             "pubchem": [
                 "compound:CID16685321",
                 "compound:CID16685708",
                 "compound:CID9317"
             ],
-            "label_en": "lead di(acetate)",
+            "label_en": [
+                "Lead acetate",
+                "lead di(acetate)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -47411,13 +47739,14 @@
             "id": "annotation:SVHC_Aanwezig_HEOCBCNFKCOKBX-SDNWHVSQSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "36861-47-9",
-                "1782069-81-1"
+                "1782069-81-1",
+                "36861-47-9"
             ],
+            "ecNumber": "253-242-6",
             "pubchem": "compound:CID6434217",
             "label_en": [
-                "(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one",
-                "(3E)-1,7,7-trimethyl-3-(4-methylbenzylidene)bicyclo[2.2.1]heptan-2-one"
+                "(3E)-1,7,7-trimethyl-3-(4-methylbenzylidene)bicyclo[2.2.1]heptan-2-one",
+                "(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:HEOCBCNFKCOKBX-SDNWHVSQSA-N",
@@ -47829,8 +48158,14 @@
         {
             "id": "annotation:SVHC_Aanwezig_IZIPRBSCGMISKX-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "10325-94-7",
-            "ecNumber": "233-710-6",
+            "casNumber": [
+                "10022-68-1",
+                "10325-94-7"
+            ],
+            "ecNumber": [
+                "233-710-6",
+                "638-751-7"
+            ],
             "pubchem": [
                 "compound:CID139088965",
                 "compound:CID25154",
@@ -47838,6 +48173,7 @@
             ],
             "label_en": [
                 " cadmium dinitrate",
+                "cadmium nitrate tetrahydrate",
                 "cadmium nitrate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -47962,12 +48298,12 @@
             "id": "annotation:SVHC_Aanwezig_JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "84852-15-3",
-                "26543-97-5"
+                "26543-97-5",
+                "84852-15-3"
             ],
             "ecNumber": [
-                "284-325-5",
-                "247-770-6"
+                "247-770-6",
+                "284-325-5"
             ],
             "pubchem": "compound:CID338733",
             "label_en": [
@@ -48006,8 +48342,8 @@
             ],
             "label_en": [
                 " tridecafluoroheptanoic acid",
-                "Perfluoroheptanoic acid",
-                "Ammonium perfluoroheptanoate"
+                "Ammonium perfluoroheptanoate",
+                "Perfluoroheptanoic acid"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:JVZREVRTMWNFME-UHFFFAOYSA-N",
@@ -48080,7 +48416,7 @@
                 "compound:CID129628287",
                 "compound:CID25408"
             ],
-            "label_en": "Sodium dichromate",
+            "label_en": "sodium dichromate",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:KIEOKOFEPABQKJ-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -48180,13 +48516,14 @@
             "id": "annotation:SVHC_Aanwezig_KUXGUCNZFCVULO-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "26027-38-3",
-                "104-35-8"
+                "104-35-8",
+                "26027-38-3"
             ],
+            "ecNumber": "500-045-0",
             "pubchem": "compound:CID7700",
             "label_en": [
-                "4-Nonylphenol, ethoxylated",
-                "2-(4-nonylphenoxy)ethanol"
+                "2-(4-nonylphenoxy)ethanol",
+                "4-Nonylphenol, ethoxylated"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:KUXGUCNZFCVULO-UHFFFAOYSA-N",
@@ -48509,8 +48846,8 @@
             ],
             "pubchem": "compound:CID76452",
             "label_en": [
-                "tris(nonylphenyl) phosphite",
-                "Phenol, 4-nonyl-, phosphite (3:1)"
+                "Phenol, 4-nonyl-, phosphite (3:1)",
+                "tris(nonylphenyl) phosphite"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MGMXGCZJYUCMGY-UHFFFAOYSA-N",
@@ -48541,15 +48878,24 @@
         {
             "id": "annotation:SVHC_Aanwezig_MHVVRZIRWITSIP-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "6477-64-1",
-            "ecNumber": "229-335-2",
+            "casNumber": [
+                "25721-38-4",
+                "6477-64-1"
+            ],
+            "ecNumber": [
+                "229-335-2",
+                "684-862-9"
+            ],
             "pubchem": [
                 "compound:CID137175777",
                 "compound:CID137179368",
                 "compound:CID137192724",
                 "compound:CID3045289"
             ],
-            "label_en": "Lead dipicrate",
+            "label_en": [
+                "Lead dipicrate",
+                "Lead picrate (dry)"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MHVVRZIRWITSIP-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -48582,10 +48928,18 @@
         {
             "id": "annotation:SVHC_Aanwezig_MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "7758-97-6",
+            "casNumber": [
+                "11119-70-3",
+                "15804-54-3",
+                "7758-97-6"
+            ],
             "ecNumber": "231-846-0",
             "pubchem": "compound:CID24460",
-            "label_en": "lead chromate",
+            "label_en": [
+                "Chromic acid (H2CrO4), lead(2 ) salt",
+                "Chromium lead oxide",
+                "lead chromate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -48720,7 +49074,7 @@
                 "compound:CID24599",
                 "compound:CID517275"
             ],
-            "label_en": "Strontium chromate",
+            "label_en": "strontium chromate",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:NVKTUNLPFJHLCG-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -48859,13 +49213,22 @@
         {
             "id": "annotation:SVHC_Aanwezig_OVJOMRKANUZJBM-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "62229-08-7",
-            "ecNumber": "263-467-1",
+            "casNumber": [
+                "52231-92-2",
+                "62229-08-7"
+            ],
+            "ecNumber": [
+                "257-762-4",
+                "263-467-1"
+            ],
             "pubchem": [
                 "compound:CID129630432",
                 "compound:CID6452595"
             ],
-            "label_en": "Sulfurous acid, lead salt, dibasic",
+            "label_en": [
+                "Sulfurous acid, lead salt, basic",
+                "Sulfurous acid, lead salt, dibasic"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:OVJOMRKANUZJBM-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -49058,10 +49421,17 @@
         {
             "id": "annotation:SVHC_Aanwezig_QCUOBSQYDGUHHT-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "10124-36-4",
-            "ecNumber": "233-331-6",
+            "casNumber": [
+                "10124-36-4",
+                "13477-20-8",
+                "13477-21-9"
+            ],
             "pubchem": "compound:CID24962",
-            "label_en": "Cadmium sulphate",
+            "label_en": [
+                "Cadmium mesosulfate (CdH2SO5) (7CI)",
+                "Cadmium sulfate, tetrahydrate",
+                "cadmium sulphate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QCUOBSQYDGUHHT-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -49321,10 +49691,19 @@
         {
             "id": "annotation:SVHC_Aanwezig_RMBBSOLAGVEUSI-UHFFFAOYSA-H",
             "type": "oa:Annotation",
-            "casNumber": "7778-44-1",
-            "ecNumber": "231-904-5",
+            "casNumber": [
+                "10103-62-5",
+                "7778-44-1"
+            ],
+            "ecNumber": [
+                "231-904-5",
+                "233-287-8"
+            ],
             "pubchem": "compound:CID24501",
-            "label_en": "Calcium arsenate",
+            "label_en": [
+                "Arsenic acid, calcium salt",
+                "Calcium arsenate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:RMBBSOLAGVEUSI-UHFFFAOYSA-H",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -49332,10 +49711,19 @@
         {
             "id": "annotation:SVHC_Aanwezig_RMBFBMJGBANMMK-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "121-14-2",
-            "ecNumber": "204-450-0",
+            "casNumber": [
+                "121-14-2",
+                "25321-14-6"
+            ],
+            "ecNumber": [
+                "204-450-0",
+                "246-836-1"
+            ],
             "pubchem": "compound:CID8461",
-            "label_en": "2,4-dinitrotoluene",
+            "label_en": [
+                "2,4-dinitrotoluene",
+                "dinitrotoluene"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:RMBFBMJGBANMMK-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -49522,10 +49910,19 @@
         {
             "id": "annotation:SVHC_Aanwezig_SNGREZUHAYWORS-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "335-67-1",
-            "ecNumber": "206-397-9",
+            "casNumber": [
+                "33496-48-9",
+                "335-67-1"
+            ],
+            "ecNumber": [
+                "206-397-9",
+                "251-543-7"
+            ],
             "pubchem": "compound:CID9554",
-            "label_en": "perfluorooctanoic acid",
+            "label_en": [
+                "Perfluorooctanoic anhydride",
+                "perfluorooctanoic acid"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:SNGREZUHAYWORS-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -49756,14 +50153,20 @@
         {
             "id": "annotation:SVHC_Aanwezig_UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "7784-40-9",
+            "casNumber": [
+                "7645-25-2",
+                "7784-40-9"
+            ],
             "ecNumber": "232-064-2",
             "pubchem": [
                 "compound:CID16685995",
                 "compound:CID23618852",
                 "compound:CID24572"
             ],
-            "label_en": "lead hydrogen arsenate",
+            "label_en": [
+                "Arsenic acid (H3AsO4), lead salt",
+                "lead hydrogen arsenate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:SVHC_Aanwezig"
@@ -50150,8 +50553,8 @@
             ],
             "pubchem": "compound:CID160998",
             "label_en": [
-                "orthoboric acid, sodium salt",
-                "Trisodium orthoborate"
+                "Trisodium orthoborate",
+                "orthoboric acid, sodium salt"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:WJZOJDGNGVXSIK-UHFFFAOYSA-N",
@@ -50569,10 +50972,10 @@
                 "compound:CID24978551"
             ],
             "label_en": [
-                "cadmium chloride",
                 "CADMIUMCHLORIDE",
                 "Cadmium chloride dihydrate",
-                "cadmium chloride (CdCl2), hydrate (2:5)"
+                "cadmium chloride (CdCl2), hydrate (2:5)",
+                "cadmium chloride"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YKYOUMDCQGMQQO-UHFFFAOYSA-L",
@@ -52711,7 +53114,7 @@
             "type": "oa:Annotation",
             "casNumber": "65405-96-1",
             "ecNumber": "265-748-4",
-            "pubchem": "https://rdf.ncbi.nlm.nih.gov/pubchem/substance/SID135175650",
+            "pubchem": "substance:SID135175650",
             "label_en": "[µ-[carbonato(2-)-O:O’]] dihydroxy trinickel",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "sommatie_stoffen:65405-96-1",
@@ -56236,8 +56639,8 @@
             ],
             "pubchem": "compound:CID165868",
             "label_en": [
-                "trinickel bis(orthophosphate)",
-                "Phosphoric acid, nickel salt"
+                "Phosphoric acid, nickel salt",
+                "trinickel bis(orthophosphate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:AFYAQDWVUWAENU-UHFFFAOYSA-H",
@@ -59233,8 +59636,8 @@
                 "compound:CID139034889"
             ],
             "label_en": [
-                "cadmium carbonate",
-                "Carbonic acid, cadmium salt"
+                "Carbonic acid, cadmium salt",
+                "cadmium carbonate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GKDXQAKPHKQZSC-UHFFFAOYSA-L",
@@ -59446,8 +59849,8 @@
             "id": "annotation:WFD_Aanwezig_GUWSLQUAAYEZAF-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "301-04-2",
-                "15347-57-6"
+                "15347-57-6",
+                "301-04-2"
             ],
             "ecNumber": [
                 "206-104-4",
@@ -59459,8 +59862,8 @@
                 "compound:CID9317"
             ],
             "label_en": [
-                "lead di(acetate)",
-                "Lead acetate"
+                "Lead acetate",
+                "lead di(acetate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:GUWSLQUAAYEZAF-UHFFFAOYSA-L",
@@ -60170,16 +60573,16 @@
             "id": "annotation:WFD_Aanwezig_HUTDDBSSHVOYJR-UHFFFAOYSA-H",
             "type": "oa:Annotation",
             "casNumber": [
-                "7446-27-7",
-                "16040-38-3"
+                "16040-38-3",
+                "7446-27-7"
             ],
             "pubchem": [
                 "compound:CID16685997",
                 "compound:CID24009"
             ],
             "label_en": [
-                "trilead bis(orthophosphate)",
-                "Phosphoric acid, lead salt"
+                "Phosphoric acid, lead salt",
+                "trilead bis(orthophosphate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:HUTDDBSSHVOYJR-UHFFFAOYSA-H",
@@ -60856,8 +61259,14 @@
         {
             "id": "annotation:WFD_Aanwezig_IZIPRBSCGMISKX-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "10325-94-7",
-            "ecNumber": "233-710-6",
+            "casNumber": [
+                "10022-68-1",
+                "10325-94-7"
+            ],
+            "ecNumber": [
+                "233-710-6",
+                "638-751-7"
+            ],
             "pubchem": [
                 "compound:CID139088965",
                 "compound:CID25154",
@@ -60865,6 +61274,7 @@
             ],
             "label_en": [
                 " cadmium dinitrate",
+                "cadmium nitrate tetrahydrate",
                 "cadmium nitrate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -61333,10 +61743,19 @@
         {
             "id": "annotation:WFD_Aanwezig_JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "84852-15-3",
-            "ecNumber": "284-325-5",
+            "casNumber": [
+                "26543-97-5",
+                "84852-15-3"
+            ],
+            "ecNumber": [
+                "247-770-6",
+                "284-325-5"
+            ],
             "pubchem": "compound:CID338733",
-            "label_en": "Phenol, 4-nonyl-, branched",
+            "label_en": [
+                "Phenol, 4-nonyl-, branched",
+                "p-isononylphenol"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:JSFITYFUKSFPBZ-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:WFD_Aanwezig"
@@ -62485,8 +62904,8 @@
             "id": "annotation:WFD_Aanwezig_LGQLOGILCSXPEA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7786-81-4",
-                "15244-37-8"
+                "15244-37-8",
+                "7786-81-4"
             ],
             "ecNumber": [
                 "232-104-9",
@@ -62494,8 +62913,8 @@
             ],
             "pubchem": "compound:CID24586",
             "label_en": [
-                "nickel sulfate",
-                "Nickel(II) sulfate hexa-/ heptahydrate"
+                "Nickel(II) sulfate hexa-/ heptahydrate",
+                "nickel sulfate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:LGQLOGILCSXPEA-UHFFFAOYSA-L",
@@ -63209,15 +63628,16 @@
             "id": "annotation:WFD_Aanwezig_MOUPNEIJQCETIW-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "7758-97-6",
                 "11119-70-3",
-                "15804-54-3"
+                "15804-54-3",
+                "7758-97-6"
             ],
+            "ecNumber": "231-846-0",
             "pubchem": "compound:CID24460",
             "label_en": [
-                "lead chromate",
                 "Chromic acid (H2CrO4), lead(2 ) salt",
-                "Chromium lead oxide"
+                "Chromium lead oxide",
+                "lead chromate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:MOUPNEIJQCETIW-UHFFFAOYSA-N",
@@ -64063,13 +64483,22 @@
         {
             "id": "annotation:WFD_Aanwezig_OISMQLUZKQIKII-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "654054-66-7",
-            "ecNumber": "629-592-4",
+            "casNumber": [
+                "35658-65-2",
+                "654054-66-7"
+            ],
+            "ecNumber": [
+                "621-024-3",
+                "629-592-4"
+            ],
             "pubchem": [
                 "compound:CID16211517",
                 "compound:CID5284356"
             ],
-            "label_en": "Cadmium chloride hydrate",
+            "label_en": [
+                "Cadmium (II) chloride monohydrate",
+                "Cadmium chloride hydrate"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:OISMQLUZKQIKII-UHFFFAOYSA-L",
             "motivatedBy": "zorgwekkende_stof:WFD_Aanwezig"
@@ -64896,15 +65325,16 @@
             "id": "annotation:WFD_Aanwezig_PXHVJJICTQNCMI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "7440-02-0",
-                "68412-20-4"
+                "68412-20-4",
+                "7440-02-0"
             ],
+            "ecNumber": "231-111-4",
             "pubchem": "compound:CID935",
             "label_en": [
+                "Nickel, dextrin complexes",
                 "[particle diameter < 1 mm]",
                 "nickel powder",
-                "nickel",
-                "Nickel, dextrin complexes"
+                "nickel"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:PXHVJJICTQNCMI-UHFFFAOYSA-N",
@@ -65009,9 +65439,9 @@
             ],
             "pubchem": "compound:CID24962",
             "label_en": [
-                "cadmium sulphate",
                 "Cadmium mesosulfate (CdH2SO5) (7CI)",
-                "Cadmium sulfate, tetrahydrate"
+                "Cadmium sulfate, tetrahydrate",
+                "cadmium sulphate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QCUOBSQYDGUHHT-UHFFFAOYSA-L",
@@ -65311,8 +65741,8 @@
             "id": "annotation:WFD_Aanwezig_QMMRZOWCJAIUJA-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7718-54-9",
-                "37211-05-5"
+                "37211-05-5",
+                "7718-54-9"
             ],
             "ecNumber": [
                 "231-743-0",
@@ -65323,8 +65753,8 @@
                 "compound:CID24385"
             ],
             "label_en": [
-                "nickel dichloride",
-                "Nickel chloride"
+                "Nickel chloride",
+                "nickel dichloride"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QMMRZOWCJAIUJA-UHFFFAOYSA-L",
@@ -65543,8 +65973,8 @@
                 "compound:CID172101"
             ],
             "label_en": [
-                "citric acid, ammonium nickel salt",
-                "Diammonium nickel bis(hydrogen citrate)"
+                "Diammonium nickel bis(hydrogen citrate)",
+                "citric acid, ammonium nickel salt"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:QVIDGJRVLOQYJX-UHFFFAOYSA-L",
@@ -67179,18 +67609,19 @@
             "id": "annotation:WFD_Aanwezig_UIFOTCALDQIDTI-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "27016-75-7",
                 "12255-80-0",
-                "12795-30-1"
+                "12795-30-1",
+                "27016-75-7"
             ],
+            "ecNumber": "248-169-1",
             "pubchem": [
                 "compound:CID101946360",
                 "compound:CID62391"
             ],
             "label_en": [
-                "nickel arsenide",
                 "Nickel arsenide",
-                "Nickel subarsenide"
+                "Nickel subarsenide",
+                "nickel arsenide"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UIFOTCALDQIDTI-UHFFFAOYSA-N",
@@ -67650,17 +68081,18 @@
             "id": "annotation:WFD_Aanwezig_UWRBYRMOUPAKLM-UHFFFAOYSA-L",
             "type": "oa:Annotation",
             "casNumber": [
-                "7784-40-9",
-                "7645-25-2"
+                "7645-25-2",
+                "7784-40-9"
             ],
+            "ecNumber": "232-064-2",
             "pubchem": [
                 "compound:CID16685995",
                 "compound:CID23618852",
                 "compound:CID24572"
             ],
             "label_en": [
-                "lead hydrogen arsenate",
-                "Arsenic acid (H3AsO4), lead salt"
+                "Arsenic acid (H3AsO4), lead salt",
+                "lead hydrogen arsenate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:UWRBYRMOUPAKLM-UHFFFAOYSA-L",
@@ -69894,10 +70326,10 @@
                 "compound:CID24978551"
             ],
             "label_en": [
-                "cadmium chloride",
                 "CADMIUMCHLORIDE",
                 "Cadmium chloride dihydrate",
-                "cadmium chloride (CdCl2), hydrate (2:5)"
+                "cadmium chloride (CdCl2), hydrate (2:5)",
+                "cadmium chloride"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:YKYOUMDCQGMQQO-UHFFFAOYSA-L",
@@ -70212,10 +70644,19 @@
         {
             "id": "annotation:WFD_Aanwezig_ZHLICBPIXDOFFG-UHFFFAOYSA-N",
             "type": "oa:Annotation",
-            "casNumber": "32774-16-6",
-            "ecNumber": "682-345-2",
+            "casNumber": [
+                "1336-36-3",
+                "32774-16-6"
+            ],
+            "ecNumber": [
+                "215-648-1",
+                "682-345-2"
+            ],
             "pubchem": "compound:CID36231",
-            "label_en": "3,4,5,3',4',5'-Hexachlorobiphenyl",
+            "label_en": [
+                "PCB",
+                "polychlorobiphenyls"
+            ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZHLICBPIXDOFFG-UHFFFAOYSA-N",
             "motivatedBy": "zorgwekkende_stof:WFD_Aanwezig"
@@ -70301,11 +70742,12 @@
                 "13637-71-3",
                 "41743-88-8"
             ],
+            "ecNumber": "237-124-1",
             "pubchem": "compound:CID26158",
             "label_en": [
+                "Perchloric acid, nickel salt",
                 "nickel diperchlorate",
-                "perchloric acid, nickel(II) salt",
-                "Perchloric acid, nickel salt"
+                "perchloric acid, nickel(II) salt"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZLQBNKOPBDZKDP-UHFFFAOYSA-L",
@@ -70364,18 +70806,19 @@
             "id": "annotation:WFD_Aanwezig_ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
             "type": "oa:Annotation",
             "casNumber": [
-                "16812-54-7",
                 "12137-08-5",
+                "16812-54-7",
                 "27911-69-9"
             ],
+            "ecNumber": "240-841-2",
             "pubchem": [
                 "compound:CID28094",
                 "compound:CID5360382"
             ],
             "label_en": [
-                "nickel (II) sulfide",
                 "Nickel sulfide (Ni(HS)2)",
-                "Nickel sulfide (Ni2S)"
+                "Nickel sulfide (Ni2S)",
+                "nickel (II) sulfide"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZOPQVUGKTLTCMT-UHFFFAOYSA-N",
@@ -70473,8 +70916,14 @@
         {
             "id": "annotation:WFD_Aanwezig_ZULUUIKRFGGGTL-UHFFFAOYSA-L",
             "type": "oa:Annotation",
-            "casNumber": "3333-67-3",
-            "ecNumber": "222-068-2",
+            "casNumber": [
+                "16337-84-1",
+                "3333-67-3"
+            ],
+            "ecNumber": [
+                "222-068-2",
+                "240-408-8"
+            ],
             "pubchem": [
                 "compound:CID139034190",
                 "compound:CID18746"
@@ -70482,6 +70931,7 @@
             "label_en": [
                 "basic nickel carbonate",
                 "carbonic acid, nickel (2+) salt",
+                "carbonic acid, nickel salt",
                 "nickel carbonate"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
@@ -70584,8 +71034,8 @@
                 "compound:CID62669"
             ],
             "label_en": [
-                "diammonium nickel bis(sulfate)",
-                "Nickel ammonium sulfate hexahydrate"
+                "Nickel ammonium sulfate hexahydrate",
+                "diammonium nickel bis(sulfate)"
             ],
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
             "hasTarget": "concept:ZZPAXHDZFDUTLY-UHFFFAOYSA-L",
@@ -70613,12 +71063,12 @@
             "motivatedBy": "zorgwekkende_stof:WFD_Aanwezig"
         },
         {
-            "id": "annotation:WFD_Aanwezig_todo",
+            "id": "annotation:WFD_Aanwezig_todo1",
             "type": "oa:Annotation",
             "casNumber": "83864-02-2",
             "label_en": "Nickel, bis[(cyano-κC)triphenylborato(1-)-κN]bis(hexanedinitrile-κN,κN')-",
             "hasBody": "zorgwekkende_stof:zorgwekkende_stof",
-            "hasTarget": "concept:todo",
+            "hasTarget": "concept:todo1",
             "motivatedBy": "zorgwekkende_stof:WFD_Aanwezig"
         },
         {
@@ -81244,7 +81694,11 @@
             "hasTarget": "concept:QYSXJUFSXHHAJI-FVUVGDFOSA-N"
         },
         {
-            "id": "concept:todo",
+            "id": "concept:todo1",
+            "type": "skos:Concept"
+        },
+        {
+            "id": "concept:todo2",
             "type": "skos:Concept"
         },
         {
