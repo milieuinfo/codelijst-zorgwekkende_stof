@@ -59,6 +59,7 @@ df1 <- df%>%
   separate_rows("motivatedBy", sep = "\\|")%>%
   unite(uri, motivatedBy , hasTarget, sep = "_", remove = FALSE, na.rm = TRUE)
 df1$uri <- gsub('sommatie_stoffen:', '', df1$uri)
+df1$uri <- gsub('zorgwekkende_stof:', 'annotation:', df1$uri)
 df1$hasBody <- "zorgwekkende_stof:zorgwekkende_stof"
 
 df1 <- df1%>%

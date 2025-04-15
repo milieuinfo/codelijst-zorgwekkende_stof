@@ -16,7 +16,7 @@ const context_prefixes = Object.assign({},context , prefixes)
 
 const frame_skos_prefixes = {
     "@context": context_prefixes,
-    "@type": ["rdfs:Resource", "skos:ConceptScheme", "skos:Collection", "skos:Concept"],
+    "@type": ["oa:Annotation", "skos:ConceptScheme", "skos:Collection", "skos:Concept"],
     "member": {
         "@type": "skos:Concept",
         "@embed": "@never",
