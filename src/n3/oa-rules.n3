@@ -4,4 +4,4 @@
 
 { ?x oa:hasTarget ?y } => { ?y a skos:Concept } .
 { ?x oa:hasBody ?y } => { ?y a skos:Concept } .
-{ ?x oa:motivatedBy ?y } => { ?y a skos:Concept } .
+{ ?x oa:motivatedBy ?y } => { ?y a oa:Motivation } .
