@@ -1,0 +1,2043 @@
+{
+    "@graph": [
+        {
+            "@id": "data:Q866825",
+            "@type": "schema:Dataset",
+            "about": "wd:Q866825",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 2251716581,
+            "dateModified": "2024-09-22T18:52:10Z",
+            "statements": 9,
+            "sitelinks": 12,
+            "identifiers": 3
+        },
+        {
+            "@id": "wd:Q866825",
+            "@type": "wikibase:Item"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/Boron_arsenide",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "en",
+            "isPartOf": "https://en.wikipedia.org/",
+            "name": {
+                "@language": "en",
+                "@value": "Boron arsenide"
+            }
+        },
+        {
+            "@id": "https://en.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://de.wikipedia.org/wiki/Borarsenid",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "de",
+            "isPartOf": "https://de.wikipedia.org/",
+            "name": {
+                "@language": "de",
+                "@value": "Borarsenid"
+            }
+        },
+        {
+            "@id": "https://de.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://fr.wikipedia.org/wiki/Ars%C3%A9niure_de_bore",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "fr",
+            "isPartOf": "https://fr.wikipedia.org/",
+            "name": {
+                "@language": "fr",
+                "@value": "Ars\u00e9niure de bore"
+            }
+        },
+        {
+            "@id": "https://fr.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://zh.wikipedia.org/wiki/%E7%A0%B7%E5%8C%96%E7%A1%BC",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "zh",
+            "isPartOf": "https://zh.wikipedia.org/",
+            "name": {
+                "@language": "zh",
+                "@value": "\u7837\u5316\u787c"
+            }
+        },
+        {
+            "@id": "https://zh.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%B3%D9%86%DB%8C%D8%AF_%D8%A8%D9%88%D8%B1",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "fa",
+            "isPartOf": "https://fa.wikipedia.org/",
+            "name": {
+                "@language": "fa",
+                "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+            }
+        },
+        {
+            "@id": "https://fa.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://ar.wikipedia.org/wiki/%D8%B2%D8%B1%D9%86%D9%8A%D8%AE%D9%8A%D8%AF_%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%88%D9%86",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "ar",
+            "isPartOf": "https://ar.wikipedia.org/",
+            "name": {
+                "@language": "ar",
+                "@value": "\u0632\u0631\u0646\u064a\u062e\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+            }
+        },
+        {
+            "@id": "https://ar.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://sr.wikipedia.org/wiki/Bor_arsenid",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "sr",
+            "isPartOf": "https://sr.wikipedia.org/",
+            "name": {
+                "@language": "sr",
+                "@value": "Bor arsenid"
+            }
+        },
+        {
+            "@id": "https://sr.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://azb.wikipedia.org/wiki/%D8%A2%D8%B1%D8%B3%D9%86%DB%8C%D8%AF_%D8%A8%D9%88%D8%B1",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "azb",
+            "isPartOf": "https://azb.wikipedia.org/",
+            "name": {
+                "@language": "azb",
+                "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+            }
+        },
+        {
+            "@id": "https://azb.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://sh.wikipedia.org/wiki/Bor_arsenid",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "sh",
+            "isPartOf": "https://sh.wikipedia.org/",
+            "name": {
+                "@language": "sh",
+                "@value": "Bor arsenid"
+            }
+        },
+        {
+            "@id": "https://sh.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%B0%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%86%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%9F%E0%AF%81",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "ta",
+            "isPartOf": "https://ta.wikipedia.org/",
+            "name": {
+                "@language": "ta",
+                "@value": "\u0baa\u0bcb\u0bb0\u0bbe\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b9f\u0bc1"
+            }
+        },
+        {
+            "@id": "https://ta.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://ga.wikipedia.org/wiki/Arsain%C3%ADd_bh%C3%B3r%C3%B3in",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "ga",
+            "isPartOf": "https://ga.wikipedia.org/",
+            "name": {
+                "@language": "ga",
+                "@value": "Arsain\u00edd bh\u00f3r\u00f3in"
+            }
+        },
+        {
+            "@id": "https://ga.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://ja.wikipedia.org/wiki/%E3%83%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0",
+            "@type": "schema:Article",
+            "about": "wd:Q866825",
+            "inLanguage": "ja",
+            "isPartOf": "https://ja.wikipedia.org/",
+            "name": {
+                "@language": "ja",
+                "@value": "\u30d2\u5316\u30db\u30a6\u7d20"
+            }
+        },
+        {
+            "@id": "https://ja.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "wd:Q866825",
+            "P31": "wd:Q113145171",
+            "P231": "12005-69-5",
+            "P274": "BAs",
+            "P6366": "2779739829",
+            "wdtn:P6366": "https://makg.org/entity/2779739829",
+            "P646": "/m/0bn9mk",
+            "P527": [
+                "wd:Q618",
+                "wd:Q871"
+            ],
+            "P279": "wd:Q11173",
+            "P8224": "http://commons.wikimedia.org/wiki/Special:FilePath/Boron-arsenide-unit-cell-1963-CM-3D-balls.png",
+            "p:P31": "wds:Q866825-68A1D11B-6928-49BC-A68E-19C7819EE5BA"
+        },
+        {
+            "@id": "wds:Q866825-68A1D11B-6928-49BC-A68E-19C7819EE5BA",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P31": "wd:Q113145171"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P231": "wds:Q866825-6765E0F6-5B40-4E46-8CBF-8A63638757E4"
+        },
+        {
+            "@id": "wds:Q866825-6765E0F6-5B40-4E46-8CBF-8A63638757E4",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P231": "12005-69-5",
+            "wasDerivedFrom": "wdref:fa278ebfc458360e5aed63d5058cca83c46134f1"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P274": "wds:Q866825-EBEB791F-B423-4160-9E17-B00A03817449"
+        },
+        {
+            "@id": "wds:Q866825-EBEB791F-B423-4160-9E17-B00A03817449",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P274": "BAs",
+            "wasDerivedFrom": "wdref:9a24f7c0208b05d6be97077d855671d1dfdbc0dd"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P6366": "wds:Q866825-484C8B34-8EBC-4819-8DD4-5A608A71F1AE"
+        },
+        {
+            "@id": "wds:Q866825-484C8B34-8EBC-4819-8DD4-5A608A71F1AE",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P6366": "2779739829",
+            "psn:P6366": "https://makg.org/entity/2779739829"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P646": "wds:Q866825-21CDEC84-58A5-4771-A219-5E89551F6AE0"
+        },
+        {
+            "@id": "wds:Q866825-21CDEC84-58A5-4771-A219-5E89551F6AE0",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P646": "/m/0bn9mk"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P527": "wds:Q866825-2a1f923e-4a1f-230f-59d0-c49700b43f52"
+        },
+        {
+            "@id": "wds:Q866825-2a1f923e-4a1f-230f-59d0-c49700b43f52",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P527": "wd:Q618"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P527": "wds:Q866825-148efab3-42a3-c38b-f7b1-3914a0aa8fdf"
+        },
+        {
+            "@id": "wds:Q866825-148efab3-42a3-c38b-f7b1-3914a0aa8fdf",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P527": "wd:Q871"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P279": "wds:Q866825-B5FEF0CB-0352-4C94-8630-E6ADFA3920EA"
+        },
+        {
+            "@id": "wds:Q866825-B5FEF0CB-0352-4C94-8630-E6ADFA3920EA",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P279": "wd:Q11173"
+        },
+        {
+            "@id": "wd:Q866825",
+            "p:P8224": "wds:Q866825-AA44A439-1166-47B1-8D45-8954EF2F98E4"
+        },
+        {
+            "@id": "wds:Q866825-AA44A439-1166-47B1-8D45-8954EF2F98E4",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P8224": "http://commons.wikimedia.org/wiki/Special:FilePath/Boron-arsenide-unit-cell-1963-CM-3D-balls.png",
+            "P180": "wd:Q4394145"
+        },
+        {
+            "@id": "wd:Q866825",
+            "label": [
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hk",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "sr-el",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "sr-ec",
+                    "@value": "\u0411\u043e\u0440 \u0430\u0440\u0441\u0435\u043d\u0438\u0434"
+                },
+                {
+                    "@language": "en",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Borarsenid"
+                },
+                {
+                    "@language": "en-ca",
+                    "@value": "Boron arsenide"
+                },
+                {
+                    "@language": "en-gb",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0632\u0631\u0646\u064a\u062e\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "ars\u00e9niure de bore"
+                },
+                {
+                    "@language": "ga",
+                    "@value": "arsain\u00edd bh\u00f3r\u00f3in"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "\u0baa\u0bcb\u0bb0\u0bbe\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b9f\u0bc1"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "arsenek boru"
+                },
+                {
+                    "@language": "ja",
+                    "@value": "\u30d2\u5316\u30db\u30a6\u7d20"
+                },
+                {
+                    "@language": "cs",
+                    "@value": "Arsenid borit\u00fd"
+                }
+            ],
+            "prefLabel": [
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hk",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "sr-el",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "sr-ec",
+                    "@value": "\u0411\u043e\u0440 \u0430\u0440\u0441\u0435\u043d\u0438\u0434"
+                },
+                {
+                    "@language": "en",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Borarsenid"
+                },
+                {
+                    "@language": "en-ca",
+                    "@value": "Boron arsenide"
+                },
+                {
+                    "@language": "en-gb",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0632\u0631\u0646\u064a\u062e\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "ars\u00e9niure de bore"
+                },
+                {
+                    "@language": "ga",
+                    "@value": "arsain\u00edd bh\u00f3r\u00f3in"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "\u0baa\u0bcb\u0bb0\u0bbe\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b9f\u0bc1"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "arsenek boru"
+                },
+                {
+                    "@language": "ja",
+                    "@value": "\u30d2\u5316\u30db\u30a6\u7d20"
+                },
+                {
+                    "@language": "cs",
+                    "@value": "Arsenid borit\u00fd"
+                }
+            ],
+            "name": [
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "zh-hk",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "sr-el",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "sr-ec",
+                    "@value": "\u0411\u043e\u0440 \u0430\u0440\u0441\u0435\u043d\u0438\u0434"
+                },
+                {
+                    "@language": "en",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "\u7837\u5316\u787c"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Borarsenid"
+                },
+                {
+                    "@language": "en-ca",
+                    "@value": "Boron arsenide"
+                },
+                {
+                    "@language": "en-gb",
+                    "@value": "boron arsenide"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "Bor arsenid"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0632\u0631\u0646\u064a\u062e\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "ars\u00e9niure de bore"
+                },
+                {
+                    "@language": "ga",
+                    "@value": "arsain\u00edd bh\u00f3r\u00f3in"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "\u0baa\u0bcb\u0bb0\u0bbe\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b9f\u0bc1"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u0622\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "arsenek boru"
+                },
+                {
+                    "@language": "ja",
+                    "@value": "\u30d2\u5316\u30db\u30a6\u7d20"
+                },
+                {
+                    "@language": "cs",
+                    "@value": "Arsenid borit\u00fd"
+                }
+            ],
+            "description": [
+                {
+                    "@language": "en",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "hy",
+                    "@value": "\u0584\u056b\u0574\u056b\u0561\u056f\u0561\u0576 \u0574\u056b\u0561\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+                },
+                {
+                    "@language": "he",
+                    "@value": "\u05ea\u05e8\u05db\u05d5\u05d1\u05ea"
+                },
+                {
+                    "@language": "es",
+                    "@value": "compuesto qu\u00edmico"
+                },
+                {
+                    "@language": "pt",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "it",
+                    "@value": "composto chimico"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "compos\u00e9 chimique"
+                },
+                {
+                    "@language": "ca",
+                    "@value": "compost qu\u00edmic"
+                },
+                {
+                    "@language": "eu",
+                    "@value": "konposatu kimiko"
+                },
+                {
+                    "@language": "eo",
+                    "@value": "kemia kombina\u0135o"
+                },
+                {
+                    "@language": "ast",
+                    "@value": "compuestu qu\u00edmicu"
+                },
+                {
+                    "@language": "nb",
+                    "@value": "kjemisk forbindelse"
+                },
+                {
+                    "@language": "gl",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "pt-br",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "nn",
+                    "@value": "kjemisk sambinding"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "chemische verbinding"
+                },
+                {
+                    "@language": "de",
+                    "@value": "chemische Verbindung"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "zwi\u0105zek chemiczny"
+                },
+                {
+                    "@language": "oc",
+                    "@value": "component quimic"
+                },
+                {
+                    "@language": "ro",
+                    "@value": "compus chimic"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0645\u0631\u0643\u0628 \u0643\u064a\u0645\u064a\u0627\u0626\u064a"
+                },
+                {
+                    "@language": "fi",
+                    "@value": "kemiallinen yhdiste"
+                },
+                {
+                    "@language": "bn",
+                    "@value": "\u09b0\u09be\u09b8\u09be\u09af\u09bc\u09a8\u09bf\u0995 \u09af\u09cc\u0997"
+                },
+                {
+                    "@language": "an",
+                    "@value": "compuesto quimico"
+                },
+                {
+                    "@language": "ml",
+                    "@value": "\u0d30\u0d3e\u0d38\u0d38\u0d02\u200c\u0d2f\u0d41\u0d15\u0d4d\u0d24\u0d02"
+                },
+                {
+                    "@language": "af",
+                    "@value": "chemiese verbinding"
+                },
+                {
+                    "@language": "cs",
+                    "@value": "chemick\u00e1 slou\u010denina"
+                },
+                {
+                    "@language": "da",
+                    "@value": "kemisk forbindelse"
+                },
+                {
+                    "@language": "de-ch",
+                    "@value": "chemische Verbindung"
+                },
+                {
+                    "@language": "en-ca",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "en-gb",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "id",
+                    "@value": "senyawa kimia"
+                },
+                {
+                    "@language": "la",
+                    "@value": "compositum chemicum"
+                },
+                {
+                    "@language": "lb",
+                    "@value": "cheemesch Verbindung"
+                },
+                {
+                    "@language": "lv",
+                    "@value": "\u0137\u012bmisks savienojums"
+                },
+                {
+                    "@language": "sk",
+                    "@value": "chemick\u00e1 zl\u00fa\u010denina"
+                },
+                {
+                    "@language": "sq",
+                    "@value": "komponim kimik"
+                },
+                {
+                    "@language": "uk",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430 \u0441\u043f\u043e\u043b\u0443\u043a\u0430"
+                },
+                {
+                    "@language": "ru",
+                    "@value": "\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-mo",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-tw",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "mk",
+                    "@value": "\u0445\u0435\u043c\u0438\u0441\u043a\u043e \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-cn",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-sg",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "cy",
+                    "@value": "cyfansoddyn cemegol"
+                },
+                {
+                    "@language": "bg",
+                    "@value": "\u0445\u0438\u043c\u0438\u0447\u043d\u043e \u0441\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "be-tarask",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430\u0435 \u0437\u043b\u0443\u0447\u044d\u043d\u044c\u043d\u0435"
+                },
+                {
+                    "@language": "io",
+                    "@value": "kemiala kompozajo"
+                },
+                {
+                    "@language": "zh-hk",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "et",
+                    "@value": "keemiline \u00fchend"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "scn",
+                    "@value": "cumpostu ch\u00ecmicu"
+                },
+                {
+                    "@language": "be",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430\u0435 \u0437\u043b\u0443\u0447\u044d\u043d\u043d\u0435"
+                },
+                {
+                    "@language": "el",
+                    "@value": "\u03c7\u03b7\u03bc\u03b9\u03ba\u03ae \u03ad\u03bd\u03c9\u03c3\u03b7"
+                },
+                {
+                    "@language": "ia",
+                    "@value": "composito chimic"
+                },
+                {
+                    "@language": "yue",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "fy",
+                    "@value": "gemyske ferbining"
+                },
+                {
+                    "@language": "ja",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "vec",
+                    "@value": "conposto ch\u00ecmego"
+                },
+                {
+                    "@language": "br",
+                    "@value": "kediad kimiek"
+                },
+                {
+                    "@language": "gcr",
+                    "@value": "Kompoz\u00e9 chimik"
+                },
+                {
+                    "@language": "ks",
+                    "@value": "\u06a9\u06cc\u0656\u0645\u06cc\u0672\u06cc\u06cc \u0645\u064f\u0631\u064e\u06a9\u064e\u0628"
+                }
+            ],
+            "altLabel": [
+                {
+                    "@language": "fa",
+                    "@value": "\u0627\u0631\u0633\u0646\u06cc\u062f \u0628\u0648\u0631"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "Bor-arsenid"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0623\u0631\u0633\u064a\u0646\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u062f\u0648\u0646 \u0632\u0631\u0646\u064a\u062e\u064a\u062f \u0627\u0644\u0628\u0648\u0631\u0648\u0646"
+                }
+            ]
+        },
+        {
+            "@id": "wd:Q113145171",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Wikidata metaclass that covers physical entities of interest in chemistry including molecular entities and pure chemical substances"
+            }
+        },
+        {
+            "@id": "wd:P31",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "type to which this subject corresponds/belongs. Different from P279 (subclass of); for example: K2 is an instance of mountain; volcanoes form a subclass of mountains, and the volcano is a type (instance) of volcanic landform"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P31",
+            "claim": "p:P31",
+            "statementProperty": "ps:P31",
+            "statementValue": "psv:P31",
+            "qualifier": "pq:P31",
+            "qualifierValue": "pqv:P31",
+            "reference": "pr:P31",
+            "referenceValue": "prv:P31",
+            "novalue": "wdno:P31"
+        },
+        {
+            "@id": "p:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P31",
+            "@type": "owl:Class",
+            "complementOf": "_:0b8bd71b926a65ca3fa72e5d9103e4d6"
+        },
+        {
+            "@id": "_:0b8bd71b926a65ca3fa72e5d9103e4d6",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P31",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P231",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for a chemical substance or compound per Chemical Abstract Service's Registry database"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P231",
+            "claim": "p:P231",
+            "statementProperty": "ps:P231",
+            "statementValue": "psv:P231",
+            "qualifier": "pq:P231",
+            "qualifierValue": "pqv:P231",
+            "reference": "pr:P231",
+            "referenceValue": "prv:P231",
+            "novalue": "wdno:P231",
+            "directClaimNormalized": "wdtn:P231",
+            "statementValueNormalized": "psn:P231",
+            "qualifierValueNormalized": "pqn:P231",
+            "referenceValueNormalized": "prn:P231"
+        },
+        {
+            "@id": "p:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P231",
+            "@type": "owl:Class",
+            "complementOf": "_:69ccbb1d728b53f38cea390d5f8e39c1"
+        },
+        {
+            "@id": "_:69ccbb1d728b53f38cea390d5f8e39c1",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P231",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P274",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "description of chemical compound giving element symbols and counts"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P274",
+            "claim": "p:P274",
+            "statementProperty": "ps:P274",
+            "statementValue": "psv:P274",
+            "qualifier": "pq:P274",
+            "qualifierValue": "pqv:P274",
+            "reference": "pr:P274",
+            "referenceValue": "prv:P274",
+            "novalue": "wdno:P274"
+        },
+        {
+            "@id": "p:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P274",
+            "@type": "owl:Class",
+            "complementOf": "_:933727dcd3ada0ef3e33b1b023b7731a"
+        },
+        {
+            "@id": "_:933727dcd3ada0ef3e33b1b023b7731a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P274",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P6366",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for an object or topic in the Microsoft Academic Graph (until 31 December 2021)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P6366",
+            "claim": "p:P6366",
+            "statementProperty": "ps:P6366",
+            "statementValue": "psv:P6366",
+            "qualifier": "pq:P6366",
+            "qualifierValue": "pqv:P6366",
+            "reference": "pr:P6366",
+            "referenceValue": "prv:P6366",
+            "novalue": "wdno:P6366",
+            "directClaimNormalized": "wdtn:P6366",
+            "statementValueNormalized": "psn:P6366",
+            "qualifierValueNormalized": "pqn:P6366",
+            "referenceValueNormalized": "prn:P6366"
+        },
+        {
+            "@id": "p:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P6366",
+            "@type": "owl:Class",
+            "complementOf": "_:6f940be26025c3cdbbbed9534272bb72"
+        },
+        {
+            "@id": "_:6f940be26025c3cdbbbed9534272bb72",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P6366",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P646",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for a page in the Freebase database. Format: \"/m/0\" followed by 2 to 7 characters. For IDs starting with \"/g/\", use Google Knowledge Graph ID (P2671)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P646",
+            "claim": "p:P646",
+            "statementProperty": "ps:P646",
+            "statementValue": "psv:P646",
+            "qualifier": "pq:P646",
+            "qualifierValue": "pqv:P646",
+            "reference": "pr:P646",
+            "referenceValue": "prv:P646",
+            "novalue": "wdno:P646",
+            "directClaimNormalized": "wdtn:P646",
+            "statementValueNormalized": "psn:P646",
+            "qualifierValueNormalized": "pqn:P646",
+            "referenceValueNormalized": "prn:P646"
+        },
+        {
+            "@id": "p:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P646",
+            "@type": "owl:Class",
+            "complementOf": "_:38db277a4b10d59fd38a3fd995cbe570"
+        },
+        {
+            "@id": "_:38db277a4b10d59fd38a3fd995cbe570",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P646",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q618",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "boron"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "boron"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "boron"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical element with symbol B and atomic number 5"
+            }
+        },
+        {
+            "@id": "wd:P527",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "has part(s)"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "has part(s)"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "has part(s)"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670)."
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P527",
+            "claim": "p:P527",
+            "statementProperty": "ps:P527",
+            "statementValue": "psv:P527",
+            "qualifier": "pq:P527",
+            "qualifierValue": "pqv:P527",
+            "reference": "pr:P527",
+            "referenceValue": "prv:P527",
+            "novalue": "wdno:P527"
+        },
+        {
+            "@id": "p:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P527",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P527",
+            "@type": "owl:Class",
+            "complementOf": "_:c508fd90817ec28651ec025cc3117403"
+        },
+        {
+            "@id": "_:c508fd90817ec28651ec025cc3117403",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P527",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q871",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "arsenic"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "arsenic"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "arsenic"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical element with symbol As and atomic number 33"
+            }
+        },
+        {
+            "@id": "wd:Q11173",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "chemical compound"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "chemical compound"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "chemical compound"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "pure chemical substance consisting of two or more different chemical elements"
+            }
+        },
+        {
+            "@id": "wd:P279",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "this item is a subclass (subset) of that item; ALL instances of this item are instances of that item; different from P31 (instance of), e.g.: volcano is a subclass of mountain (and an instance of volcanic landform); Everest is an instance of mountain"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P279",
+            "claim": "p:P279",
+            "statementProperty": "ps:P279",
+            "statementValue": "psv:P279",
+            "qualifier": "pq:P279",
+            "qualifierValue": "pqv:P279",
+            "reference": "pr:P279",
+            "referenceValue": "prv:P279",
+            "novalue": "wdno:P279"
+        },
+        {
+            "@id": "p:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P279",
+            "@type": "owl:Class",
+            "complementOf": "_:55a0a46aa65f620d17fa7dc3671280d4"
+        },
+        {
+            "@id": "_:55a0a46aa65f620d17fa7dc3671280d4",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P279",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P8224",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "image of molecular model or crystal lattice model"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "image of molecular model or crystal lattice model"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "image of molecular model or crystal lattice model"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "graphical representation of a molecule or crystal lattice"
+            },
+            "propertyType": "http://wikiba.se/ontology#CommonsMedia",
+            "directClaim": "wdt:P8224",
+            "claim": "p:P8224",
+            "statementProperty": "ps:P8224",
+            "statementValue": "psv:P8224",
+            "qualifier": "pq:P8224",
+            "qualifierValue": "pqv:P8224",
+            "reference": "pr:P8224",
+            "referenceValue": "prv:P8224",
+            "novalue": "wdno:P8224"
+        },
+        {
+            "@id": "p:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P8224",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P8224",
+            "@type": "owl:Class",
+            "complementOf": "_:c7a6210d610189a34e6bf92aaa2f9c68"
+        },
+        {
+            "@id": "_:c7a6210d610189a34e6bf92aaa2f9c68",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P8224",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q328",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "English Wikipedia"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "English Wikipedia"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "English Wikipedia"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "English-language edition of Wikipedia"
+            }
+        },
+        {
+            "@id": "wd:P143",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "imported from Wikimedia project"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "imported from Wikimedia project"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "imported from Wikimedia project"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "source of this claim's value; used in references section by bots or humans importing data from Wikimedia projects"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P143",
+            "claim": "p:P143",
+            "statementProperty": "ps:P143",
+            "statementValue": "psv:P143",
+            "qualifier": "pq:P143",
+            "qualifierValue": "pqv:P143",
+            "reference": "pr:P143",
+            "referenceValue": "prv:P143",
+            "novalue": "wdno:P143"
+        },
+        {
+            "@id": "p:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P143",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P143",
+            "@type": "owl:Class",
+            "complementOf": "_:66a2156e9cbfe8d655274b862fca1b59"
+        },
+        {
+            "@id": "_:66a2156e9cbfe8d655274b862fca1b59",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P143",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q48183",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "German Wikipedia"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "German Wikipedia"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "German Wikipedia"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "German-language edition of Wikipedia"
+            }
+        },
+        {
+            "@id": "wd:Q4394145",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "lattice model"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "lattice model"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "lattice model"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "a physical model that is defined on a lattice, as opposed to the continuum of space or spacetime"
+            }
+        },
+        {
+            "@id": "wd:P180",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P180",
+            "claim": "p:P180",
+            "statementProperty": "ps:P180",
+            "statementValue": "psv:P180",
+            "qualifier": "pq:P180",
+            "qualifierValue": "pqv:P180",
+            "reference": "pr:P180",
+            "referenceValue": "prv:P180",
+            "novalue": "wdno:P180"
+        },
+        {
+            "@id": "p:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P180",
+            "@type": "owl:Class",
+            "complementOf": "_:20c681d1555b7d642c63c655f8ceb64a"
+        },
+        {
+            "@id": "_:20c681d1555b7d642c63c655f8ceb64a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P180",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wdref:fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "@type": "wikibase:Reference",
+            "P143": "wd:Q328"
+        },
+        {
+            "@id": "wdref:9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "@type": "wikibase:Reference",
+            "P143": "wd:Q48183"
+        }
+    ],
+    "@context": {
+        "data": "https://www.wikidata.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "wd": "http://www.wikidata.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "statements": {
+            "@id": "wikibase:statements"
+        },
+        "sitelinks": {
+            "@id": "wikibase:sitelinks"
+        },
+        "identifiers": {
+            "@id": "wikibase:identifiers"
+        },
+        "inLanguage": {
+            "@id": "schema:inLanguage"
+        },
+        "isPartOf": {
+            "@id": "schema:isPartOf",
+            "@type": "@id"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "wikiGroup": {
+            "@id": "wikibase:wikiGroup"
+        },
+        "wdt": "http://www.wikidata.org/prop/direct/",
+        "P31": {
+            "@id": "wdt:P31",
+            "@type": "@id"
+        },
+        "P231": {
+            "@id": "wdt:P231"
+        },
+        "P274": {
+            "@id": "wdt:P274"
+        },
+        "P6366": {
+            "@id": "wdt:P6366"
+        },
+        "wdtn": "http://www.wikidata.org/prop/direct-normalized/",
+        "wdtn:P6366": {
+            "@type": "@id"
+        },
+        "P646": {
+            "@id": "wdt:P646"
+        },
+        "P527": {
+            "@id": "wdt:P527",
+            "@type": "@id"
+        },
+        "P279": {
+            "@id": "wdt:P279",
+            "@type": "@id"
+        },
+        "P8224": {
+            "@id": "wdt:P8224",
+            "@type": "@id"
+        },
+        "p": "http://www.wikidata.org/prop/",
+        "wds": "http://www.wikidata.org/entity/statement/",
+        "p:P31": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "http://www.wikidata.org/prop/statement/",
+        "ps:P31": {
+            "@type": "@id"
+        },
+        "p:P231": {
+            "@type": "@id"
+        },
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+            "@id": "prov:wasDerivedFrom",
+            "@type": "@id"
+        },
+        "wdref": "http://www.wikidata.org/reference/",
+        "pr": "http://www.wikidata.org/prop/reference/",
+        "P143": {
+            "@id": "pr:P143",
+            "@type": "@id"
+        },
+        "p:P274": {
+            "@type": "@id"
+        },
+        "p:P6366": {
+            "@type": "@id"
+        },
+        "psn": "http://www.wikidata.org/prop/statement/value-normalized/",
+        "psn:P6366": {
+            "@type": "@id"
+        },
+        "p:P646": {
+            "@type": "@id"
+        },
+        "p:P527": {
+            "@type": "@id"
+        },
+        "ps:P527": {
+            "@type": "@id"
+        },
+        "p:P279": {
+            "@type": "@id"
+        },
+        "ps:P279": {
+            "@type": "@id"
+        },
+        "p:P8224": {
+            "@type": "@id"
+        },
+        "ps:P8224": {
+            "@type": "@id"
+        },
+        "pq": "http://www.wikidata.org/prop/qualifier/",
+        "P180": {
+            "@id": "pq:P180",
+            "@type": "@id"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "altLabel": {
+            "@id": "skos:altLabel"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "psv": "http://www.wikidata.org/prop/statement/value/",
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "http://www.wikidata.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "http://www.wikidata.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "http://www.wikidata.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        },
+        "directClaimNormalized": {
+            "@id": "wikibase:directClaimNormalized",
+            "@type": "@id"
+        },
+        "statementValueNormalized": {
+            "@id": "wikibase:statementValueNormalized",
+            "@type": "@id"
+        },
+        "qualifierValueNormalized": {
+            "@id": "wikibase:qualifierValueNormalized",
+            "@type": "@id"
+        },
+        "pqn": "http://www.wikidata.org/prop/qualifier/value-normalized/",
+        "referenceValueNormalized": {
+            "@id": "wikibase:referenceValueNormalized",
+            "@type": "@id"
+        },
+        "prn": "http://www.wikidata.org/prop/reference/value-normalized/"
+    }
+}

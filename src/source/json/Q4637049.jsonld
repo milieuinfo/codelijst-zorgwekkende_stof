@@ -1,0 +1,5314 @@
+{
+    "@graph": [
+        {
+            "@id": "data:Q4637049",
+            "@type": "schema:Dataset",
+            "about": "wd:Q4637049",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 2253730944,
+            "dateModified": "2024-09-27T20:14:18Z",
+            "statements": 34,
+            "sitelinks": 10,
+            "identifiers": 24
+        },
+        {
+            "@id": "wd:Q4637049",
+            "@type": "wikibase:Item"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/4,4%27-Dichlorodiphenyl_sulfone",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "en",
+            "isPartOf": "https://en.wikipedia.org/",
+            "name": {
+                "@language": "en",
+                "@value": "4,4'-Dichlorodiphenyl sulfone"
+            }
+        },
+        {
+            "@id": "https://en.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://fa.wikipedia.org/wiki/%DB%B4%D9%AC%DB%B4%27-%D8%AF%DB%8C%E2%80%8C%DA%A9%D9%84%D8%B1%D9%88%D8%AF%DB%8C%E2%80%8C%D9%81%D9%86%DB%8C%D9%84_%D8%B3%D9%88%D9%84%D9%81%D9%88%D9%86",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "fa",
+            "isPartOf": "https://fa.wikipedia.org/",
+            "name": {
+                "@language": "fa",
+                "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u200c\u06a9\u0644\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+            }
+        },
+        {
+            "@id": "https://fa.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://sr.wikipedia.org/wiki/4,4%27-Dihlorodifenil_sulfon",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "sr",
+            "isPartOf": "https://sr.wikipedia.org/",
+            "name": {
+                "@language": "sr",
+                "@value": "4,4'-Dihlorodifenil sulfon"
+            }
+        },
+        {
+            "@id": "https://sr.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://azb.wikipedia.org/wiki/%DB%B4%D9%AC%DB%B4%27-%D8%AF%DB%8C%DA%A9%D9%88%D9%84%D9%88%D8%B1%D9%88%D8%AF%DB%8C%E2%80%8C%D9%81%D9%86%DB%8C%D9%84_%D8%B3%D9%88%D9%84%D9%81%D9%88%D9%86",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "azb",
+            "isPartOf": "https://azb.wikipedia.org/",
+            "name": {
+                "@language": "azb",
+                "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u06a9\u0648\u0644\u0648\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+            }
+        },
+        {
+            "@id": "https://azb.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://sh.wikipedia.org/wiki/4,4%27-Dihlorodifenil_sulfon",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "sh",
+            "isPartOf": "https://sh.wikipedia.org/",
+            "name": {
+                "@language": "sh",
+                "@value": "4,4'-Dihlorodifenil sulfon"
+            }
+        },
+        {
+            "@id": "https://sh.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://de.wikipedia.org/wiki/Bis(4-chlorphenyl)sulfon",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "de",
+            "isPartOf": "https://de.wikipedia.org/",
+            "name": {
+                "@language": "de",
+                "@value": "Bis(4-chlorphenyl)sulfon"
+            }
+        },
+        {
+            "@id": "https://de.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://zh.wikipedia.org/wiki/4,4%27-%E4%BA%8C%E6%B0%AF%E4%BA%8C%E8%8B%AF%E5%9F%BA%E7%A0%9C",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "zh",
+            "isPartOf": "https://zh.wikipedia.org/",
+            "name": {
+                "@language": "zh",
+                "@value": "4,4'-\u4e8c\u6c2f\u4e8c\u82ef\u57fa\u781c"
+            }
+        },
+        {
+            "@id": "https://zh.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://commons.wikimedia.org/wiki/Category:4,4%27-Dichlorodiphenyl_sulfone",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "en",
+            "isPartOf": "https://commons.wikimedia.org/",
+            "name": {
+                "@language": "en",
+                "@value": "Category:4,4'-Dichlorodiphenyl sulfone"
+            }
+        },
+        {
+            "@id": "https://commons.wikimedia.org/",
+            "wikiGroup": "commons"
+        },
+        {
+            "@id": "https://eu.wikipedia.org/wiki/4,4%27-diklorodifenil_sulfona",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "eu",
+            "isPartOf": "https://eu.wikipedia.org/",
+            "name": {
+                "@language": "eu",
+                "@value": "4,4'-diklorodifenil sulfona"
+            }
+        },
+        {
+            "@id": "https://eu.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "https://ta.wikipedia.org/wiki/4,4%E2%80%B2-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%81%E0%AE%B3%E0%AF%8B%E0%AE%B0%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%80%E0%AE%A9%E0%AF%88%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%B2%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A9%E0%AF%8D",
+            "@type": "schema:Article",
+            "about": "wd:Q4637049",
+            "inLanguage": "ta",
+            "isPartOf": "https://ta.wikipedia.org/",
+            "name": {
+                "@language": "ta",
+                "@value": "4,4\u2032-\u0b87\u0bb0\u0bc1\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcb\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bc0\u0ba9\u0bc8\u0bb2\u0bcd \u0b9a\u0bb2\u0bcd\u0baa\u0bcb\u0ba9\u0bcd"
+            }
+        },
+        {
+            "@id": "https://ta.wikipedia.org/",
+            "wikiGroup": "wikipedia"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "P31": "wd:Q113145171",
+            "P231": "80-07-9",
+            "P274": "C\u2081\u2082H\u2088Cl\u2082O\u2082S",
+            "P661": "6373",
+            "wdtn:P661": "http://rdf.chemspider.com/6373",
+            "P652": "5U49794253",
+            "P679": "492426",
+            "P117": "http://commons.wikimedia.org/wiki/Special:FilePath/4%2C4%27-Dichlorodiphenyl%20sulfone.svg",
+            "P2566": "100.001.135",
+            "P234": "InChI=1S/C12H8Cl2O2S/c13-9-1-5-11(6-2-9)17(15,16)12-7-3-10(14)4-8-12/h1-8H",
+            "P235": "GPAPPPVRLPGFEQ-UHFFFAOYSA-N",
+            "P233": "C1=CC(=CC=C1S(=O)(=O)C2=CC=C(C=C2)Cl)Cl",
+            "P662": "6625",
+            "wdtn:P662": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID6625",
+            "P232": "201-247-9",
+            "P2067": "+285.962",
+            "P592": "CHEMBL1334784",
+            "wdtn:P592": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1334784",
+            "P3117": "DTXSID9024986",
+            "P2101": "+149.0",
+            "P2840": [
+                "7207",
+                "23899",
+                "38759",
+                "50730"
+            ],
+            "P6366": "2781324086",
+            "wdtn:P6366": "https://makg.org/entity/2781324086",
+            "P8494": "DTXCID004986",
+            "P646": "/m/03qjrfy",
+            "P2062": "5233",
+            "P373": "4,4'-Dichlorodiphenyl sulfone",
+            "P279": [
+                "wd:Q411193",
+                "wd:Q426809",
+                "wd:Q57842052"
+            ],
+            "P11931": "20154",
+            "P11089": "695722",
+            "P2057": "HMDB0246600",
+            "P2877": "SCHEMBL22742",
+            "P9405": "10023954",
+            "p:P31": "wds:Q4637049-F70A3917-02FA-4CDD-82A7-998F5406B8A9"
+        },
+        {
+            "@id": "wds:Q4637049-F70A3917-02FA-4CDD-82A7-998F5406B8A9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P31": "wd:Q113145171"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P231": "wds:Q4637049-52156ABF-4EDE-448D-A7BE-9BD49CB37796"
+        },
+        {
+            "@id": "wds:Q4637049-52156ABF-4EDE-448D-A7BE-9BD49CB37796",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P231": "80-07-9",
+            "wasDerivedFrom": [
+                "wdref:79a9729da731d1684aa352297d24b0aa68758a05",
+                "wdref:75945bac85aa540db6cd1877526a20eaeceef3ab"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P274": "wds:Q4637049-0DC9CCF8-ADDC-4A9E-B93A-7D5DD5EBC0D4"
+        },
+        {
+            "@id": "wds:Q4637049-0DC9CCF8-ADDC-4A9E-B93A-7D5DD5EBC0D4",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P274": "C\u2081\u2082H\u2088Cl\u2082O\u2082S",
+            "wasDerivedFrom": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P661": "wds:Q4637049-2C684B5F-F55F-43D0-8ED3-8A5E395B3957"
+        },
+        {
+            "@id": "wds:Q4637049-2C684B5F-F55F-43D0-8ED3-8A5E395B3957",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P661": "6373",
+            "psn:P661": "http://rdf.chemspider.com/6373",
+            "wasDerivedFrom": "wdref:c2c2e40f04bf58c6515050c6718d7210be1887ef"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P652": "wds:Q4637049-E11B28BC-2A63-407A-B39E-CA335914011E"
+        },
+        {
+            "@id": "wds:Q4637049-E11B28BC-2A63-407A-B39E-CA335914011E",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P652": "5U49794253",
+            "wasDerivedFrom": [
+                "wdref:79a9729da731d1684aa352297d24b0aa68758a05",
+                "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P679": "wds:Q4637049-2C7775FD-8563-4CAB-BA40-49D26AA0CB13"
+        },
+        {
+            "@id": "wds:Q4637049-2C7775FD-8563-4CAB-BA40-49D26AA0CB13",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P679": "492426"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P117": "wds:Q4637049-2844e070-4471-6688-8f00-ca4e43c0817d"
+        },
+        {
+            "@id": "wds:Q4637049-2844e070-4471-6688-8f00-ca4e43c0817d",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P117": "http://commons.wikimedia.org/wiki/Special:FilePath/4%2C4%27-Dichlorodiphenyl%20sulfone.svg"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2566": "wds:Q4637049-13572468-2468-1357-eca9-bdf024681357"
+        },
+        {
+            "@id": "wds:Q4637049-13572468-2468-1357-eca9-bdf024681357",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2566": "100.001.135",
+            "wasDerivedFrom": "wdref:2d00db337527ff246418d43cd72facb5b108cade"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P234": "wds:Q4637049-E7982B05-5DD6-4BFD-B8A9-2C221088C662"
+        },
+        {
+            "@id": "wds:Q4637049-E7982B05-5DD6-4BFD-B8A9-2C221088C662",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P234": "InChI=1S/C12H8Cl2O2S/c13-9-1-5-11(6-2-9)17(15,16)12-7-3-10(14)4-8-12/h1-8H",
+            "wasDerivedFrom": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P235": "wds:Q4637049-497BF763-64A5-4C11-A1A5-D0A0ECCA076F"
+        },
+        {
+            "@id": "wds:Q4637049-497BF763-64A5-4C11-A1A5-D0A0ECCA076F",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P235": "GPAPPPVRLPGFEQ-UHFFFAOYSA-N",
+            "wasDerivedFrom": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P233": "wds:Q4637049-E1C580D6-9908-44A0-8091-C603A968F12B"
+        },
+        {
+            "@id": "wds:Q4637049-E1C580D6-9908-44A0-8091-C603A968F12B",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P233": "C1=CC(=CC=C1S(=O)(=O)C2=CC=C(C=C2)Cl)Cl",
+            "wasDerivedFrom": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P662": "wds:Q4637049-9A6A1A93-08E9-462E-92D4-E4D2AC4FAEA9"
+        },
+        {
+            "@id": "wds:Q4637049-9A6A1A93-08E9-462E-92D4-E4D2AC4FAEA9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P662": "6625",
+            "psn:P662": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID6625",
+            "wasDerivedFrom": [
+                "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd",
+                "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P232": "wds:Q4637049-CE1A7BF7-F734-4E3A-910D-AF7D68142F2E"
+        },
+        {
+            "@id": "wds:Q4637049-CE1A7BF7-F734-4E3A-910D-AF7D68142F2E",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P232": "201-247-9",
+            "wasDerivedFrom": "wdref:79a9729da731d1684aa352297d24b0aa68758a05"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2067": "wds:Q4637049-EA4C6B2C-627D-46FC-AB8F-5FD66DD65E66"
+        },
+        {
+            "@id": "wds:Q4637049-EA4C6B2C-627D-46FC-AB8F-5FD66DD65E66",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2067": "+285.962",
+            "psv:P2067": "wdv:713534bf5f9f0d4b1682e73d20a159ca",
+            "psn:P2067": "wdv:5dd913c5169cd9c01689cb7a655f31d5",
+            "wasDerivedFrom": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P592": "wds:Q4637049-2D9DB06C-D692-457E-9D1F-1BEE0721DF58"
+        },
+        {
+            "@id": "wds:Q4637049-2D9DB06C-D692-457E-9D1F-1BEE0721DF58",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P592": "CHEMBL1334784",
+            "psn:P592": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1334784",
+            "wasDerivedFrom": "wdref:8b47ac9351a1c7787a0ed248f266d789a5a0d0a3"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P3117": "wds:Q4637049-CBB8F3CF-B484-4F98-862E-63C693179899"
+        },
+        {
+            "@id": "wds:Q4637049-CBB8F3CF-B484-4F98-862E-63C693179899",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P3117": "DTXSID9024986",
+            "wasDerivedFrom": [
+                "wdref:b9fca783197d76da3ba023673fc10074b598f1f3",
+                "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2101": "wds:Q4637049-79BFF75F-0D07-4D2A-89AE-E5A7D9CC42D9"
+        },
+        {
+            "@id": "wds:Q4637049-79BFF75F-0D07-4D2A-89AE-E5A7D9CC42D9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2101": "+149.0",
+            "psv:P2101": "wdv:03ec47cf117b52442678a582f8cf6088",
+            "wasDerivedFrom": "wdref:61657b2359e33925b7611d86717f94a815e6afeb"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2840": "wds:Q4637049-D2E02B2C-A130-43AC-8737-C0D4080C6BEB"
+        },
+        {
+            "@id": "wds:Q4637049-D2E02B2C-A130-43AC-8737-C0D4080C6BEB",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2840": "7207"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2840": "wds:Q4637049-29C5D3F6-FB6C-4B3A-8E3A-6F399F6C8CAF"
+        },
+        {
+            "@id": "wds:Q4637049-29C5D3F6-FB6C-4B3A-8E3A-6F399F6C8CAF",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2840": "23899"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2840": "wds:Q4637049-F15F8DF8-48FB-4BB2-AA36-7F9C5C239A01"
+        },
+        {
+            "@id": "wds:Q4637049-F15F8DF8-48FB-4BB2-AA36-7F9C5C239A01",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2840": "38759"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2840": "wds:Q4637049-1271953D-A09F-47BE-BFE3-DB8DA3E585E9"
+        },
+        {
+            "@id": "wds:Q4637049-1271953D-A09F-47BE-BFE3-DB8DA3E585E9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2840": "50730"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P6366": "wds:Q4637049-802B3026-FDBF-4661-9779-798DC3B07019"
+        },
+        {
+            "@id": "wds:Q4637049-802B3026-FDBF-4661-9779-798DC3B07019",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P6366": "2781324086",
+            "psn:P6366": "https://makg.org/entity/2781324086"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P8494": "wds:Q4637049-9C8D06F9-EB5F-4AF4-9893-E0E6D66B10BD"
+        },
+        {
+            "@id": "wds:Q4637049-9C8D06F9-EB5F-4AF4-9893-E0E6D66B10BD",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P8494": "DTXCID004986"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P646": "wds:Q4637049-97B62A1D-BCCC-463F-8CA3-C88003A84EDB"
+        },
+        {
+            "@id": "wds:Q4637049-97B62A1D-BCCC-463F-8CA3-C88003A84EDB",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P646": "/m/03qjrfy"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2062": "wds:Q4637049-FF7C35A3-FA3B-47BE-BA5C-B072C9222B14"
+        },
+        {
+            "@id": "wds:Q4637049-FF7C35A3-FA3B-47BE-BA5C-B072C9222B14",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2062": "5233",
+            "wasDerivedFrom": "wdref:cb6606ca1ab3f12981031f347405c4d5ddec2572"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P373": "wds:Q4637049-e5d83e22-ba4b-4a32-bcd0-9671f40e60ab"
+        },
+        {
+            "@id": "wds:Q4637049-e5d83e22-ba4b-4a32-bcd0-9671f40e60ab",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P373": "4,4'-Dichlorodiphenyl sulfone"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P279": "wds:Q4637049-5A882A1C-1F06-4ED5-AEFD-2D3634342C09"
+        },
+        {
+            "@id": "wds:Q4637049-5A882A1C-1F06-4ED5-AEFD-2D3634342C09",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P279": "wd:Q411193"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P279": "wds:Q4637049-4a40cda8-4e2d-f8b5-f84d-a5f8684cf8f9"
+        },
+        {
+            "@id": "wds:Q4637049-4a40cda8-4e2d-f8b5-f84d-a5f8684cf8f9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P279": "wd:Q426809"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P279": "wds:Q4637049-a63c453d-42a1-cc99-39ee-5052f553f415"
+        },
+        {
+            "@id": "wds:Q4637049-a63c453d-42a1-cc99-39ee-5052f553f415",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P279": "wd:Q57842052"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P11931": "wds:Q4637049-4b9770a5-91a9-4922-abcd-8df68726d5f6"
+        },
+        {
+            "@id": "wds:Q4637049-4b9770a5-91a9-4922-abcd-8df68726d5f6",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11931": "20154"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P11089": "wds:Q4637049-D9E44988-54BD-4E43-AC2C-E7F8803983A9"
+        },
+        {
+            "@id": "wds:Q4637049-D9E44988-54BD-4E43-AC2C-E7F8803983A9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11089": "695722",
+            "wasDerivedFrom": "wdref:cc8ec1228e82bf94b50726dc9469263af9f050ad"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2057": "wds:Q4637049-10AC0E7C-5B90-45A8-865C-9B31695985E2"
+        },
+        {
+            "@id": "wds:Q4637049-10AC0E7C-5B90-45A8-865C-9B31695985E2",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2057": "HMDB0246600",
+            "wasDerivedFrom": [
+                "wdref:aa274789f1118d04384e5e8f92df8bfcc1c4bf52",
+                "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P2877": "wds:Q4637049-7E1F7B93-0C1B-48D4-9915-D0C4EA51D9B1"
+        },
+        {
+            "@id": "wds:Q4637049-7E1F7B93-0C1B-48D4-9915-D0C4EA51D9B1",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2877": "SCHEMBL22742",
+            "wasDerivedFrom": [
+                "wdref:aa274789f1118d04384e5e8f92df8bfcc1c4bf52",
+                "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+            ]
+        },
+        {
+            "@id": "wd:Q4637049",
+            "p:P9405": "wds:Q4637049-35BB611F-4F10-4955-99FF-08B5EED3C1A9"
+        },
+        {
+            "@id": "wds:Q4637049-35BB611F-4F10-4955-99FF-08B5EED3C1A9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P9405": "10023954",
+            "wasDerivedFrom": "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed"
+        },
+        {
+            "@id": "wd:Q4637049",
+            "label": [
+                {
+                    "@language": "fa",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u200c\u06a9\u0644\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "en",
+                    "@value": "4,4'-dichlorodiphenyl sulfone"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Bis(4-chlorphenyl)sulfon"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u06a9\u0648\u0644\u0648\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "4,4'-\u4e8c\u6c2f\u4e8c\u82ef\u57fa\u781c"
+                },
+                {
+                    "@language": "eu",
+                    "@value": "4,4'-diklorodifenil sulfona"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "4,4\u2032-\u0b87\u0bb0\u0bc1\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcb\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bc0\u0ba9\u0bc8\u0bb2\u0bcd \u0b9a\u0bb2\u0bcd\u0baa\u0bcb\u0ba9\u0bcd"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "1-chloro-4-(4-chlorofenylo)sulfonylobenzen"
+                }
+            ],
+            "prefLabel": [
+                {
+                    "@language": "fa",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u200c\u06a9\u0644\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "en",
+                    "@value": "4,4'-dichlorodiphenyl sulfone"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Bis(4-chlorphenyl)sulfon"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u06a9\u0648\u0644\u0648\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "4,4'-\u4e8c\u6c2f\u4e8c\u82ef\u57fa\u781c"
+                },
+                {
+                    "@language": "eu",
+                    "@value": "4,4'-diklorodifenil sulfona"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "4,4\u2032-\u0b87\u0bb0\u0bc1\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcb\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bc0\u0ba9\u0bc8\u0bb2\u0bcd \u0b9a\u0bb2\u0bcd\u0baa\u0bcb\u0ba9\u0bcd"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "1-chloro-4-(4-chlorofenylo)sulfonylobenzen"
+                }
+            ],
+            "name": [
+                {
+                    "@language": "fa",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u200c\u06a9\u0644\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "en",
+                    "@value": "4,4'-dichlorodiphenyl sulfone"
+                },
+                {
+                    "@language": "sr",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "sh",
+                    "@value": "4,4'-Dihlorodifenil sulfon"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Bis(4-chlorphenyl)sulfon"
+                },
+                {
+                    "@language": "azb",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc\u06a9\u0648\u0644\u0648\u0631\u0648\u062f\u06cc\u200c\u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "4,4'-\u4e8c\u6c2f\u4e8c\u82ef\u57fa\u781c"
+                },
+                {
+                    "@language": "eu",
+                    "@value": "4,4'-diklorodifenil sulfona"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "4,4\u2032-\u0b87\u0bb0\u0bc1\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcb\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bc0\u0ba9\u0bc8\u0bb2\u0bcd \u0b9a\u0bb2\u0bcd\u0baa\u0bcb\u0ba9\u0bcd"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "1-chloro-4-(4-chlorofenylo)sulfonylobenzen"
+                }
+            ],
+            "description": [
+                {
+                    "@language": "en",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "de",
+                    "@value": "chemische Verbindung"
+                },
+                {
+                    "@language": "hy",
+                    "@value": "\u0584\u056b\u0574\u056b\u0561\u056f\u0561\u0576 \u0574\u056b\u0561\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+                },
+                {
+                    "@language": "he",
+                    "@value": "\u05ea\u05e8\u05db\u05d5\u05d1\u05ea"
+                },
+                {
+                    "@language": "es",
+                    "@value": "compuesto qu\u00edmico"
+                },
+                {
+                    "@language": "pt",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "it",
+                    "@value": "composto chimico"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "compos\u00e9 chimique"
+                },
+                {
+                    "@language": "ca",
+                    "@value": "compost qu\u00edmic"
+                },
+                {
+                    "@language": "eu",
+                    "@value": "konposatu kimiko"
+                },
+                {
+                    "@language": "eo",
+                    "@value": "kemia kombina\u0135o"
+                },
+                {
+                    "@language": "ast",
+                    "@value": "compuestu qu\u00edmicu"
+                },
+                {
+                    "@language": "nb",
+                    "@value": "kjemisk forbindelse"
+                },
+                {
+                    "@language": "gl",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "pt-br",
+                    "@value": "composto qu\u00edmico"
+                },
+                {
+                    "@language": "nn",
+                    "@value": "kjemisk sambinding"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "chemische verbinding"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "zwi\u0105zek chemiczny"
+                },
+                {
+                    "@language": "oc",
+                    "@value": "component quimic"
+                },
+                {
+                    "@language": "ro",
+                    "@value": "compus chimic"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0645\u0631\u0643\u0628 \u0643\u064a\u0645\u064a\u0627\u0626\u064a"
+                },
+                {
+                    "@language": "fi",
+                    "@value": "kemiallinen yhdiste"
+                },
+                {
+                    "@language": "bn",
+                    "@value": "\u09b0\u09be\u09b8\u09be\u09af\u09bc\u09a8\u09bf\u0995 \u09af\u09cc\u0997"
+                },
+                {
+                    "@language": "an",
+                    "@value": "compuesto quimico"
+                },
+                {
+                    "@language": "ml",
+                    "@value": "\u0d30\u0d3e\u0d38\u0d38\u0d02\u200c\u0d2f\u0d41\u0d15\u0d4d\u0d24\u0d02"
+                },
+                {
+                    "@language": "af",
+                    "@value": "chemiese verbinding"
+                },
+                {
+                    "@language": "cs",
+                    "@value": "chemick\u00e1 slou\u010denina"
+                },
+                {
+                    "@language": "da",
+                    "@value": "kemisk forbindelse"
+                },
+                {
+                    "@language": "de-ch",
+                    "@value": "chemische Verbindung"
+                },
+                {
+                    "@language": "en-ca",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "en-gb",
+                    "@value": "chemical compound"
+                },
+                {
+                    "@language": "id",
+                    "@value": "senyawa kimia"
+                },
+                {
+                    "@language": "la",
+                    "@value": "compositum chemicum"
+                },
+                {
+                    "@language": "lb",
+                    "@value": "cheemesch Verbindung"
+                },
+                {
+                    "@language": "lv",
+                    "@value": "\u0137\u012bmisks savienojums"
+                },
+                {
+                    "@language": "sk",
+                    "@value": "chemick\u00e1 zl\u00fa\u010denina"
+                },
+                {
+                    "@language": "sq",
+                    "@value": "komponim kimik"
+                },
+                {
+                    "@language": "uk",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430 \u0441\u043f\u043e\u043b\u0443\u043a\u0430"
+                },
+                {
+                    "@language": "ru",
+                    "@value": "\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-mo",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-tw",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "mk",
+                    "@value": "\u0445\u0435\u043c\u0438\u0441\u043a\u043e \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-cn",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-sg",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "cy",
+                    "@value": "cyfansoddyn cemegol"
+                },
+                {
+                    "@language": "bg",
+                    "@value": "\u0445\u0438\u043c\u0438\u0447\u043d\u043e \u0441\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+                },
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "be-tarask",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430\u0435 \u0437\u043b\u0443\u0447\u044d\u043d\u044c\u043d\u0435"
+                },
+                {
+                    "@language": "io",
+                    "@value": "kemiala kompozajo"
+                },
+                {
+                    "@language": "zh-hk",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "et",
+                    "@value": "keemiline \u00fchend"
+                },
+                {
+                    "@language": "zh",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "scn",
+                    "@value": "cumpostu ch\u00ecmicu"
+                },
+                {
+                    "@language": "be",
+                    "@value": "\u0445\u0456\u043c\u0456\u0447\u043d\u0430\u0435 \u0437\u043b\u0443\u0447\u044d\u043d\u043d\u0435"
+                },
+                {
+                    "@language": "el",
+                    "@value": "\u03c7\u03b7\u03bc\u03b9\u03ba\u03ae \u03ad\u03bd\u03c9\u03c3\u03b7"
+                },
+                {
+                    "@language": "ia",
+                    "@value": "composito chimic"
+                },
+                {
+                    "@language": "yue",
+                    "@value": "\u5316\u5408\u7269"
+                },
+                {
+                    "@language": "fy",
+                    "@value": "gemyske ferbining"
+                },
+                {
+                    "@language": "vec",
+                    "@value": "conposto ch\u00ecmego"
+                },
+                {
+                    "@language": "br",
+                    "@value": "kediad kimiek"
+                },
+                {
+                    "@language": "gcr",
+                    "@value": "Kompoz\u00e9 chimik"
+                },
+                {
+                    "@language": "ks",
+                    "@value": "\u06a9\u06cc\u0656\u0645\u06cc\u0672\u06cc\u06cc \u0645\u064f\u0631\u064e\u06a9\u064e\u0628"
+                },
+                {
+                    "@language": "ta",
+                    "@value": "\u0bb5\u0bc7\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0bae\u0bae\u0bcd"
+                }
+            ],
+            "altLabel": [
+                {
+                    "@language": "fa",
+                    "@value": "\u06f4\u066c\u06f4'-\u062f\u06cc \u06a9\u0644\u0631\u0648\u062f\u06cc \u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "4\u066c4'-\u062f\u06cc \u06a9\u0644\u0631\u0648\u062f\u06cc \u0641\u0646\u06cc\u0644 \u0633\u0648\u0644\u0641\u0648\u0646"
+                },
+                {
+                    "@language": "de",
+                    "@value": "4,4'-Dichlordiphenylsulfon"
+                },
+                {
+                    "@language": "en",
+                    "@value": "DCDPS"
+                }
+            ]
+        },
+        {
+            "@id": "wd:Q113145171",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "type of chemical entity"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Wikidata metaclass that covers physical entities of interest in chemistry including molecular entities and pure chemical substances"
+            }
+        },
+        {
+            "@id": "wd:P31",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "type to which this subject corresponds/belongs. Different from P279 (subclass of); for example: K2 is an instance of mountain; volcanoes form a subclass of mountains, and the volcano is a type (instance) of volcanic landform"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P31",
+            "claim": "p:P31",
+            "statementProperty": "ps:P31",
+            "statementValue": "psv:P31",
+            "qualifier": "pq:P31",
+            "qualifierValue": "pqv:P31",
+            "reference": "pr:P31",
+            "referenceValue": "prv:P31",
+            "novalue": "wdno:P31"
+        },
+        {
+            "@id": "p:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P31",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P31",
+            "@type": "owl:Class",
+            "complementOf": "_:0b8bd71b926a65ca3fa72e5d9103e4d6"
+        },
+        {
+            "@id": "_:0b8bd71b926a65ca3fa72e5d9103e4d6",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P31",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P231",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "CAS Registry Number"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for a chemical substance or compound per Chemical Abstract Service's Registry database"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P231",
+            "claim": "p:P231",
+            "statementProperty": "ps:P231",
+            "statementValue": "psv:P231",
+            "qualifier": "pq:P231",
+            "qualifierValue": "pqv:P231",
+            "reference": "pr:P231",
+            "referenceValue": "prv:P231",
+            "novalue": "wdno:P231",
+            "directClaimNormalized": "wdtn:P231",
+            "statementValueNormalized": "psn:P231",
+            "qualifierValueNormalized": "pqn:P231",
+            "referenceValueNormalized": "prn:P231"
+        },
+        {
+            "@id": "p:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P231",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P231",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P231",
+            "@type": "owl:Class",
+            "complementOf": "_:69ccbb1d728b53f38cea390d5f8e39c1"
+        },
+        {
+            "@id": "_:69ccbb1d728b53f38cea390d5f8e39c1",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P231",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P274",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "chemical formula"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "description of chemical compound giving element symbols and counts"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P274",
+            "claim": "p:P274",
+            "statementProperty": "ps:P274",
+            "statementValue": "psv:P274",
+            "qualifier": "pq:P274",
+            "qualifierValue": "pqv:P274",
+            "reference": "pr:P274",
+            "referenceValue": "prv:P274",
+            "novalue": "wdno:P274"
+        },
+        {
+            "@id": "p:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P274",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P274",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P274",
+            "@type": "owl:Class",
+            "complementOf": "_:933727dcd3ada0ef3e33b1b023b7731a"
+        },
+        {
+            "@id": "_:933727dcd3ada0ef3e33b1b023b7731a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P274",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P661",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "ChemSpider ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ChemSpider ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ChemSpider ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier in a free chemical database, owned by the Royal Society of Chemistry"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P661",
+            "claim": "p:P661",
+            "statementProperty": "ps:P661",
+            "statementValue": "psv:P661",
+            "qualifier": "pq:P661",
+            "qualifierValue": "pqv:P661",
+            "reference": "pr:P661",
+            "referenceValue": "prv:P661",
+            "novalue": "wdno:P661",
+            "directClaimNormalized": "wdtn:P661",
+            "statementValueNormalized": "psn:P661",
+            "qualifierValueNormalized": "pqn:P661",
+            "referenceValueNormalized": "prn:P661"
+        },
+        {
+            "@id": "p:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P661",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P661",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P661",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P661",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P661",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P661",
+            "@type": "owl:Class",
+            "complementOf": "_:3b91d10b808838d0a3e5032bda26213c"
+        },
+        {
+            "@id": "_:3b91d10b808838d0a3e5032bda26213c",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P661",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P652",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "UNII"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "UNII"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "UNII"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier issued by the FDA / Unique Ingredient Identifier"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P652",
+            "claim": "p:P652",
+            "statementProperty": "ps:P652",
+            "statementValue": "psv:P652",
+            "qualifier": "pq:P652",
+            "qualifierValue": "pqv:P652",
+            "reference": "pr:P652",
+            "referenceValue": "prv:P652",
+            "novalue": "wdno:P652",
+            "directClaimNormalized": "wdtn:P652",
+            "statementValueNormalized": "psn:P652",
+            "qualifierValueNormalized": "pqn:P652",
+            "referenceValueNormalized": "prn:P652"
+        },
+        {
+            "@id": "p:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P652",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P652",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P652",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P652",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P652",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P652",
+            "@type": "owl:Class",
+            "complementOf": "_:7c87e9c7a1c397e21dfebf04b4dd19e9"
+        },
+        {
+            "@id": "_:7c87e9c7a1c397e21dfebf04b4dd19e9",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P652",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P679",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "ZVG number"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ZVG number"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ZVG number"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier of GESTIS database of the Institute for Occupational Safety and Health"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P679",
+            "claim": "p:P679",
+            "statementProperty": "ps:P679",
+            "statementValue": "psv:P679",
+            "qualifier": "pq:P679",
+            "qualifierValue": "pqv:P679",
+            "reference": "pr:P679",
+            "referenceValue": "prv:P679",
+            "novalue": "wdno:P679",
+            "directClaimNormalized": "wdtn:P679",
+            "statementValueNormalized": "psn:P679",
+            "qualifierValueNormalized": "pqn:P679",
+            "referenceValueNormalized": "prn:P679"
+        },
+        {
+            "@id": "p:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P679",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P679",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P679",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P679",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P679",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P679",
+            "@type": "owl:Class",
+            "complementOf": "_:a6f0ff193b600ea162e28709738ee980"
+        },
+        {
+            "@id": "_:a6f0ff193b600ea162e28709738ee980",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P679",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P117",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "chemical structure"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "chemical structure"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "chemical structure"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "image of a representation of the structure for a chemical compound"
+            },
+            "propertyType": "http://wikiba.se/ontology#CommonsMedia",
+            "directClaim": "wdt:P117",
+            "claim": "p:P117",
+            "statementProperty": "ps:P117",
+            "statementValue": "psv:P117",
+            "qualifier": "pq:P117",
+            "qualifierValue": "pqv:P117",
+            "reference": "pr:P117",
+            "referenceValue": "prv:P117",
+            "novalue": "wdno:P117"
+        },
+        {
+            "@id": "p:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P117",
+            "@type": "owl:Class",
+            "complementOf": "_:2ef37c531717795f374f8e4009dbe62e"
+        },
+        {
+            "@id": "_:2ef37c531717795f374f8e4009dbe62e",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P117",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2566",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier of a chemical substance used by the European Chemicals Agency (ECHA)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P2566",
+            "claim": "p:P2566",
+            "statementProperty": "ps:P2566",
+            "statementValue": "psv:P2566",
+            "qualifier": "pq:P2566",
+            "qualifierValue": "pqv:P2566",
+            "reference": "pr:P2566",
+            "referenceValue": "prv:P2566",
+            "novalue": "wdno:P2566",
+            "directClaimNormalized": "wdtn:P2566",
+            "statementValueNormalized": "psn:P2566",
+            "qualifierValueNormalized": "pqn:P2566",
+            "referenceValueNormalized": "prn:P2566"
+        },
+        {
+            "@id": "p:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2566",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2566",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2566",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2566",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2566",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2566",
+            "@type": "owl:Class",
+            "complementOf": "_:f64436b73cb8cb0790f16f0fbbc9f42b"
+        },
+        {
+            "@id": "_:f64436b73cb8cb0790f16f0fbbc9f42b",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2566",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P234",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "InChI"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "InChI"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "InChI"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "International Chemical Identifier"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P234",
+            "claim": "p:P234",
+            "statementProperty": "ps:P234",
+            "statementValue": "psv:P234",
+            "qualifier": "pq:P234",
+            "qualifierValue": "pqv:P234",
+            "reference": "pr:P234",
+            "referenceValue": "prv:P234",
+            "novalue": "wdno:P234",
+            "directClaimNormalized": "wdtn:P234",
+            "statementValueNormalized": "psn:P234",
+            "qualifierValueNormalized": "pqn:P234",
+            "referenceValueNormalized": "prn:P234"
+        },
+        {
+            "@id": "p:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P234",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P234",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P234",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P234",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P234",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P234",
+            "@type": "owl:Class",
+            "complementOf": "_:b1a32098d38714b9a3c28f16f6e2cf00"
+        },
+        {
+            "@id": "_:b1a32098d38714b9a3c28f16f6e2cf00",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P234",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P235",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "InChIKey"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "InChIKey"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "InChIKey"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "a hashed version of the full standard InChI"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P235",
+            "claim": "p:P235",
+            "statementProperty": "ps:P235",
+            "statementValue": "psv:P235",
+            "qualifier": "pq:P235",
+            "qualifierValue": "pqv:P235",
+            "reference": "pr:P235",
+            "referenceValue": "prv:P235",
+            "novalue": "wdno:P235",
+            "directClaimNormalized": "wdtn:P235",
+            "statementValueNormalized": "psn:P235",
+            "qualifierValueNormalized": "pqn:P235",
+            "referenceValueNormalized": "prn:P235"
+        },
+        {
+            "@id": "p:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P235",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P235",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P235",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P235",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P235",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P235",
+            "@type": "owl:Class",
+            "complementOf": "_:f853f5fd09284f023e0e91a441aca571"
+        },
+        {
+            "@id": "_:f853f5fd09284f023e0e91a441aca571",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P235",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P233",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "canonical SMILES"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "canonical SMILES"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "canonical SMILES"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Simplified Molecular Input Line Entry Specification (canonical format)"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P233",
+            "claim": "p:P233",
+            "statementProperty": "ps:P233",
+            "statementValue": "psv:P233",
+            "qualifier": "pq:P233",
+            "qualifierValue": "pqv:P233",
+            "reference": "pr:P233",
+            "referenceValue": "prv:P233",
+            "novalue": "wdno:P233"
+        },
+        {
+            "@id": "p:P233",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P233",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P233",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P233",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P233",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P233",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P233",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P233",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P233",
+            "@type": "owl:Class",
+            "complementOf": "_:8d4facce069e56bd0340e39e10cc82f1"
+        },
+        {
+            "@id": "_:8d4facce069e56bd0340e39e10cc82f1",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P233",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P662",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "PubChem CID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "PubChem CID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "PubChem CID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier from\u00a0database of chemical molecules and their activities in biological assays (Compound ID number)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P662",
+            "claim": "p:P662",
+            "statementProperty": "ps:P662",
+            "statementValue": "psv:P662",
+            "qualifier": "pq:P662",
+            "qualifierValue": "pqv:P662",
+            "reference": "pr:P662",
+            "referenceValue": "prv:P662",
+            "novalue": "wdno:P662",
+            "directClaimNormalized": "wdtn:P662",
+            "statementValueNormalized": "psn:P662",
+            "qualifierValueNormalized": "pqn:P662",
+            "referenceValueNormalized": "prn:P662"
+        },
+        {
+            "@id": "p:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P662",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P662",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P662",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P662",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P662",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P662",
+            "@type": "owl:Class",
+            "complementOf": "_:1cebc5ee8cf15389355b01a92f3f4f9f"
+        },
+        {
+            "@id": "_:1cebc5ee8cf15389355b01a92f3f4f9f",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P662",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P232",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "EC number"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "EC number"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "EC number"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for a chemical compound per EINECS or ELINCS"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P232",
+            "claim": "p:P232",
+            "statementProperty": "ps:P232",
+            "statementValue": "psv:P232",
+            "qualifier": "pq:P232",
+            "qualifierValue": "pqv:P232",
+            "reference": "pr:P232",
+            "referenceValue": "prv:P232",
+            "novalue": "wdno:P232",
+            "directClaimNormalized": "wdtn:P232",
+            "statementValueNormalized": "psn:P232",
+            "qualifierValueNormalized": "pqn:P232",
+            "referenceValueNormalized": "prn:P232"
+        },
+        {
+            "@id": "p:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P232",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P232",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P232",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P232",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P232",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P232",
+            "@type": "owl:Class",
+            "complementOf": "_:167bec517153bde21dfd1d38551abd90"
+        },
+        {
+            "@id": "_:167bec517153bde21dfd1d38551abd90",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P232",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2067",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "mass"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "mass"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "mass"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "mass (in colloquial usage also known as weight) of the item"
+            },
+            "propertyType": "http://wikiba.se/ontology#Quantity",
+            "directClaim": "wdt:P2067",
+            "claim": "p:P2067",
+            "statementProperty": "ps:P2067",
+            "statementValue": "psv:P2067",
+            "qualifier": "pq:P2067",
+            "qualifierValue": "pqv:P2067",
+            "reference": "pr:P2067",
+            "referenceValue": "prv:P2067",
+            "novalue": "wdno:P2067",
+            "directClaimNormalized": "wdtn:P2067",
+            "statementValueNormalized": "psn:P2067",
+            "qualifierValueNormalized": "pqn:P2067",
+            "referenceValueNormalized": "prn:P2067"
+        },
+        {
+            "@id": "p:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2067",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2067",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2067",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2067",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2067",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2067",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P2067",
+            "@type": "owl:Class",
+            "complementOf": "_:3d3a130459ca63e754c24766df03efa4"
+        },
+        {
+            "@id": "_:3d3a130459ca63e754c24766df03efa4",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2067",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P592",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "ChEMBL ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ChEMBL ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ChEMBL ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier from a chemical database of bioactive molecules with drug-like properties"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P592",
+            "claim": "p:P592",
+            "statementProperty": "ps:P592",
+            "statementValue": "psv:P592",
+            "qualifier": "pq:P592",
+            "qualifierValue": "pqv:P592",
+            "reference": "pr:P592",
+            "referenceValue": "prv:P592",
+            "novalue": "wdno:P592",
+            "directClaimNormalized": "wdtn:P592",
+            "statementValueNormalized": "psn:P592",
+            "qualifierValueNormalized": "pqn:P592",
+            "referenceValueNormalized": "prn:P592"
+        },
+        {
+            "@id": "p:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P592",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P592",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P592",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P592",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P592",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P592",
+            "@type": "owl:Class",
+            "complementOf": "_:f1cf2065fe928fcf88a92d48bc4f7ea3"
+        },
+        {
+            "@id": "_:f1cf2065fe928fcf88a92d48bc4f7ea3",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P592",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P3117",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "DSSTox substance ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "DSSTox substance ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "DSSTox substance ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "DSSTox substance identifier (DTXSID) used in the Environmental Protection Agency CompTox Dashboard"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P3117",
+            "claim": "p:P3117",
+            "statementProperty": "ps:P3117",
+            "statementValue": "psv:P3117",
+            "qualifier": "pq:P3117",
+            "qualifierValue": "pqv:P3117",
+            "reference": "pr:P3117",
+            "referenceValue": "prv:P3117",
+            "novalue": "wdno:P3117",
+            "directClaimNormalized": "wdtn:P3117",
+            "statementValueNormalized": "psn:P3117",
+            "qualifierValueNormalized": "pqn:P3117",
+            "referenceValueNormalized": "prn:P3117"
+        },
+        {
+            "@id": "p:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P3117",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P3117",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P3117",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P3117",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P3117",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P3117",
+            "@type": "owl:Class",
+            "complementOf": "_:47faffafb731dd50cd42d32e98c69ec0"
+        },
+        {
+            "@id": "_:47faffafb731dd50cd42d32e98c69ec0",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P3117",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2101",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "melting point"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "melting point"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "melting point"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "temperature at which a solid changes its state from solid to liquid at atmospheric pressure"
+            },
+            "propertyType": "http://wikiba.se/ontology#Quantity",
+            "directClaim": "wdt:P2101",
+            "claim": "p:P2101",
+            "statementProperty": "ps:P2101",
+            "statementValue": "psv:P2101",
+            "qualifier": "pq:P2101",
+            "qualifierValue": "pqv:P2101",
+            "reference": "pr:P2101",
+            "referenceValue": "prv:P2101",
+            "novalue": "wdno:P2101",
+            "directClaimNormalized": "wdtn:P2101",
+            "statementValueNormalized": "psn:P2101",
+            "qualifierValueNormalized": "pqn:P2101",
+            "referenceValueNormalized": "prn:P2101"
+        },
+        {
+            "@id": "p:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2101",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2101",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2101",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2101",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2101",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2101",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P2101",
+            "@type": "owl:Class",
+            "complementOf": "_:ef3d3b5c6044b96a25d1124e0b87829e"
+        },
+        {
+            "@id": "_:ef3d3b5c6044b96a25d1124e0b87829e",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2101",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2840",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "NSC number"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "NSC number"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "NSC number"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P2840",
+            "claim": "p:P2840",
+            "statementProperty": "ps:P2840",
+            "statementValue": "psv:P2840",
+            "qualifier": "pq:P2840",
+            "qualifierValue": "pqv:P2840",
+            "reference": "pr:P2840",
+            "referenceValue": "prv:P2840",
+            "novalue": "wdno:P2840",
+            "directClaimNormalized": "wdtn:P2840",
+            "statementValueNormalized": "psn:P2840",
+            "qualifierValueNormalized": "pqn:P2840",
+            "referenceValueNormalized": "prn:P2840"
+        },
+        {
+            "@id": "p:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2840",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2840",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2840",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2840",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2840",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2840",
+            "@type": "owl:Class",
+            "complementOf": "_:4af355d0f6ce3f5dcdd996459584f70e"
+        },
+        {
+            "@id": "_:4af355d0f6ce3f5dcdd996459584f70e",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2840",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P6366",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Microsoft Academic ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for an object or topic in the Microsoft Academic Graph (until 31 December 2021)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P6366",
+            "claim": "p:P6366",
+            "statementProperty": "ps:P6366",
+            "statementValue": "psv:P6366",
+            "qualifier": "pq:P6366",
+            "qualifierValue": "pqv:P6366",
+            "reference": "pr:P6366",
+            "referenceValue": "prv:P6366",
+            "novalue": "wdno:P6366",
+            "directClaimNormalized": "wdtn:P6366",
+            "statementValueNormalized": "psn:P6366",
+            "qualifierValueNormalized": "pqn:P6366",
+            "referenceValueNormalized": "prn:P6366"
+        },
+        {
+            "@id": "p:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P6366",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P6366",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P6366",
+            "@type": "owl:Class",
+            "complementOf": "_:6f940be26025c3cdbbbed9534272bb72"
+        },
+        {
+            "@id": "_:6f940be26025c3cdbbbed9534272bb72",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P6366",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P8494",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "DSSTOX compound identifier"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "DSSTOX compound identifier"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "DSSTOX compound identifier"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier of a compound in America's Environmental Protection Agency chemical database \"DSSTOX\""
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P8494",
+            "claim": "p:P8494",
+            "statementProperty": "ps:P8494",
+            "statementValue": "psv:P8494",
+            "qualifier": "pq:P8494",
+            "qualifierValue": "pqv:P8494",
+            "reference": "pr:P8494",
+            "referenceValue": "prv:P8494",
+            "novalue": "wdno:P8494",
+            "directClaimNormalized": "wdtn:P8494",
+            "statementValueNormalized": "psn:P8494",
+            "qualifierValueNormalized": "pqn:P8494",
+            "referenceValueNormalized": "prn:P8494"
+        },
+        {
+            "@id": "p:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P8494",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P8494",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P8494",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P8494",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P8494",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P8494",
+            "@type": "owl:Class",
+            "complementOf": "_:4f526bf6aaf641b6ff3a2fa0dc3063d2"
+        },
+        {
+            "@id": "_:4f526bf6aaf641b6ff3a2fa0dc3063d2",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P8494",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P646",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Freebase ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier for a page in the Freebase database. Format: \"/m/0\" followed by 2 to 7 characters. For IDs starting with \"/g/\", use Google Knowledge Graph ID (P2671)"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P646",
+            "claim": "p:P646",
+            "statementProperty": "ps:P646",
+            "statementValue": "psv:P646",
+            "qualifier": "pq:P646",
+            "qualifierValue": "pqv:P646",
+            "reference": "pr:P646",
+            "referenceValue": "prv:P646",
+            "novalue": "wdno:P646",
+            "directClaimNormalized": "wdtn:P646",
+            "statementValueNormalized": "psn:P646",
+            "qualifierValueNormalized": "pqn:P646",
+            "referenceValueNormalized": "prn:P646"
+        },
+        {
+            "@id": "p:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P646",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P646",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P646",
+            "@type": "owl:Class",
+            "complementOf": "_:38db277a4b10d59fd38a3fd995cbe570"
+        },
+        {
+            "@id": "_:38db277a4b10d59fd38a3fd995cbe570",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P646",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2062",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "HSDB ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "HSDB ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "HSDB ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "ID in Hazardous Substances Data Bank"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P2062",
+            "claim": "p:P2062",
+            "statementProperty": "ps:P2062",
+            "statementValue": "psv:P2062",
+            "qualifier": "pq:P2062",
+            "qualifierValue": "pqv:P2062",
+            "reference": "pr:P2062",
+            "referenceValue": "prv:P2062",
+            "novalue": "wdno:P2062",
+            "directClaimNormalized": "wdtn:P2062",
+            "statementValueNormalized": "psn:P2062",
+            "qualifierValueNormalized": "pqn:P2062",
+            "referenceValueNormalized": "prn:P2062"
+        },
+        {
+            "@id": "p:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2062",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2062",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2062",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2062",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2062",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2062",
+            "@type": "owl:Class",
+            "complementOf": "_:ba8cc15483ff9cff058a1e1bd50226c5"
+        },
+        {
+            "@id": "_:ba8cc15483ff9cff058a1e1bd50226c5",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2062",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P373",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Commons category"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Commons category"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Commons category"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "name of the Wikimedia Commons category containing files related to this item (without the prefix \"Category:\")"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P373",
+            "claim": "p:P373",
+            "statementProperty": "ps:P373",
+            "statementValue": "psv:P373",
+            "qualifier": "pq:P373",
+            "qualifierValue": "pqv:P373",
+            "reference": "pr:P373",
+            "referenceValue": "prv:P373",
+            "novalue": "wdno:P373"
+        },
+        {
+            "@id": "p:P373",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P373",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P373",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P373",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P373",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P373",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P373",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P373",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P373",
+            "@type": "owl:Class",
+            "complementOf": "_:3de19c92e209926f02f215095eb4fd12"
+        },
+        {
+            "@id": "_:3de19c92e209926f02f215095eb4fd12",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P373",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q411193",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "sulfone"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "sulfone"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "sulfone"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "any organic compound having a sulfonyl group substituted by two organyl groups"
+            }
+        },
+        {
+            "@id": "wd:P279",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "subclass of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "this item is a subclass (subset) of that item; ALL instances of this item are instances of that item; different from P31 (instance of), e.g.: volcano is a subclass of mountain (and an instance of volcanic landform); Everest is an instance of mountain"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P279",
+            "claim": "p:P279",
+            "statementProperty": "ps:P279",
+            "statementValue": "psv:P279",
+            "qualifier": "pq:P279",
+            "qualifierValue": "pqv:P279",
+            "reference": "pr:P279",
+            "referenceValue": "prv:P279",
+            "novalue": "wdno:P279"
+        },
+        {
+            "@id": "p:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P279",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P279",
+            "@type": "owl:Class",
+            "complementOf": "_:55a0a46aa65f620d17fa7dc3671280d4"
+        },
+        {
+            "@id": "_:55a0a46aa65f620d17fa7dc3671280d4",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P279",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q426809",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "organochlorine compound"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "organochlorine compound"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "organochlorine compound"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "organic compound containing at least one covalent carbon-chlorine bond"
+            }
+        },
+        {
+            "@id": "wd:Q57842052",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "substituted benzene"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "substituted benzene"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "substituted benzene"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "substance class of benzene derivatives"
+            }
+        },
+        {
+            "@id": "wd:P11931",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "CAMEO Chemicals ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "CAMEO Chemicals ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "CAMEO Chemicals ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical in the database supplied by National Oceanic and Atmospheric Administration"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P11931",
+            "claim": "p:P11931",
+            "statementProperty": "ps:P11931",
+            "statementValue": "psv:P11931",
+            "qualifier": "pq:P11931",
+            "qualifierValue": "pqv:P11931",
+            "reference": "pr:P11931",
+            "referenceValue": "prv:P11931",
+            "novalue": "wdno:P11931",
+            "directClaimNormalized": "wdtn:P11931",
+            "statementValueNormalized": "psn:P11931",
+            "qualifierValueNormalized": "pqn:P11931",
+            "referenceValueNormalized": "prn:P11931"
+        },
+        {
+            "@id": "p:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P11931",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P11931",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P11931",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P11931",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P11931",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P11931",
+            "@type": "owl:Class",
+            "complementOf": "_:69b5b0fd949d1bdfa160dc6a5709860c"
+        },
+        {
+            "@id": "_:69b5b0fd949d1bdfa160dc6a5709860c",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P11931",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P11089",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "UniChem compound ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "UniChem compound ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "UniChem compound ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "identifier of a compound in the UniChem database"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P11089",
+            "claim": "p:P11089",
+            "statementProperty": "ps:P11089",
+            "statementValue": "psv:P11089",
+            "qualifier": "pq:P11089",
+            "qualifierValue": "pqv:P11089",
+            "reference": "pr:P11089",
+            "referenceValue": "prv:P11089",
+            "novalue": "wdno:P11089",
+            "directClaimNormalized": "wdtn:P11089",
+            "statementValueNormalized": "psn:P11089",
+            "qualifierValueNormalized": "pqn:P11089",
+            "referenceValueNormalized": "prn:P11089"
+        },
+        {
+            "@id": "p:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P11089",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P11089",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P11089",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P11089",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P11089",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P11089",
+            "@type": "owl:Class",
+            "complementOf": "_:3a2ea2de2646489884529dfd6a232e15"
+        },
+        {
+            "@id": "_:3a2ea2de2646489884529dfd6a232e15",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P11089",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2057",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Human Metabolome Database ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Human Metabolome Database ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Human Metabolome Database ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "ID in Human Metabolome Database"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P2057",
+            "claim": "p:P2057",
+            "statementProperty": "ps:P2057",
+            "statementValue": "psv:P2057",
+            "qualifier": "pq:P2057",
+            "qualifierValue": "pqv:P2057",
+            "reference": "pr:P2057",
+            "referenceValue": "prv:P2057",
+            "novalue": "wdno:P2057",
+            "directClaimNormalized": "wdtn:P2057",
+            "statementValueNormalized": "psn:P2057",
+            "qualifierValueNormalized": "pqn:P2057",
+            "referenceValueNormalized": "prn:P2057"
+        },
+        {
+            "@id": "p:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2057",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2057",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2057",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2057",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2057",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2057",
+            "@type": "owl:Class",
+            "complementOf": "_:3bcf5339bea0c58a8216c467e5523ff7"
+        },
+        {
+            "@id": "_:3bcf5339bea0c58a8216c467e5523ff7",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2057",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2877",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "SureChEMBL ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "SureChEMBL ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "SureChEMBL ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "the chemical compound identifier for the EBI SureChEMBL 'chemical compounds in patents' database"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P2877",
+            "claim": "p:P2877",
+            "statementProperty": "ps:P2877",
+            "statementValue": "psv:P2877",
+            "qualifier": "pq:P2877",
+            "qualifierValue": "pqv:P2877",
+            "reference": "pr:P2877",
+            "referenceValue": "prv:P2877",
+            "novalue": "wdno:P2877",
+            "directClaimNormalized": "wdtn:P2877",
+            "statementValueNormalized": "psn:P2877",
+            "qualifierValueNormalized": "pqn:P2877",
+            "referenceValueNormalized": "prn:P2877"
+        },
+        {
+            "@id": "p:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2877",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2877",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2877",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2877",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2877",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2877",
+            "@type": "owl:Class",
+            "complementOf": "_:6a7ac8662c628054d1eeb8d63459775c"
+        },
+        {
+            "@id": "_:6a7ac8662c628054d1eeb8d63459775c",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2877",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P9405",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "NMRShiftDB structure ID"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "NMRShiftDB structure ID"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "NMRShiftDB structure ID"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "structure identifiers in the NMRShiftDB"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P9405",
+            "claim": "p:P9405",
+            "statementProperty": "ps:P9405",
+            "statementValue": "psv:P9405",
+            "qualifier": "pq:P9405",
+            "qualifierValue": "pqv:P9405",
+            "reference": "pr:P9405",
+            "referenceValue": "prv:P9405",
+            "novalue": "wdno:P9405",
+            "directClaimNormalized": "wdtn:P9405",
+            "statementValueNormalized": "psn:P9405",
+            "qualifierValueNormalized": "pqn:P9405",
+            "referenceValueNormalized": "prn:P9405"
+        },
+        {
+            "@id": "p:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P9405",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P9405",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P9405",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P9405",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P9405",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P9405",
+            "@type": "owl:Class",
+            "complementOf": "_:a755430a662f8fc3710fd6daade65744"
+        },
+        {
+            "@id": "_:a755430a662f8fc3710fd6daade65744",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P9405",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q116031405",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Global Substance Registration System"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Global Substance Registration System"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Global Substance Registration System"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "public online database for chemical substances, operated by FDA"
+            }
+        },
+        {
+            "@id": "wd:P248",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "stated in"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "stated in"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "stated in"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805; for the type of document in which a claim is made use P3865"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P248",
+            "claim": "p:P248",
+            "statementProperty": "ps:P248",
+            "statementValue": "psv:P248",
+            "qualifier": "pq:P248",
+            "qualifierValue": "pqv:P248",
+            "reference": "pr:P248",
+            "referenceValue": "prv:P248",
+            "novalue": "wdno:P248"
+        },
+        {
+            "@id": "p:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P248",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P248",
+            "@type": "owl:Class",
+            "complementOf": "_:a2b31078afaf5caae811f4ac846f5f35"
+        },
+        {
+            "@id": "_:a2b31078afaf5caae811f4ac846f5f35",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P248",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q1860",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "English"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "English"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "English"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "West Germanic language"
+            }
+        },
+        {
+            "@id": "wd:P407",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "language of work or name"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "language of work or name"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "language of work or name"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name (for persons use \"native language\" (P103) and \"languages spoken, written or signed\" (P1412))"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P407",
+            "claim": "p:P407",
+            "statementProperty": "ps:P407",
+            "statementValue": "psv:P407",
+            "qualifier": "pq:P407",
+            "qualifierValue": "pqv:P407",
+            "reference": "pr:P407",
+            "referenceValue": "prv:P407",
+            "novalue": "wdno:P407"
+        },
+        {
+            "@id": "p:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P407",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P407",
+            "@type": "owl:Class",
+            "complementOf": "_:7ecb658fb35d6b90057eeb2a2a932c62"
+        },
+        {
+            "@id": "_:7ecb658fb35d6b90057eeb2a2a932c62",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P407",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P1476",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "title"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "title"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "title"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "published name of a work, such as a newspaper article, a literary work, piece of music, a website, or a performance work"
+            },
+            "propertyType": "http://wikiba.se/ontology#Monolingualtext",
+            "directClaim": "wdt:P1476",
+            "claim": "p:P1476",
+            "statementProperty": "ps:P1476",
+            "statementValue": "psv:P1476",
+            "qualifier": "pq:P1476",
+            "qualifierValue": "pqv:P1476",
+            "reference": "pr:P1476",
+            "referenceValue": "prv:P1476",
+            "novalue": "wdno:P1476"
+        },
+        {
+            "@id": "p:P1476",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1476",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1476",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1476",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1476",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P1476",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P1476",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P1476",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P1476",
+            "@type": "owl:Class",
+            "complementOf": "_:d280eacd08390593b606f11be98380c0"
+        },
+        {
+            "@id": "_:d280eacd08390593b606f11be98380c0",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1476",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P813",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "retrieved"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "retrieved"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "retrieved"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "date or point in time that information was retrieved from a database or website (for use in online sources)"
+            },
+            "propertyType": "http://wikiba.se/ontology#Time",
+            "directClaim": "wdt:P813",
+            "claim": "p:P813",
+            "statementProperty": "ps:P813",
+            "statementValue": "psv:P813",
+            "qualifier": "pq:P813",
+            "qualifierValue": "pqv:P813",
+            "reference": "pr:P813",
+            "referenceValue": "prv:P813",
+            "novalue": "wdno:P813"
+        },
+        {
+            "@id": "p:P813",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P813",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P813",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P813",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P813",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P813",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P813",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P813",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P813",
+            "@type": "owl:Class",
+            "complementOf": "_:a84dea0fd38ed74f926ea4bdef778770"
+        },
+        {
+            "@id": "_:a84dea0fd38ed74f926ea4bdef778770",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P813",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q18907859",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "CAS Common Chemistry"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "CAS Common Chemistry"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "CAS Common Chemistry"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "online database with CAS registry numbers by the Chemical Abstract Service"
+            }
+        },
+        {
+            "@id": "wd:P854",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "reference URL"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "reference URL"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "reference URL"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "should be used for Internet URLs as references. Use \"Wikimedia import URL\" (P4656) for imports from WMF sites"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P854",
+            "claim": "p:P854",
+            "statementProperty": "ps:P854",
+            "statementValue": "psv:P854",
+            "qualifier": "pq:P854",
+            "qualifierValue": "pqv:P854",
+            "reference": "pr:P854",
+            "referenceValue": "prv:P854",
+            "novalue": "wdno:P854"
+        },
+        {
+            "@id": "p:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P854",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P854",
+            "@type": "owl:Class",
+            "complementOf": "_:7317e7e5a3edc1980ecfe7616bb5fa1d"
+        },
+        {
+            "@id": "_:7317e7e5a3edc1980ecfe7616bb5fa1d",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P854",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q278487",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "PubChem"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "PubChem"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "PubChem"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical information database"
+            }
+        },
+        {
+            "@id": "wd:Q2311683",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "ChemSpider"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ChemSpider"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ChemSpider"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "database of chemicals owned by the Royal Society of Chemistry; see P661"
+            }
+        },
+        {
+            "@id": "wd:Q21445422",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "mul",
+                "@value": "InChIKey"
+            },
+            "prefLabel": {
+                "@language": "mul",
+                "@value": "InChIKey"
+            },
+            "name": {
+                "@language": "mul",
+                "@value": "InChIKey"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical identifier"
+            }
+        },
+        {
+            "@id": "wd:P11797",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "matched by identifier from"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "matched by identifier from"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "matched by identifier from"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "this external ID was added because the following link was presented in both the external database and the Wikidata item"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P11797",
+            "claim": "p:P11797",
+            "statementProperty": "ps:P11797",
+            "statementValue": "psv:P11797",
+            "qualifier": "pq:P11797",
+            "qualifierValue": "pqv:P11797",
+            "reference": "pr:P11797",
+            "referenceValue": "prv:P11797",
+            "novalue": "wdno:P11797"
+        },
+        {
+            "@id": "p:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P11797",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P11797",
+            "@type": "owl:Class",
+            "complementOf": "_:e02a0f59b610ada8055358e3c10e0300"
+        },
+        {
+            "@id": "_:e02a0f59b610ada8055358e3c10e0300",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P11797",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q59911453",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard database"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard database"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ECHA Substance Infocard database"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "public online database for chemical substances, operated by ECHA"
+            }
+        },
+        {
+            "@id": "wd:P1683",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "quotation"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "quotation"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "quotation"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "quotation supporting the statement claim (to be used in the reference or qualifier field only, no quote marks)"
+            },
+            "propertyType": "http://wikiba.se/ontology#Monolingualtext",
+            "directClaim": "wdt:P1683",
+            "claim": "p:P1683",
+            "statementProperty": "ps:P1683",
+            "statementValue": "psv:P1683",
+            "qualifier": "pq:P1683",
+            "qualifierValue": "pqv:P1683",
+            "reference": "pr:P1683",
+            "referenceValue": "prv:P1683",
+            "novalue": "wdno:P1683"
+        },
+        {
+            "@id": "p:P1683",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1683",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1683",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1683",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1683",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P1683",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P1683",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P1683",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P1683",
+            "@type": "owl:Class",
+            "complementOf": "_:cc30f54626882deb822d8f33bb793931"
+        },
+        {
+            "@id": "_:cc30f54626882deb822d8f33bb793931",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1683",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q6120337",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "ChEMBL"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "ChEMBL"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "ChEMBL"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "chemical database of bioactive molecules with drug-like properties"
+            }
+        },
+        {
+            "@id": "wd:Q28061352",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Mapping file of InChIStrings, InChIKeys and DTXSIDs for the EPA CompTox Dashboard"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Mapping file of InChIStrings, InChIKeys and DTXSIDs for the EPA CompTox Dashboard"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Mapping file of InChIStrings, InChIKeys and DTXSIDs for the EPA CompTox Dashboard"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "data set on Figshare"
+            }
+        },
+        {
+            "@id": "wd:Q69644056",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Jean-Claude Bradley Open Melting Point Dataset"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Jean-Claude Bradley Open Melting Point Dataset"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Jean-Claude Bradley Open Melting Point Dataset"
+            }
+        },
+        {
+            "@id": "wd:Q5687720",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Hazardous Substances Data Bank"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Hazardous Substances Data Bank"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Hazardous Substances Data Bank"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "database about hazardous chemical substances"
+            }
+        },
+        {
+            "@id": "wd:P577",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "date or point in time when a work was first published or released"
+            },
+            "propertyType": "http://wikiba.se/ontology#Time",
+            "directClaim": "wdt:P577",
+            "claim": "p:P577",
+            "statementProperty": "ps:P577",
+            "statementValue": "psv:P577",
+            "qualifier": "pq:P577",
+            "qualifierValue": "pqv:P577",
+            "reference": "pr:P577",
+            "referenceValue": "prv:P577",
+            "novalue": "wdno:P577"
+        },
+        {
+            "@id": "p:P577",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P577",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P577",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P577",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P577",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P577",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P577",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P577",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P577",
+            "@type": "owl:Class",
+            "complementOf": "_:eca5fcd2c546d0e0c20e05f61e0aa797"
+        },
+        {
+            "@id": "_:eca5fcd2c546d0e0c20e05f61e0aa797",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P577",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q24170711",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "UniChem"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "UniChem"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "UniChem"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "database of chemical entities"
+            }
+        },
+        {
+            "@id": "wd:Q113993940",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "inferred from InChIKey"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "inferred from InChIKey"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "inferred from InChIKey"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "heuristic for sourcing Wikidata statements using the given InChIKey"
+            }
+        },
+        {
+            "@id": "wd:P887",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "based on heuristic"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "based on heuristic"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "based on heuristic"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "indicates that the property value is determined based on some heuristic (Q201413); to be used as source"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P887",
+            "claim": "p:P887",
+            "statementProperty": "ps:P887",
+            "statementValue": "psv:P887",
+            "qualifier": "pq:P887",
+            "qualifierValue": "pqv:P887",
+            "reference": "pr:P887",
+            "referenceValue": "prv:P887",
+            "novalue": "wdno:P887"
+        },
+        {
+            "@id": "p:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P887",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P887",
+            "@type": "owl:Class",
+            "complementOf": "_:e011110d3fc77cb743b2b08b63c4f19a"
+        },
+        {
+            "@id": "_:e011110d3fc77cb743b2b08b63c4f19a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P887",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wdv:713534bf5f9f0d4b1682e73d20a159ca",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+285.962",
+            "quantityUnit": "http://www.wikidata.org/entity/Q483261"
+        },
+        {
+            "@id": "wdv:5dd913c5169cd9c01689cb7a655f31d5",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+0.0000000000000000000000004748509963256",
+            "quantityUnit": "http://www.wikidata.org/entity/Q11570",
+            "quantityNormalized": "wdv:5dd913c5169cd9c01689cb7a655f31d5"
+        },
+        {
+            "@id": "wdv:713534bf5f9f0d4b1682e73d20a159ca",
+            "quantityNormalized": "wdv:5dd913c5169cd9c01689cb7a655f31d5"
+        },
+        {
+            "@id": "wdv:03ec47cf117b52442678a582f8cf6088",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+149.0",
+            "quantityUnit": "http://www.wikidata.org/entity/Q25267"
+        },
+        {
+            "@id": "wdv:27adaf85bb99263fc14d80d2eeb2a3fc",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2016-10-14T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        {
+            "@id": "wdv:5382bcd3b178a74f4152e1861a2ea938",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2021-04-09T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        {
+            "@id": "wdv:04c940409e6502fc2825be6eefdf33c4",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2018-12-27T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        {
+            "@id": "wdv:c7296ee602adc0bb62f67f340fdad3ff",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2019-10-28T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        {
+            "@id": "wdv:8a90af06a7915c7523c0c749aea50480",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2021-05-10T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        {
+            "@id": "wdref:79a9729da731d1684aa352297d24b0aa68758a05",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q116031405",
+            "pr:P652": "5U49794253",
+            "P407": "wd:Q1860",
+            "P1476": {
+                "@language": "en",
+                "@value": "4,4'-dichlorodiphenyl sulfone"
+            },
+            "P813": "2016-10-14T00:00:00Z",
+            "prv:P813": "wdv:27adaf85bb99263fc14d80d2eeb2a3fc"
+        },
+        {
+            "@id": "wdref:75945bac85aa540db6cd1877526a20eaeceef3ab",
+            "@type": "wikibase:Reference",
+            "pr:P235": "GPAPPPVRLPGFEQ-UHFFFAOYSA-N",
+            "P248": "wd:Q18907859",
+            "P813": "2021-04-09T00:00:00Z",
+            "prv:P813": "wdv:5382bcd3b178a74f4152e1861a2ea938",
+            "P854": "https://commonchemistry.cas.org/detail?cas_rn=80-07-9"
+        },
+        {
+            "@id": "wdref:a0b3c7a2067e32d20c8c5a414ad84e7c80c45cdd",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q278487",
+            "pr:P662": "6625",
+            "prn:P662": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID6625",
+            "P407": "wd:Q1860",
+            "P1476": {
+                "@language": "en",
+                "@value": "4,4'-DICHLORODIPHENYL SULFONE"
+            },
+            "P813": "2016-10-14T00:00:00Z",
+            "prv:P813": "wdv:27adaf85bb99263fc14d80d2eeb2a3fc"
+        },
+        {
+            "@id": "wdref:c2c2e40f04bf58c6515050c6718d7210be1887ef",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q2311683",
+            "pr:P661": "6373",
+            "prn:P661": "http://rdf.chemspider.com/6373",
+            "P407": "wd:Q1860",
+            "P1476": {
+                "@language": "en",
+                "@value": "Bis(4-chlorophenyl) sulfone"
+            },
+            "P813": "2016-10-14T00:00:00Z",
+            "prv:P813": "wdv:27adaf85bb99263fc14d80d2eeb2a3fc"
+        },
+        {
+            "@id": "wdref:b4d1f5bf322857b25697b7b87fed7fec4273feed",
+            "@type": "wikibase:Reference",
+            "P11797": "wd:Q21445422",
+            "pr:P235": "GPAPPPVRLPGFEQ-UHFFFAOYSA-N"
+        },
+        {
+            "@id": "wdref:2d00db337527ff246418d43cd72facb5b108cade",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q59911453",
+            "pr:P2566": "100.001.135",
+            "P813": "2018-12-27T00:00:00Z",
+            "prv:P813": "wdv:04c940409e6502fc2825be6eefdf33c4",
+            "P1476": {
+                "@language": "en",
+                "@value": "Bis(4-chlorophenyl) sulphone"
+            },
+            "P1683": {
+                "@language": "en",
+                "@value": "CAS no.: 80-07-9"
+            }
+        },
+        {
+            "@id": "wdref:8b47ac9351a1c7787a0ed248f266d789a5a0d0a3",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q6120337",
+            "pr:P592": "CHEMBL1334784",
+            "prn:P592": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1334784",
+            "P407": "wd:Q1860",
+            "P1476": {
+                "@language": "en",
+                "@value": "CHEMBL1334784"
+            },
+            "P813": "2016-10-14T00:00:00Z",
+            "prv:P813": "wdv:27adaf85bb99263fc14d80d2eeb2a3fc"
+        },
+        {
+            "@id": "wdref:b9fca783197d76da3ba023673fc10074b598f1f3",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q28061352"
+        },
+        {
+            "@id": "wdref:61657b2359e33925b7611d86717f94a815e6afeb",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q69644056"
+        },
+        {
+            "@id": "wdref:cb6606ca1ab3f12981031f347405c4d5ddec2572",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q5687720",
+            "pr:P2062": "5233",
+            "P577": "2019-10-28T00:00:00Z",
+            "prv:P577": "wdv:c7296ee602adc0bb62f67f340fdad3ff",
+            "P1476": {
+                "@language": "en",
+                "@value": "4,4'-DICHLORODIPHENYL SULFONE"
+            },
+            "P813": "2021-05-10T00:00:00Z",
+            "prv:P813": "wdv:8a90af06a7915c7523c0c749aea50480"
+        },
+        {
+            "@id": "wdref:cc8ec1228e82bf94b50726dc9469263af9f050ad",
+            "@type": "wikibase:Reference",
+            "P248": "wd:Q24170711"
+        },
+        {
+            "@id": "wdref:aa274789f1118d04384e5e8f92df8bfcc1c4bf52",
+            "@type": "wikibase:Reference",
+            "P887": "wd:Q113993940"
+        }
+    ],
+    "@context": {
+        "data": "https://www.wikidata.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "wd": "http://www.wikidata.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "statements": {
+            "@id": "wikibase:statements"
+        },
+        "sitelinks": {
+            "@id": "wikibase:sitelinks"
+        },
+        "identifiers": {
+            "@id": "wikibase:identifiers"
+        },
+        "inLanguage": {
+            "@id": "schema:inLanguage"
+        },
+        "isPartOf": {
+            "@id": "schema:isPartOf",
+            "@type": "@id"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "wikiGroup": {
+            "@id": "wikibase:wikiGroup"
+        },
+        "wdt": "http://www.wikidata.org/prop/direct/",
+        "P31": {
+            "@id": "wdt:P31",
+            "@type": "@id"
+        },
+        "P231": {
+            "@id": "wdt:P231"
+        },
+        "P274": {
+            "@id": "wdt:P274"
+        },
+        "P661": {
+            "@id": "wdt:P661"
+        },
+        "wdtn": "http://www.wikidata.org/prop/direct-normalized/",
+        "wdtn:P661": {
+            "@type": "@id"
+        },
+        "P652": {
+            "@id": "wdt:P652"
+        },
+        "P679": {
+            "@id": "wdt:P679"
+        },
+        "P117": {
+            "@id": "wdt:P117",
+            "@type": "@id"
+        },
+        "P2566": {
+            "@id": "wdt:P2566"
+        },
+        "P234": {
+            "@id": "wdt:P234"
+        },
+        "P235": {
+            "@id": "wdt:P235"
+        },
+        "P233": {
+            "@id": "wdt:P233"
+        },
+        "P662": {
+            "@id": "wdt:P662"
+        },
+        "wdtn:P662": {
+            "@type": "@id"
+        },
+        "P232": {
+            "@id": "wdt:P232"
+        },
+        "P2067": {
+            "@id": "wdt:P2067",
+            "@type": "xsd:decimal"
+        },
+        "P592": {
+            "@id": "wdt:P592"
+        },
+        "wdtn:P592": {
+            "@type": "@id"
+        },
+        "P3117": {
+            "@id": "wdt:P3117"
+        },
+        "P2101": {
+            "@id": "wdt:P2101",
+            "@type": "xsd:decimal"
+        },
+        "P2840": {
+            "@id": "wdt:P2840"
+        },
+        "P6366": {
+            "@id": "wdt:P6366"
+        },
+        "wdtn:P6366": {
+            "@type": "@id"
+        },
+        "P8494": {
+            "@id": "wdt:P8494"
+        },
+        "P646": {
+            "@id": "wdt:P646"
+        },
+        "P2062": {
+            "@id": "wdt:P2062"
+        },
+        "P373": {
+            "@id": "wdt:P373"
+        },
+        "P279": {
+            "@id": "wdt:P279",
+            "@type": "@id"
+        },
+        "P11931": {
+            "@id": "wdt:P11931"
+        },
+        "P11089": {
+            "@id": "wdt:P11089"
+        },
+        "P2057": {
+            "@id": "wdt:P2057"
+        },
+        "P2877": {
+            "@id": "wdt:P2877"
+        },
+        "P9405": {
+            "@id": "wdt:P9405"
+        },
+        "p": "http://www.wikidata.org/prop/",
+        "wds": "http://www.wikidata.org/entity/statement/",
+        "p:P31": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "http://www.wikidata.org/prop/statement/",
+        "ps:P31": {
+            "@type": "@id"
+        },
+        "p:P231": {
+            "@type": "@id"
+        },
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+            "@id": "prov:wasDerivedFrom",
+            "@type": "@id"
+        },
+        "wdref": "http://www.wikidata.org/reference/",
+        "pr": "http://www.wikidata.org/prop/reference/",
+        "P248": {
+            "@id": "pr:P248",
+            "@type": "@id"
+        },
+        "P407": {
+            "@id": "pr:P407",
+            "@type": "@id"
+        },
+        "P1476": {
+            "@id": "pr:P1476"
+        },
+        "P813": {
+            "@id": "pr:P813",
+            "@type": "xsd:dateTime"
+        },
+        "prv": "http://www.wikidata.org/prop/reference/value/",
+        "wdv": "http://www.wikidata.org/value/",
+        "prv:P813": {
+            "@type": "@id"
+        },
+        "timeValue": {
+            "@id": "wikibase:timeValue",
+            "@type": "xsd:dateTime"
+        },
+        "timePrecision": {
+            "@id": "wikibase:timePrecision"
+        },
+        "timeTimezone": {
+            "@id": "wikibase:timeTimezone"
+        },
+        "timeCalendarModel": {
+            "@id": "wikibase:timeCalendarModel",
+            "@type": "@id"
+        },
+        "P854": {
+            "@id": "pr:P854",
+            "@type": "@id"
+        },
+        "p:P274": {
+            "@type": "@id"
+        },
+        "prn": "http://www.wikidata.org/prop/reference/value-normalized/",
+        "prn:P662": {
+            "@type": "@id"
+        },
+        "p:P661": {
+            "@type": "@id"
+        },
+        "psn": "http://www.wikidata.org/prop/statement/value-normalized/",
+        "psn:P661": {
+            "@type": "@id"
+        },
+        "prn:P661": {
+            "@type": "@id"
+        },
+        "p:P652": {
+            "@type": "@id"
+        },
+        "P11797": {
+            "@id": "pr:P11797",
+            "@type": "@id"
+        },
+        "p:P679": {
+            "@type": "@id"
+        },
+        "p:P117": {
+            "@type": "@id"
+        },
+        "ps:P117": {
+            "@type": "@id"
+        },
+        "p:P2566": {
+            "@type": "@id"
+        },
+        "P1683": {
+            "@id": "pr:P1683"
+        },
+        "p:P234": {
+            "@type": "@id"
+        },
+        "p:P235": {
+            "@type": "@id"
+        },
+        "p:P233": {
+            "@type": "@id"
+        },
+        "p:P662": {
+            "@type": "@id"
+        },
+        "psn:P662": {
+            "@type": "@id"
+        },
+        "p:P232": {
+            "@type": "@id"
+        },
+        "p:P2067": {
+            "@type": "@id"
+        },
+        "ps:P2067": {
+            "@type": "xsd:decimal"
+        },
+        "psv": "http://www.wikidata.org/prop/statement/value/",
+        "psv:P2067": {
+            "@type": "@id"
+        },
+        "quantityAmount": {
+            "@id": "wikibase:quantityAmount",
+            "@type": "xsd:decimal"
+        },
+        "quantityUnit": {
+            "@id": "wikibase:quantityUnit",
+            "@type": "@id"
+        },
+        "psn:P2067": {
+            "@type": "@id"
+        },
+        "quantityNormalized": {
+            "@id": "wikibase:quantityNormalized",
+            "@type": "@id"
+        },
+        "p:P592": {
+            "@type": "@id"
+        },
+        "psn:P592": {
+            "@type": "@id"
+        },
+        "prn:P592": {
+            "@type": "@id"
+        },
+        "p:P3117": {
+            "@type": "@id"
+        },
+        "p:P2101": {
+            "@type": "@id"
+        },
+        "ps:P2101": {
+            "@type": "xsd:decimal"
+        },
+        "psv:P2101": {
+            "@type": "@id"
+        },
+        "p:P2840": {
+            "@type": "@id"
+        },
+        "p:P6366": {
+            "@type": "@id"
+        },
+        "psn:P6366": {
+            "@type": "@id"
+        },
+        "p:P8494": {
+            "@type": "@id"
+        },
+        "p:P646": {
+            "@type": "@id"
+        },
+        "p:P2062": {
+            "@type": "@id"
+        },
+        "P577": {
+            "@id": "pr:P577",
+            "@type": "xsd:dateTime"
+        },
+        "prv:P577": {
+            "@type": "@id"
+        },
+        "p:P373": {
+            "@type": "@id"
+        },
+        "p:P279": {
+            "@type": "@id"
+        },
+        "ps:P279": {
+            "@type": "@id"
+        },
+        "p:P11931": {
+            "@type": "@id"
+        },
+        "p:P11089": {
+            "@type": "@id"
+        },
+        "p:P2057": {
+            "@type": "@id"
+        },
+        "P887": {
+            "@id": "pr:P887",
+            "@type": "@id"
+        },
+        "p:P2877": {
+            "@type": "@id"
+        },
+        "p:P9405": {
+            "@type": "@id"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "altLabel": {
+            "@id": "skos:altLabel"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "pq": "http://www.wikidata.org/prop/qualifier/",
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "http://www.wikidata.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "http://www.wikidata.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        },
+        "directClaimNormalized": {
+            "@id": "wikibase:directClaimNormalized",
+            "@type": "@id"
+        },
+        "statementValueNormalized": {
+            "@id": "wikibase:statementValueNormalized",
+            "@type": "@id"
+        },
+        "qualifierValueNormalized": {
+            "@id": "wikibase:qualifierValueNormalized",
+            "@type": "@id"
+        },
+        "pqn": "http://www.wikidata.org/prop/qualifier/value-normalized/",
+        "referenceValueNormalized": {
+            "@id": "wikibase:referenceValueNormalized",
+            "@type": "@id"
+        }
+    }
+}
