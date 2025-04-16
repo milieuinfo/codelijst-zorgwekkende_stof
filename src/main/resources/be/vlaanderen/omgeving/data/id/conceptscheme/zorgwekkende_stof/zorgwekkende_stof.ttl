@@ -48181,11 +48181,11 @@ zorgwekkende_stof:WFD_Aanwezig a skos:Concept, oa:Motivation;
     skos:prefLabel "wfd"@nl;
     skos:semanticRelation zorgwekkende_stof:zorgwekkende_stof.
 zorgwekkende_stof:zorgwekkende_stof a skos:Concept;
-    skos:definition "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen."@nl;
+    skos:definition "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen."@nl;
     skos:inScheme conceptscheme:zorgwekkende_stof;
     skos:narrower zorgwekkende_stof:CLP_Aanwezig, zorgwekkende_stof:Gewas_Aanwezig, zorgwekkende_stof:OSPAR_Aanwezig, zorgwekkende_stof:POP_Aanwezig, zorgwekkende_stof:Restrict_Aanwezig, zorgwekkende_stof:SVHC_Aanwezig, zorgwekkende_stof:WFD_Aanwezig;
     skos:narrowerTransitive zorgwekkende_stof:CLP_Aanwezig, zorgwekkende_stof:Gewas_Aanwezig, zorgwekkende_stof:OSPAR_Aanwezig, zorgwekkende_stof:POP_Aanwezig, zorgwekkende_stof:Restrict_Aanwezig, zorgwekkende_stof:SVHC_Aanwezig, zorgwekkende_stof:WFD_Aanwezig;
-    skos:note "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen."@nl;
+    skos:note "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen."@nl;
     skos:prefLabel "Zorgwekkende stof"@nl;
     skos:semanticRelation zorgwekkende_stof:CLP_Aanwezig, zorgwekkende_stof:Gewas_Aanwezig, zorgwekkende_stof:OSPAR_Aanwezig, zorgwekkende_stof:POP_Aanwezig, zorgwekkende_stof:Restrict_Aanwezig, zorgwekkende_stof:SVHC_Aanwezig, zorgwekkende_stof:WFD_Aanwezig;
     skos:topConceptOf conceptscheme:zorgwekkende_stof.
@@ -48193,4 +48193,4 @@ conceptscheme:zorgwekkende_stof a skos:ConceptScheme;
     skos:definition "todo"@nl;
     skos:hasTopConcept zorgwekkende_stof:zorgwekkende_stof;
     skos:note "todo"@nl;
-    skos:prefLabel "De lijst van begrippen rond het feit dat de Vlaamse overheid bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen als zorgwekkend bestempeld."@nl.
+    skos:prefLabel "De lijst van begrippen rond het feit dat de Vlaamse overheid bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen als zorgwekkend bestempeld."@nl.

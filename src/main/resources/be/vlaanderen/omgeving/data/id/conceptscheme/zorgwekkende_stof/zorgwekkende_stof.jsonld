@@ -87331,7 +87331,7 @@
         {
             "id": "zorgwekkende_stof:zorgwekkende_stof",
             "type": "skos:Concept",
-            "definition": "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen.",
+            "definition": "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen.",
             "inScheme": "conceptscheme:zorgwekkende_stof",
             "narrower": [
                 "zorgwekkende_stof:CLP_Aanwezig",
@@ -87351,7 +87351,7 @@
                 "zorgwekkende_stof:SVHC_Aanwezig",
                 "zorgwekkende_stof:WFD_Aanwezig"
             ],
-            "note": "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen.",
+            "note": "Een zorgwekkende stof is een label dat de Vlaamse overheid toekent aan bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen.",
             "prefLabel": "Zorgwekkende stof",
             "semanticRelation": [
                 "zorgwekkende_stof:CLP_Aanwezig",
@@ -87370,7 +87370,7 @@
             "definition": "todo",
             "hasTopConcept": "zorgwekkende_stof:zorgwekkende_stof",
             "note": "todo",
-            "prefLabel": "De lijst van begrippen rond het feit dat de Vlaamse overheid bepaalde chemische stoffen stoffen, groepen van stoffen  of mengsels van stoffen als zorgwekkend bestempeld."
+            "prefLabel": "De lijst van begrippen rond het feit dat de Vlaamse overheid bepaalde chemische stoffen, groepen van stoffen of mengsels van stoffen als zorgwekkend bestempeld."
         }
     ]
 }
