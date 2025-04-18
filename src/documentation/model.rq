@@ -13,7 +13,7 @@ construct
 }
 
 where
-{graph <>{
+{
     ?s a ?type ; ?p ?o .
     optional{?o a ?type2}
     bind(  COALESCE(
@@ -22,6 +22,6 @@ where
     #IF(?o = rdf:nil, "rdf:nil", 1/0),
     "rdfs:Resource"
     )  as ?datatype)
-}
+
 
 }
