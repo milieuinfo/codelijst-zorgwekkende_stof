@@ -38,7 +38,7 @@ collapse_df_on_pipe <- function(df, id_col) {
 
 setwd('/home/gehau/git/codelijst-zorgwekkende_stof/src/source')
 
-df = read.csv("ZS-Basislijst.csv", header = TRUE)
+df = read.csv("ZS-Basislijst.csv", header = TRUE)%>% mutate_all(as.character)
 #df6 = read.csv("codelijst-source.csv", header = TRUE)%>%select(hasTarget,pubchem)%>%unique()
 #df5 <- merge(x = df, y = df6, by = "hasTarget", all.x = TRUE)%>% mutate_all(as.character)
 #df5 <- df5 %>% group_by(across(all_of('hasTarget'))) %>%
@@ -54,7 +54,7 @@ df1 <- df%>%
   mutate(OSPAR_Aanwezig = ifelse(as.character(OSPAR_Aanwezig) == "1", "zorgwekkende_stof:OSPAR_Aanwezig", NA))%>% 
   mutate(WFD_Aanwezig = ifelse(as.character(WFD_Aanwezig) == "1", "zorgwekkende_stof:WFD_Aanwezig", NA))%>% 
   mutate(Gewas_Aanwezig = ifelse(as.character(Gewas_Aanwezig) == "1", "zorgwekkende_stof:Gewas_Aanwezig", NA))%>% 
-  mutate(Biociden_Aanwezig = ifelse(as.character(CLP_Aanwezig) == "1", "zorgwekkende_stof:Biociden_Aanwezig", NA))%>% 
+  mutate(Biociden_Aanwezig = ifelse(as.character(Biociden_Aanwezig) == "1", "zorgwekkende_stof:Biociden_Aanwezig", NA))%>% 
   unite( motivatedBy, CLP_Aanwezig, SVHC_Aanwezig, Restrict_Aanwezig, POP_Aanwezig, OSPAR_Aanwezig, WFD_Aanwezig, Gewas_Aanwezig, Biociden_Aanwezig, sep = "|", remove = TRUE, na.rm = TRUE)%>%
   separate_rows("motivatedBy", sep = "\\|")%>%
   unite(uri, motivatedBy , hasTarget, sep = "_", remove = FALSE, na.rm = TRUE)
