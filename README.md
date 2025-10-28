@@ -6,7 +6,7 @@ Lijst van zorgwekkende chemische stoffen.
 
 
 ## Model
-![Model](src/documentation/model.png)
+![Model](src/documentation/image.jpg)
 
 ## Gebruik
 
