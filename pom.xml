@@ -9,7 +9,7 @@
   <packaging>jar</packaging>
   <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
   <artifactId>codelijst-zorgwekkende_stof</artifactId>
-  <version>0.2.3-SNAPSHOT</version>
+  <version>0.2.4-SNAPSHOT</version>
   <name>codelijst-zorgwekkende_stof</name>
   <description />
   <scm>
